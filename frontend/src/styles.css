@@ -574,3 +574,263 @@ nav {
     display: none;
   }
 }
+
+/* ==========================================================================
+   EVIDENCE PAGE — Styles for EvidencePage.jsx
+   All classNames already exist in the JSX; these rules were missing.
+   ========================================================================== */
+
+/* ---- Page container (shared by HomePage + EvidencePage) ---- */
+.anchor-page {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 38px 42px 70px;
+}
+
+/* ---- Page header ---- */
+.page-header {
+  margin-bottom: 36px;
+}
+
+.page-header h1 {
+  font-size: 42px;
+  letter-spacing: -.045em;
+  margin: 8px 0 12px;
+}
+
+.page-header p {
+  max-width: 680px;
+  color: #707780;
+  font-size: 15px;
+  line-height: 1.65;
+}
+
+/* ---- Loading / empty / error states ---- */
+.state-card {
+  text-align: center;
+  padding: 40px 24px;
+  color: #9299a1;
+  font-size: 14px;
+  font-weight: 600;
+  background: white;
+  border: 1px solid #e0e3e7;
+  border-radius: 15px;
+  margin-bottom: 18px;
+}
+
+.state-card.error {
+  background: #fff8e8;
+  border-color: #ecdba9;
+  color: #735a17;
+  text-align: left;
+}
+
+.state-card.error strong {
+  display: block;
+  margin-bottom: 6px;
+}
+
+.state-card.error p {
+  margin: 0;
+  font-size: 13px;
+}
+
+/* ---- Evidence card spacing between stacked cards ---- */
+.evidence-card + .evidence-card {
+  margin-top: 24px;
+}
+
+/* ---- Evidence card: header (title + badge row) ---- */
+.evidence-card > header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 16px;
+  margin-bottom: 20px;
+}
+
+/* ---- Evidence card: headline stat ---- */
+.evidence-card .headline {
+  background: #f4f5f7;
+  border-radius: 11px;
+  padding: 18px 20px;
+  margin-bottom: 22px;
+  display: flex;
+  align-items: baseline;
+  gap: 14px;
+  flex-wrap: wrap;
+}
+
+.evidence-card .headline strong {
+  font-size: 32px;
+  font-weight: 900;
+  letter-spacing: -.04em;
+  color: #17191c;
+}
+
+.evidence-card .headline span {
+  font-size: 14px;
+  color: #5c636b;
+  line-height: 1.5;
+}
+
+/* ---- Evidence card: facts definition list ---- */
+.evidence-card .facts {
+  margin: 0 0 22px;
+  padding: 0;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0;
+}
+
+.evidence-card .facts > div {
+  display: flex;
+  flex-direction: column;
+  padding: 10px 0;
+  border-bottom: 1px solid #eceef0;
+}
+
+.evidence-card .facts dt {
+  font-size: 10px;
+  font-weight: 800;
+  letter-spacing: .12em;
+  color: #9299a1;
+  text-transform: uppercase;
+  margin-bottom: 3px;
+}
+
+.evidence-card .facts dd {
+  margin: 0;
+  font-size: 13px;
+  font-weight: 600;
+  color: #17191c;
+}
+
+/* ---- Evidence card: citation ---- */
+.evidence-card .citation {
+  font-style: italic;
+  font-size: 12px;
+  color: #9299a1;
+  line-height: 1.6;
+  border-left: 3px solid #e0e3e7;
+  padding-left: 14px;
+  margin: 0 0 6px;
+}
+
+/* ---- Evidence card: study link ---- */
+.evidence-card a {
+  color: #17191c;
+  font-size: 13px;
+  font-weight: 700;
+  text-decoration: none;
+  border-bottom: 1.5px solid #c8ccd0;
+  padding-bottom: 1px;
+  transition: border-color .15s;
+}
+
+.evidence-card a:hover {
+  border-color: #17191c;
+}
+
+/* ---- Evidence card: findings & limits sections ---- */
+.evidence-card > section {
+  margin-top: 24px;
+  padding-top: 20px;
+  border-top: 1px solid #eceef0;
+}
+
+.evidence-card > section h3 {
+  font-size: 15px;
+  font-weight: 800;
+  margin: 0 0 10px;
+}
+
+.evidence-card > section ul {
+  margin: 0;
+  padding-left: 20px;
+}
+
+.evidence-card > section li {
+  font-size: 13px;
+  color: #5c636b;
+  line-height: 1.7;
+  margin-bottom: 6px;
+}
+
+.evidence-card > section.limits {
+  background: #f9fafb;
+  margin-left: -25px;
+  margin-right: -25px;
+  padding: 20px 25px 20px;
+  border-top: 1px solid #eceef0;
+  border-radius: 0;
+}
+
+/* ---- Evidence card: transferability callout ---- */
+.evidence-card .transferability {
+  margin-top: 20px;
+  padding: 16px 18px;
+  background: #e9eaec;
+  border-radius: 11px;
+}
+
+.evidence-card .transferability strong {
+  font-size: 11px;
+  font-weight: 900;
+  letter-spacing: .1em;
+  color: #5c636b;
+  text-transform: uppercase;
+  display: block;
+  margin-bottom: 6px;
+}
+
+.evidence-card .transferability p {
+  margin: 0;
+  font-size: 13px;
+  color: #666e76;
+  line-height: 1.55;
+}
+
+/* ---- Page footer / disclaimer ---- */
+.anchor-page > footer {
+  margin-top: 48px;
+  padding-top: 20px;
+  border-top: 1px solid #e0e3e7;
+  font-size: 11px;
+  color: #9299a1;
+  line-height: 1.6;
+  text-align: center;
+}
+
+/* ==========================================================================
+   RESPONSIVE — Evidence page additions
+   ========================================================================== */
+@media (max-width: 700px) {
+  .anchor-page {
+    padding: 25px 20px 50px;
+  }
+
+  .page-header h1 {
+    font-size: 30px;
+  }
+
+  .evidence-card .headline {
+    flex-direction: column;
+    gap: 6px;
+  }
+
+  .evidence-card .headline strong {
+    font-size: 26px;
+  }
+
+  .evidence-card .facts {
+    grid-template-columns: 1fr;
+  }
+
+  .evidence-card > section.limits {
+    margin-left: -20px;
+    margin-right: -20px;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+}
