@@ -1,0 +1,35 @@
+/* Sidebar: readable inactive items */
+.sidebar .nav-item:not(.active) { color: #DCEBEA; }
+.sidebar .nav-item:not(.active) svg { color: #DCEBEA; opacity: 1; }
+.sidebar .nav-item:not(.active):hover { color: #FFFFFF; background: rgba(255, 255, 255, 0.08); }
+
+/* Sidebar: collapse button, no stray bracket */
+.sidebar .sidebar-shortcut { display: none; }
+.sidebar .sidebar-toggle {
+  display: inline-flex; align-items: center; justify-content: center;
+  width: 32px; height: 32px; padding: 0; background: transparent; color: #DCEBEA;
+  border: 1px solid rgba(220, 235, 234, 0.35); border-radius: 8px; cursor: pointer;
+}
+.sidebar .sidebar-toggle:hover { background: rgba(255, 255, 255, 0.1); color: #FFFFFF; }
+.sidebar .sidebar-toggle:focus-visible { outline: 2px solid #DCEBEA; outline-offset: 2px; }
+
+/* Sidebar: user chip */
+.sidebar .sidebar-footer .user-chip {
+  display: flex; align-items: center; gap: 12px; width: 100%; padding: 10px 12px;
+  background: transparent; border: 1px solid rgba(220, 235, 234, 0.3); border-radius: 10px;
+  color: #DCEBEA; text-decoration: none; text-align: left; cursor: pointer;
+}
+.sidebar .sidebar-footer .user-chip:hover { background: rgba(255, 255, 255, 0.08); color: #FFFFFF; }
+.sidebar .sidebar-footer .user-chip:focus-visible { outline: 2px solid #DCEBEA; outline-offset: 2px; }
+.sidebar .sidebar-footer .user-avatar {
+  display: inline-flex; align-items: center; justify-content: center; flex: none;
+  width: 32px; height: 32px; border-radius: 50%;
+  background: #DCEBEA; color: #0A2540; font-size: 13px; font-weight: 600;
+}
+.sidebar .sidebar-footer .user-text { display: flex; flex-direction: column; min-width: 0; }
+.sidebar .sidebar-footer .user-text strong { color: #FFFFFF; font-size: 14px; font-weight: 600; }
+.sidebar .sidebar-footer .user-text span { color: #DCEBEA; font-size: 13px; text-transform: capitalize; }
+.sidebar .sidebar-footer .user-chip-button .user-text span::after { content: " \00B7  Sign out"; }
+
+/* Top bar: one title only (breadcrumbs stay; each page has its own h1) */
+.topbar .page-title-wrap { display: none; }

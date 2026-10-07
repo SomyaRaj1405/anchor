@@ -1,0 +1,64 @@
+.overview-page {
+  --harbour: #0A2540;
+  --tide: #1D6F7A;
+  --seaglass: #DCEBEA;
+  --paper: #FFFFFF;
+  --mist: #5A6B7A;
+  --line: #D9E3E3;
+  max-width: 1040px;
+  margin: 0 auto;
+  padding: 48px 24px 64px;
+  color: var(--harbour);
+  font-family: "Inter", system-ui, sans-serif;
+  line-height: 1.6;
+}
+.overview-page .overview-hero { padding: 0 0 48px; border-bottom: 1px solid var(--line); }
+.overview-page .overview-kicker {
+  margin: 0 0 12px; color: var(--tide); font-size: 15px; font-weight: 600;
+  text-transform: none; letter-spacing: normal;
+}
+.overview-page .overview-hero h1 {
+  margin: 0 0 16px; max-width: 20ch;
+  font-family: "Fraunces", Georgia, serif; font-weight: 600;
+  font-size: clamp(30px, 4vw, 42px); line-height: 1.2; color: var(--harbour);
+}
+.overview-page .overview-subtitle { margin: 0 0 24px; max-width: 60ch; font-size: 17px; color: var(--mist); }
+.overview-page .overview-actions { display: flex; align-items: center; gap: 24px; flex-wrap: wrap; }
+.overview-page .primary-button {
+  display: inline-flex; align-items: center; justify-content: center;
+  min-height: 44px; padding: 0 24px; border-radius: 10px;
+  background: var(--tide); color: #FFFFFF; font-weight: 600; text-decoration: none;
+}
+.overview-page .text-link { color: var(--tide); font-weight: 600; text-decoration: none; }
+.overview-page .text-link:hover { text-decoration: underline; }
+.overview-page a:focus-visible { outline: 2px solid var(--tide); outline-offset: 2px; }
+.overview-page .overview-section { padding-top: 48px; }
+.overview-page .overview-section h2 {
+  margin: 0 0 24px; font-family: "Fraunces", Georgia, serif; font-weight: 600;
+  font-size: 26px; line-height: 1.25; color: var(--harbour);
+}
+.overview-page .findings-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 24px; }
+.overview-page .audit-finding-card {
+  display: flex; flex-direction: column; gap: 8px; padding: 24px;
+  background: var(--paper); border: 1px solid var(--line); border-radius: 12px;
+}
+.overview-page .audit-finding-card h3 { margin: 0; font-size: 16px; font-weight: 600; color: var(--mist); }
+.overview-page .finding-value {
+  font-family: "Fraunces", Georgia, serif; font-weight: 600;
+  font-size: 44px; line-height: 1.1; color: var(--tide);
+}
+.overview-page .audit-finding-card p { margin: 0; flex: 1; font-size: 15px; color: var(--harbour); }
+.overview-page .small-link { font-size: 14px; }
+.overview-page .steps-list {
+  display: grid; grid-template-columns: repeat(3, 1fr); gap: 24px;
+  margin: 0; padding: 0; list-style: none;
+}
+.overview-page .step-item { display: flex; flex-direction: column; gap: 12px; font-size: 15px; }
+.overview-page .step-number {
+  display: inline-flex; align-items: center; justify-content: center;
+  width: 32px; height: 32px; border-radius: 50%;
+  background: var(--seaglass); color: var(--harbour); font-weight: 600; font-size: 15px;
+}
+@media (max-width: 720px) {
+  .overview-page .findings-grid, .overview-page .steps-list { grid-template-columns: 1fr; }
+}

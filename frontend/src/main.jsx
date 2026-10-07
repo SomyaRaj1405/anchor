@@ -7,6 +7,8 @@ import "@fontsource/inter/600.css";
 import "@fontsource/fraunces/600.css";
 import "./tokens.css";
 import "./shell.css";
+import "./home.css";
+import "./polish.css";
 import "./styles.css";
 import "./auth.css";
 import AppShell from "./components/AppShell";
