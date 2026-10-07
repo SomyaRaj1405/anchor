@@ -1477,3 +1477,369 @@ ul, ol { margin: 0; padding-left: 1.25rem; }
 .sidebar-overlay.visible {
   display: block;
 }
+
+/* ==========================================================================
+   INTERACTIVE WORKFLOW CONTROLS & UTILITIES
+   ========================================================================== */
+
+/* ---- Form Controls ---- */
+.form-group {
+  margin-bottom: 16px;
+}
+
+.form-label {
+  display: block;
+  font-size: 11px;
+  font-weight: 750;
+  letter-spacing: .05em;
+  color: var(--anchor-text-secondary);
+  text-transform: uppercase;
+  margin-bottom: 6px;
+}
+
+.form-input, .form-select, .form-textarea {
+  width: 100%;
+  padding: 9px 12px;
+  border-radius: var(--anchor-radius-sm);
+  border: 1px solid var(--anchor-border);
+  background: var(--anchor-surface);
+  color: var(--anchor-text);
+  font-size: 13px;
+  outline: none;
+  transition: border-color var(--anchor-transition), box-shadow var(--anchor-transition);
+}
+
+.form-input:focus, .form-select:focus, .form-textarea:focus {
+  border-color: var(--anchor-accent);
+  box-shadow: 0 0 0 2px var(--anchor-accent-light);
+}
+
+.form-textarea {
+  min-height: 80px;
+  resize: vertical;
+  font-family: inherit;
+}
+
+.form-checkbox-label {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 13px;
+  font-weight: 500;
+  cursor: pointer;
+  color: var(--anchor-text);
+  user-select: none;
+}
+
+.form-checkbox-label input[type="checkbox"] {
+  width: 16px;
+  height: 16px;
+  accent-color: var(--anchor-accent);
+  cursor: pointer;
+}
+
+/* ---- Global Search in Topbar ---- */
+.global-search-container {
+  position: relative;
+  width: 280px;
+}
+
+.global-search-input {
+  width: 100%;
+  padding: 6px 12px 6px 32px;
+  border-radius: 20px;
+  border: 1px solid var(--anchor-border);
+  background: var(--anchor-surface);
+  color: var(--anchor-text);
+  font-size: 12px;
+  outline: none;
+  transition: all var(--anchor-transition);
+}
+
+.global-search-input:focus {
+  border-color: var(--anchor-accent);
+  box-shadow: 0 0 0 3px var(--anchor-accent-light);
+  width: 320px;
+}
+
+.global-search-icon {
+  position: absolute;
+  left: 10px;
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 12px;
+  color: var(--anchor-text-muted);
+  pointer-events: none;
+}
+
+.global-search-results {
+  position: absolute;
+  top: calc(100% + 6px);
+  left: 0;
+  right: -40px;
+  background: var(--anchor-surface);
+  border: 1px solid var(--anchor-border);
+  border-radius: var(--anchor-radius);
+  box-shadow: var(--anchor-shadow-md);
+  max-height: 380px;
+  overflow-y: auto;
+  z-index: 200;
+  padding: 6px;
+}
+
+.global-search-group-title {
+  font-size: 10px;
+  font-weight: 800;
+  letter-spacing: .08em;
+  text-transform: uppercase;
+  color: var(--anchor-text-muted);
+  padding: 6px 8px 3px;
+}
+
+.global-search-item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 8px 10px;
+  border-radius: var(--anchor-radius-sm);
+  font-size: 12px;
+  cursor: pointer;
+  color: var(--anchor-text);
+  text-decoration: none;
+}
+
+.global-search-item:hover {
+  background: var(--anchor-bg);
+  text-decoration: none;
+}
+
+.global-search-item-badge {
+  font-size: 9px;
+  font-weight: 750;
+  padding: 2px 5px;
+  border-radius: 3px;
+  text-transform: uppercase;
+}
+
+/* ---- Filter Bar ---- */
+.filter-bar {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.filter-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  padding: 5px 12px;
+  border-radius: 20px;
+  font-size: 12px;
+  font-weight: 600;
+  border: 1px solid var(--anchor-border);
+  background: var(--anchor-surface);
+  color: var(--anchor-text-secondary);
+  cursor: pointer;
+  transition: all var(--anchor-transition);
+}
+
+.filter-chip:hover {
+  border-color: var(--anchor-accent);
+  color: var(--anchor-accent);
+}
+
+.filter-chip.active {
+  background: var(--anchor-navy);
+  color: #fff;
+  border-color: var(--anchor-navy);
+}
+
+/* ---- Tabs ---- */
+.tab-nav {
+  display: flex;
+  gap: 4px;
+  border-bottom: 1px solid var(--anchor-border);
+  margin-bottom: 20px;
+}
+
+.tab-btn {
+  padding: 9px 16px;
+  font-size: 13px;
+  font-weight: 700;
+  border: none;
+  background: none;
+  color: var(--anchor-text-secondary);
+  border-bottom: 2px solid transparent;
+  cursor: pointer;
+  transition: all var(--anchor-transition);
+}
+
+.tab-btn:hover {
+  color: var(--anchor-text);
+}
+
+.tab-btn.active {
+  color: var(--anchor-accent);
+  border-bottom-color: var(--anchor-accent);
+}
+
+/* ---- Clickable Evidence Chip ---- */
+.evidence-link-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  font-size: 10px;
+  font-weight: 800;
+  letter-spacing: .06em;
+  padding: 3px 7px;
+  border-radius: 4px;
+  background: var(--anchor-accent-light);
+  color: var(--anchor-accent);
+  border: 1px solid rgba(37, 99, 196, .2);
+  text-decoration: none;
+  cursor: pointer;
+  transition: all var(--anchor-transition);
+}
+
+.evidence-link-chip:hover {
+  background: #d8e5fc;
+  border-color: var(--anchor-accent);
+  text-decoration: none;
+}
+
+/* ---- Workflow Stepper Bar ---- */
+.workflow-pipeline {
+  display: flex;
+  align-items: center;
+  background: var(--anchor-surface);
+  border: 1px solid var(--anchor-border);
+  border-radius: var(--anchor-radius);
+  padding: 12px 16px;
+  margin-bottom: 24px;
+  overflow-x: auto;
+  gap: 8px;
+}
+
+.pipeline-step {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 12px;
+  font-weight: 700;
+  color: var(--anchor-text-muted);
+  white-space: nowrap;
+}
+
+.pipeline-step.active {
+  color: var(--anchor-accent);
+}
+
+.pipeline-step.completed {
+  color: var(--anchor-success);
+}
+
+.pipeline-circle {
+  width: 22px;
+  height: 22px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 11px;
+  font-weight: 800;
+  background: var(--anchor-bg-alt);
+  color: var(--anchor-text-muted);
+}
+
+.pipeline-step.active .pipeline-circle {
+  background: var(--anchor-accent);
+  color: #fff;
+}
+
+.pipeline-step.completed .pipeline-circle {
+  background: var(--anchor-success);
+  color: #fff;
+}
+
+.pipeline-separator {
+  color: var(--anchor-border);
+  font-size: 12px;
+}
+
+/* ---- Candidate Selection Card ---- */
+.candidate-card-select {
+  border: 1px solid var(--anchor-border);
+  border-radius: var(--anchor-radius);
+  background: var(--anchor-surface);
+  padding: 14px 16px;
+  cursor: pointer;
+  transition: all var(--anchor-transition);
+  margin-bottom: 10px;
+}
+
+.candidate-card-select:hover {
+  border-color: var(--anchor-accent);
+  box-shadow: var(--anchor-shadow-sm);
+}
+
+.candidate-card-select.selected {
+  border-color: var(--anchor-accent);
+  background: #f8fbff;
+  box-shadow: 0 0 0 2px var(--anchor-accent-light);
+}
+
+/* ---- Skill Badge Clusters ---- */
+.skill-item-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 8px 12px;
+  background: var(--anchor-surface);
+  border: 1px solid var(--anchor-border-light);
+  border-radius: 6px;
+  margin-bottom: 6px;
+  font-size: 13px;
+}
+
+.skill-cluster-tag {
+  font-size: 10px;
+  font-weight: 700;
+  text-transform: uppercase;
+  color: var(--anchor-text-muted);
+  letter-spacing: .04em;
+}
+
+/* ---- Interactive Accordion / Expand Section ---- */
+.expand-toggle-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  background: none;
+  border: 1px solid var(--anchor-border);
+  padding: 5px 10px;
+  border-radius: 4px;
+  font-size: 11px;
+  font-weight: 700;
+  color: var(--anchor-text-secondary);
+  cursor: pointer;
+  transition: all var(--anchor-transition);
+}
+
+.expand-toggle-btn:hover {
+  background: var(--anchor-bg);
+  color: var(--anchor-text);
+  border-color: #cbd2db;
+}
+
+/* ---- Quick Action Bar ---- */
+.quick-action-bar {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-top: 14px;
+  padding-top: 14px;
+  border-top: 1px solid var(--anchor-border-light);
+  flex-wrap: wrap;
+}
