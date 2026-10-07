@@ -14,21 +14,39 @@ Each person works on their own branch:
 | Laveesha | `laveesha-audit` |
 | Aarushi | `aarushi-data` |
 
-Do not commit directly to `main`. Open a pull request from your branch into `main`.
-
 ## Daily workflow
 
-1. Update your branch: `git checkout <your-branch>` then `git merge main`
-2. Do your work and commit small, often.
-3. Push: `git push`
-4. Open a pull request into `main` when a piece of work is ready.
-5. The team lead reviews and merges.
+1. Work and commit small, often, on your own branch.
+2. Push your branch: `git push`
+3. When a piece of work runs, merge it into `main`:
+
+   git checkout main
+   git pull
+   git merge <your-branch>
+   git push
+
+4. Go back to your branch and bring in everyone else's work:
+
+   git checkout <your-branch>
+   git merge main
+
+Always run `git pull` on `main` before you merge into it, so you never overwrite a teammate's push.
+
+## Integrate early
+
+Merge working pieces into `main` as soon as they run, not at the end. Run the backend and frontend together regularly, so problems show up early and not in the last hour.
 
 ## Stay in your lane
 
 - Keep changes inside the folders you own (see the Team table in the README).
-- If you need a change in someone else's folder, ask them or open a pull request they can review.
+- If you need a change in someone else's folder, ask them.
 - The API shapes in `contract/examples/` are frozen. Do not change them without telling the team lead.
+
+## Rules for `main`
+
+- Force pushes and deleting `main` are blocked.
+- Never rewrite shared history (`git push --force`, `git reset` on pushed commits).
+- If a merge conflicts and you are unsure, stop and ask. Do not guess.
 
 ## Commit messages
 
@@ -49,8 +67,7 @@ Example: `feat: add diagnostic screen form`
 
 If a secret is committed by mistake, tell the team lead immediately so it can be rotated.
 
-## Before opening a pull request
+## Before merging into `main`
 
 - Backend: tests pass with `pytest` from the `backend` folder.
 - Frontend: the app starts with `npm run dev` and the build passes with `npm run build`.
-- Your branch has the latest `main` merged in.
