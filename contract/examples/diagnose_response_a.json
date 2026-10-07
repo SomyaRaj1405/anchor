@@ -1,0 +1,68 @@
+{
+  "target_role": {
+    "id": "marketing_manager",
+    "name": "Marketing Manager"
+  },
+  "flags": [
+    {
+      "id": "gap_visibility",
+      "label": "Career-Gap Visibility",
+      "level": "HIGH",
+      "status": "BARRIER",
+      "explanation": "Chronological date stamps make the 3-year break visible and can trigger automated ATS disqualification.",
+      "provenance": "MODELLED"
+    },
+    {
+      "id": "experience_salience",
+      "label": "Experience Salience",
+      "level": "LOW",
+      "status": "BARRIER",
+      "explanation": "7.2 years of experience are buried beneath the 3-year break in a date-based resume.",
+      "provenance": "MODELLED"
+    },
+    {
+      "id": "recent_role_evidence",
+      "label": "Recent-Role Evidence",
+      "level": "MEDIUM",
+      "status": "WATCH",
+      "explanation": "Relevant domain responsibilities from prior tenure are preserved; adding recent activity would strengthen this.",
+      "provenance": "MODELLED"
+    },
+    {
+      "id": "skill_freshness",
+      "label": "Skill Freshness",
+      "level": "HIGH",
+      "status": "STRENGTH",
+      "explanation": "Core competencies for Marketing Manager remain directly relevant (5/6 core skills current).",
+      "provenance": "MODELLED"
+    },
+    {
+      "id": "availability_signal",
+      "label": "Availability Signal",
+      "level": "LOW",
+      "status": "BARRIER",
+      "explanation": "Return-to-work readiness is not prominently signalled.",
+      "provenance": "MODELLED"
+    }
+  ],
+  "summary": {
+    "barrier_count": 3,
+    "watch_count": 1,
+    "strength_count": 1
+  },
+  "recommendation": {
+    "intervention": "REFRAME",
+    "title": "Reframe — Presentation & Signaling",
+    "rationale": "Experience and competencies are intact; the limiting barrier is how the profile is presented.",
+    "prescribed_action": "Replace employment dates with experience-duration framing and surface key achievements.",
+    "also_apply": [],
+    "evidence_ids": [
+      "EV-002",
+      "EV-001"
+    ]
+  },
+  "capability_check": {
+    "qualification_limiting": false,
+    "explanation": "Qualification does not appear to be the limiting barrier; presentation changes should come before any coursework."
+  }
+}

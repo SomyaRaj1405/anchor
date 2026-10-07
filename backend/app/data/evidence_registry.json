@@ -1,0 +1,61 @@
+{
+  "entries": [
+    {
+      "id": "EV-001",
+      "short_title": "Career-break callback penalty in India",
+      "citation": "Mahajan, K. & Nandhini S. (14 Oct 2024). Restart: Women, career breaks and employer response. Ashoka University, Department of Economics, Discussion Paper No. 125.",
+      "authors": "Kanika Mahajan; Nandhini S.",
+      "year": 2024,
+      "venue": "Ashoka University, Dept. of Economics, Discussion Paper No. 125 (working paper)",
+      "study_type": "Correspondence (resume audit) field experiment",
+      "geography": "India, private sector",
+      "sample": "15,872 applications to 3,968 job postings",
+      "headline": {
+        "value": "49%",
+        "label": "lower callback rate for women with a career break than comparable women without one"
+      },
+      "findings": [
+        "Women who take a career break receive 49% lower callbacks than otherwise similar women without a break.",
+        "Simply listing upskilling certifications does not produce a statistically significant difference in callbacks for women with a break.",
+        "The penalty is larger in skill-intensive sectors such as finance, in smaller firms, and in firms located in north India."
+      ],
+      "limits": [
+        "Working paper, not yet a peer-reviewed journal article.",
+        "Women only; Anchor does not assume the penalty applies equally to every individual.",
+        "Penalty size varies by sector, firm size and region."
+      ],
+      "transferability_note": "Run in the Indian private sector, the closest match to Anchor's target market. Sector and region effects mean the average is a prior, not a prediction.",
+      "provenance": "EMPIRICAL",
+      "url": "https://www.ashoka.edu.in/research/restart-women-career-breaks-and-employer-response/"
+    },
+    {
+      "id": "EV-002",
+      "short_title": "Duration-based resume reframing (UK)",
+      "citation": "Kristal, A. S., Nicks, L., Gloor, J. L. & Hauser, O. P. (2022). Reducing discrimination against job seekers with and without employment gaps. Nature Human Behaviour, 7(2), 211-218. https://doi.org/10.1038/s41562-022-01485-6",
+      "authors": "Ariella S. Kristal; Leonie Nicks; Jamie L. Gloor; Oliver P. Hauser",
+      "year": 2022,
+      "venue": "Nature Human Behaviour",
+      "study_type": "Preregistered audit field experiment, plus lab studies (N = 2,650)",
+      "geography": "United Kingdom",
+      "sample": "N = 9,022 (field experiment)",
+      "headline": {
+        "value": "+15%",
+        "label": "more callbacks when a resume shows years worked instead of employment dates, versus resumes showing gaps"
+      },
+      "findings": [
+        "Listing previous jobs with the number of years worked, instead of employment dates, increased callbacks by about 15% compared with resumes showing employment gaps.",
+        "Compared with resumes without gaps, the same reframing increased callbacks by about 8%.",
+        "Lab studies found the effect holds for female and male applicants and for applicants with less and more total experience.",
+        "The effect is driven by making the applicant's job experience salient, not by novelty or ease of reading."
+      ],
+      "limits": [
+        "Field experiment run in the United Kingdom; transfer to the Indian labour market is not established.",
+        "Reported as a percentage increase in callbacks; Anchor applies it as a relative (multiplicative) lift.",
+        "Population-level result, not a guarantee for an individual application."
+      ],
+      "transferability_note": "UK result. Anchor uses it as a population-level prior and shows the geography limitation on screen.",
+      "provenance": "EMPIRICAL",
+      "url": "https://doi.org/10.1038/s41562-022-01485-6"
+    }
+  ]
+}

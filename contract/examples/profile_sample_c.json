@@ -1,0 +1,21 @@
+{
+  "current_or_last_role_id": "hr_manager",
+  "target_role_id": "hr_manager",
+  "industry": "IT Services",
+  "location": "Bengaluru, India",
+  "experience_years": 5,
+  "experience_start_year": 2014,
+  "experience_end_year": 2019,
+  "gap_years": 4,
+  "reentry_year": 2023,
+  "gap_reason": "HEALTH",
+  "resume_format": "CHRONOLOGICAL",
+  "skills": [
+    "employee_engagement",
+    "stakeholder_management"
+  ],
+  "recent_activities": [
+    "Volunteer HR advisory for an NGO"
+  ],
+  "availability_stated": true
+}

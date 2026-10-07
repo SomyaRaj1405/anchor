@@ -1,0 +1,25 @@
+{
+  "current_or_last_role_id": "marketing_manager",
+  "target_role_id": "marketing_manager",
+  "industry": "Consumer Goods (FMCG)",
+  "location": "Pune, India",
+  "experience_years": 7.2,
+  "experience_start_year": 2013,
+  "experience_end_year": 2020,
+  "gap_years": 3,
+  "reentry_year": 2023,
+  "gap_reason": "CAREGIVING",
+  "resume_format": "CHRONOLOGICAL",
+  "skills": [
+    "brand_strategy",
+    "pnl_leadership",
+    "analytics",
+    "excel",
+    "business_intelligence",
+    "stakeholder_management",
+    "campaign_tracking",
+    "reporting_dashboards"
+  ],
+  "recent_activities": [],
+  "availability_stated": false
+}
