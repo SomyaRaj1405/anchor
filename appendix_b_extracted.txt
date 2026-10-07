@@ -1,0 +1,388 @@
+Appendix B. Golden Examples (expected values everyone tests against)
+These examples were computed with a reference implementation of the rules in this document set. If your output differs, your code is wrong, or the spec has a gap; tell Hamza. Numbers are compared with a tolerance of 0.05.
+B.1 Outcome matrix for the three sample profiles
+Check
+Sample A
+Sample B
+Sample C
+Description
+Marketing Manager, Pune; 7.2 yrs experience; 3.0 yr break; target Marketing Manager
+Same candidate; target Data Analyst
+HR Manager, Bengaluru; 5.0 yrs; 4.0 yr break; only 2 of 5 core skills
+Flag levels (gap, salience, recent, freshness, availability)
+HIGH, LOW, MEDIUM, HIGH, LOW
+HIGH, LOW, MEDIUM, MEDIUM, LOW
+HIGH, LOW, MEDIUM, LOW, HIGH
+Summary barrier / watch / strength
+3 / 1 / 1
+3 / 2 / 0
+3 / 1 / 1
+Recommended intervention
+REFRAME
+TRANSITION
+RESKILL
+qualification_limiting
+false
+false
+true
+Simulation A / B / C (%)
+34.2 / 39.3 / 43.3
+34.2 / 39.3 / 43.3
+34.2 / 39.3 / 39.3
+Benchmark index (continuous, gap, gap + certificate, gap + reframing)
+100 / 51 / 51 / 58.7
+100 / 51 / 51 / 58.7
+100 / 51 / 51 / 58.7
+Transition counts (transferable / stale / missing / total), coverage
+Target Marketing Manager: 5 / 1 / 0 / 6, 83.3%
+Target Data Analyst: 5 / 1 / 2 / 8, 62.5%
+Target HR Manager: 2 / 0 / 3 / 5, 40.0%
+Why C equals B for sample C: the competency-cluster lever needs at least 3 skills (sample C has 2) and the availability lever only applies when availability is not already stated (sample C states it). This is intended behaviour and a good edge-case test.
+B.2 Sample A: request body for /api/diagnose and /api/simulate
+{
+  "profile": {
+    "current_or_last_role_id": "marketing_manager",
+    "target_role_id": "marketing_manager",
+    "industry": "Consumer Goods (FMCG)",
+    "location": "Pune, India",
+    "experience_years": 7.2,
+    "experience_start_year": 2013,
+    "experience_end_year": 2020,
+    "gap_years": 3,
+    "reentry_year": 2023,
+    "gap_reason": "CAREGIVING",
+    "resume_format": "CHRONOLOGICAL",
+    "skills": [
+      "brand_strategy",
+      "pnl_leadership",
+      "analytics",
+      "excel",
+      "business_intelligence",
+      "stakeholder_management",
+      "campaign_tracking",
+      "reporting_dashboards"
+    ],
+    "recent_activities": [],
+    "availability_stated": false
+  }
+}
+B.3 Sample A: response of POST /api/diagnose
+{
+  "target_role": {"id": "marketing_manager", "name": "Marketing Manager"},
+  "flags": [
+    {
+      "id": "gap_visibility",
+      "label": "Career-Gap Visibility",
+      "level": "HIGH",
+      "status": "BARRIER",
+      "explanation": "Chronological date stamps make the 3-year break visible and can trigger automated ATS disqualification.",
+      "provenance": "MODELLED"
+    },
+    {
+      "id": "experience_salience",
+      "label": "Experience Salience",
+      "level": "LOW",
+      "status": "BARRIER",
+      "explanation": "7.2 years of experience are buried beneath the 3-year break in a date-based resume.",
+      "provenance": "MODELLED"
+    },
+    {
+      "id": "recent_role_evidence",
+      "label": "Recent-Role Evidence",
+      "level": "MEDIUM",
+      "status": "WATCH",
+      "explanation": "Relevant domain responsibilities from prior tenure are preserved; adding recent activity would strengthen this.",
+      "provenance": "MODELLED"
+    },
+    {
+      "id": "skill_freshness",
+      "label": "Skill Freshness",
+      "level": "HIGH",
+      "status": "STRENGTH",
+      "explanation": "Core competencies for Marketing Manager remain directly relevant (5/6 core skills current).",
+      "provenance": "MODELLED"
+    },
+    {
+      "id": "availability_signal",
+      "label": "Availability Signal",
+      "level": "LOW",
+      "status": "BARRIER",
+      "explanation": "Return-to-work readiness is not prominently signalled.",
+      "provenance": "MODELLED"
+    }
+  ],
+  "summary": {"barrier_count": 3, "watch_count": 1, "strength_count": 1},
+  "recommendation": {
+    "intervention": "REFRAME",
+    "title": "Reframe — Presentation & Signaling",
+    "rationale": "Experience and competencies are intact; the limiting barrier is how the profile is presented.",
+    "prescribed_action": "Replace employment dates with experience-duration framing and surface key achievements.",
+    "also_apply": [],
+    "evidence_ids": ["EV-002", "EV-001"]
+  },
+  "capability_check": {
+    "qualification_limiting": false,
+    "explanation": "Qualification does not appear to be the limiting barrier; presentation changes should come before any coursework."
+  }
+}
+B.4 Sample A: response of POST /api/simulate
+{
+  "versions": [
+    {
+      "id": "A",
+      "label": "Chronological Baseline",
+      "representation": "CHRONOLOGICAL",
+      "pass_likelihood_pct": 34.2,
+      "resume_preview": ["Marketing Manager — Consumer Goods (FMCG) · 2013 – 2020", "Career break · 2020 – 2023"],
+      "drivers": [
+        {
+          "label": "Reference pass likelihood of a continuously employed candidate",
+          "effect": "BASE",
+          "value_pct": 67,
+          "provenance": "SIMULATED",
+          "evidence_id": null
+        },
+        {
+          "label": "Career-break penalty scaled to a 3-year gap",
+          "effect": "RELATIVE_CHANGE",
+          "value_pct": -49,
+          "provenance": "EMPIRICAL",
+          "evidence_id": "EV-001"
+        }
+      ],
+      "provenance": "SIMULATED"
+    },
+    {
+      "id": "B",
+      "label": "Experience Duration Framing",
+      "representation": "DURATION",
+      "pass_likelihood_pct": 39.3,
+      "resume_preview": ["Marketing Manager — Consumer Goods (FMCG) · 7.2 years of experience"],
+      "drivers": [
+        {
+          "label": "Reference pass likelihood of a continuously employed candidate",
+          "effect": "BASE",
+          "value_pct": 67,
+          "provenance": "SIMULATED",
+          "evidence_id": null
+        },
+        {
+          "label": "Career-break penalty scaled to a 3-year gap",
+          "effect": "RELATIVE_CHANGE",
+          "value_pct": -49,
+          "provenance": "EMPIRICAL",
+          "evidence_id": "EV-001"
+        },
+        {
+          "label": "Experience-duration reframing (relative lift)",
+          "effect": "RELATIVE_CHANGE",
+          "value_pct": 15,
+          "provenance": "EMPIRICAL",
+          "evidence_id": "EV-002"
+        }
+      ],
+      "provenance": "SIMULATED"
+    },
+    {
+      "id": "C",
+      "label": "Candidate-Optimized Framing",
+      "representation": "OPTIMIZED",
+      "pass_likelihood_pct": 43.3,
+      "resume_preview": [
+        "Marketing Manager — Consumer Goods (FMCG) · 7.2 years of experience",
+        "Business Leadership: P&L Leadership, Stakeholder Management",
+        "Data & Analytics: Analytics, Business Intelligence, Excel, Reporting Dashboards",
+        "Marketing Execution: Campaign Tracking",
+        "Marketing Strategy: Brand Strategy",
+        "Availability: ready to start immediately"
+      ],
+      "drivers": [
+        {
+          "label": "Reference pass likelihood of a continuously employed candidate",
+          "effect": "BASE",
+          "value_pct": 67,
+          "provenance": "SIMULATED",
+          "evidence_id": null
+        },
+        {
+          "label": "Career-break penalty scaled to a 3-year gap",
+          "effect": "RELATIVE_CHANGE",
+          "value_pct": -49,
+          "provenance": "EMPIRICAL",
+          "evidence_id": "EV-001"
+        },
+        {
+          "label": "Experience-duration reframing (relative lift)",
+          "effect": "RELATIVE_CHANGE",
+          "value_pct": 15,
+          "provenance": "EMPIRICAL",
+          "evidence_id": "EV-002"
+        },
+        {
+          "label": "Structured competency clusters",
+          "effect": "RELATIVE_CHANGE",
+          "value_pct": 5,
+          "provenance": "SIMULATED",
+          "evidence_id": null
+        },
+        {
+          "label": "Explicit availability indicator",
+          "effect": "RELATIVE_CHANGE",
+          "value_pct": 5,
+          "provenance": "SIMULATED",
+          "evidence_id": null
+        }
+      ],
+      "provenance": "SIMULATED"
+    }
+  ],
+  "control_certificate": {
+    "label": "Chronological + upskilling certificate",
+    "pass_likelihood_pct": 34.2,
+    "note": "No statistically significant change in callbacks was found for upskilling certificates (EV-001).",
+    "provenance": "EMPIRICAL",
+    "evidence_id": "EV-001"
+  },
+  "benchmark_index": [
+    {"label": "Continuous employment", "value": 100, "provenance": "SIMULATED"},
+    {"label": "Career gap, chronological", "value": 51, "provenance": "EMPIRICAL"},
+    {"label": "Gap + upskilling certificate", "value": 51, "provenance": "EMPIRICAL"},
+    {"label": "Gap + duration reframing", "value": 58.7, "provenance": "EMPIRICAL"}
+  ],
+  "assumptions": [
+    {
+      "key": "reference_pass_likelihood_pct",
+      "value": 67,
+      "provenance": "SIMULATED",
+      "note": "Assumed pass likelihood of a comparable continuously employed candidate; chosen so that a 3-year gap reproduces about 34%."
+    },
+    {
+      "key": "gap_penalty_pct_at_full",
+      "value": 49,
+      "provenance": "EMPIRICAL",
+      "note": "EV-001: 49% lower callback rate for women with career breaks (India)."
+    },
+    {
+      "key": "gap_years_at_full_penalty",
+      "value": 3,
+      "provenance": "MODELLED",
+      "note": "Penalty is scaled linearly up to this gap length and capped beyond it."
+    },
+    {
+      "key": "reframing_relative_lift_pct",
+      "value": 15,
+      "provenance": "EMPIRICAL",
+      "note": "EV-002: callbacks +15% versus gap-dated resumes (United Kingdom)."
+    },
+    {
+      "key": "competency_cluster_lift_pct",
+      "value": 5,
+      "provenance": "SIMULATED",
+      "note": "Illustrative assumption; no published source."
+    },
+    {
+      "key": "availability_indicator_lift_pct",
+      "value": 5,
+      "provenance": "SIMULATED",
+      "note": "Illustrative assumption; no published source."
+    },
+    {
+      "key": "certificate_lift_pct",
+      "value": 0,
+      "provenance": "EMPIRICAL",
+      "note": "EV-001: no statistically significant effect."
+    },
+    {
+      "key": "max_pass_likelihood_pct",
+      "value": 95,
+      "provenance": "SIMULATED",
+      "note": "Upper cap applied to every version."
+    }
+  ],
+  "limitations": [
+    "Published statistics describe populations, not individuals; Anchor never predicts an individual's outcome.",
+    "EV-001 was run in India and EV-002 in the United Kingdom; transferability between labour markets is not established.",
+    "Pass likelihoods are scenario projections (SIMULATED) built from the listed assumptions; they are not measured callback rates."
+  ]
+}
+B.5 Sample B: response of POST /api/transition (target Data Analyst)
+Request: {"profile": <sample B profile>, "target_role_id": "data_analyst"}. Sample B is sample A with target_role_id set to data_analyst.
+{
+  "target_role": {"id": "data_analyst", "name": "Data Analyst"},
+  "transferable": [
+    {"id": "analytics", "name": "Analytics", "cluster": "Data & Analytics"},
+    {"id": "excel", "name": "Excel", "cluster": "Data & Analytics"},
+    {
+      "id": "business_intelligence",
+      "name": "Business Intelligence",
+      "cluster": "Data & Analytics"
+    },
+    {
+      "id": "stakeholder_management",
+      "name": "Stakeholder Management",
+      "cluster": "Business Leadership"
+    },
+    {"id": "campaign_tracking", "name": "Campaign Tracking", "cluster": "Marketing Execution"}
+  ],
+  "stale": [
+    {
+      "id": "reporting_dashboards",
+      "name": "Reporting Dashboards",
+      "cluster": "Data & Analytics",
+      "reason": "Toolchain volatility is HIGH and the break is 3 years."
+    }
+  ],
+  "missing": [
+    {"id": "sql", "name": "SQL", "cluster": "Data Engineering"},
+    {"id": "python", "name": "Python", "cluster": "Data Engineering"}
+  ],
+  "counts": {"transferable": 5, "stale": 1, "missing": 2, "total": 8},
+  "coverage_pct": 62.5,
+  "provenance": "MODELLED"
+}
+B.6 Audit: request and response of POST /api/audit
+{
+  "rules": [
+    "Continuous employment required within past 12 months",
+    "Most recent title must exactly match target vacancy",
+    "Mandatory certification dated within last 24 months"
+  ]
+}
+{
+  "results": [
+    {
+      "line_number": 1,
+      "rule_text": "Continuous employment required within past 12 months",
+      "matched_rule_id": "AR-001",
+      "matched_rule_name": "Continuous employment required",
+      "risk_level": "HIGH",
+      "impact": "Disproportionately eliminates qualified re-entry talent without measuring actual capability.",
+      "recommended_intervention": "Eliminate continuity as a mandatory gate; evaluate cumulative years and recent problem-solving.",
+      "evidence_ids": ["EV-001"],
+      "provenance": "MODELLED"
+    },
+    {
+      "line_number": 2,
+      "rule_text": "Most recent title must exactly match target vacancy",
+      "matched_rule_id": "AR-002",
+      "matched_rule_name": "Exact most-recent-title match",
+      "risk_level": "MEDIUM",
+      "impact": "Excludes adjacent career-transition candidates with strong transferable skill overlap.",
+      "recommended_intervention": "Implement skill-vector adjacency matching across related functional roles.",
+      "evidence_ids": [],
+      "provenance": "MODELLED"
+    },
+    {
+      "line_number": 3,
+      "rule_text": "Mandatory certification dated within last 24 months",
+      "matched_rule_id": "AR-003",
+      "matched_rule_name": "Recent mandatory certification",
+      "risk_level": "HIGH",
+      "impact": "Imposes a credential tax on candidates, although research found generic upskilling certificates did not raise callbacks.",
+      "recommended_intervention": "Replace recency criteria with focused practical capability verification assessments.",
+      "evidence_ids": ["EV-001"],
+      "provenance": "MODELLED"
+    }
+  ],
+  "summary": {"total_rules": 3, "flagged": 3, "high": 2, "medium": 1, "low": 0, "none": 0}
+}
