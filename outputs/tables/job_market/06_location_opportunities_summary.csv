@@ -1,0 +1,26 @@
+location,postings_count,share_percentage
+Bengaluru,3333,21.04
+Mumbai,1992,12.57
+Gurgaon,1313,8.29
+Pune,945,5.97
+Hyderabad,878,5.54
+Chennai,786,4.96
+Delhi NCR,593,3.74
+Noida,403,2.54
+"Delhi NCR, Gurgaon",278,1.75
+Delhi,198,1.25
+"Gurgaon, Gurugram",195,1.23
+Kolkata,159,1.0
+Ahmedabad,150,0.95
+Navi Mumbai,114,0.72
+Kochi,77,0.49
+Trivandrum,72,0.45
+"Mumbai, Mumbai Suburbs",62,0.39
+"Bengaluru, Hyderabad",57,0.36
+"Delhi NCR, Gurgaon, Noida",55,0.35
+"Mumbai, Bengaluru",53,0.33
+Bengaluru(Whitefield),52,0.33
+"Delhi NCR, Noida",52,0.33
+Jaipur,49,0.31
+India,46,0.29
+Vadodara,45,0.28

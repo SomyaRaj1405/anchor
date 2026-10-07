@@ -1,0 +1,6 @@
+personality_trait,mean_low_success (0),mean_high_success (1),absolute_difference,percentage_gain
+conscientiousness,35.737,53.682,17.946,50.22
+openness_to_experience,33.316,48.494,15.178,45.56
+extraversion,36.882,48.859,11.977,32.47
+agreeableness,41.118,47.718,6.599,16.05
+neuroticism,36.263,36.129,-0.134,-0.37

@@ -1,0 +1,51 @@
+skill,frequency,percentage_of_all_jobs
+sql,915,5.78
+analytics,904,5.71
+python,840,5.3
+finance,756,4.77
+java,726,4.58
+r,655,4.13
+sas,636,4.01
+business analysis,633,4.0
+machine learning,629,3.97
+data analysis,618,3.9
+digital marketing,566,3.57
+javascript,535,3.38
+project management,505,3.19
+seo,495,3.12
+data analytics,412,2.6
+sales,404,2.55
+excel,393,2.48
+accounting,376,2.37
+outsourcing,360,2.27
+marketing,326,2.06
+html,305,1.93
+hadoop,300,1.89
+spark,284,1.79
+business process,280,1.77
+data science,271,1.71
+big data,263,1.66
+business development,253,1.6
+auditing,247,1.56
+financial analysis,245,1.55
+market research,234,1.48
+css,230,1.45
+c++,229,1.45
+data mining,225,1.42
+google analytics,224,1.41
+budgeting,220,1.39
+operations,220,1.39
+sem,216,1.36
+jquery,203,1.28
+mysql,203,1.28
+analytical,200,1.26
+hive,199,1.26
+consulting,189,1.19
+product management,179,1.13
+nosql,178,1.12
+business intelligence,177,1.12
+c#,175,1.1
+hr,169,1.07
+banking,168,1.06
+linux,164,1.04
+recruitment,162,1.02

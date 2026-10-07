@@ -1,0 +1,7 @@
+,neuroticism,extraversion,openness_to_experience,agreeableness,conscientiousness,success_classification_high_low
+neuroticism,1.0,-0.247,-0.0,-0.155,-0.135,-0.006
+extraversion,-0.247,1.0,0.401,0.265,0.403,0.494
+openness_to_experience,-0.0,0.401,1.0,0.113,0.453,0.671
+agreeableness,-0.155,0.265,0.113,1.0,0.304,0.293
+conscientiousness,-0.135,0.403,0.453,0.304,1.0,0.68
+success_classification_high_low,-0.006,0.494,0.671,0.293,0.68,1.0

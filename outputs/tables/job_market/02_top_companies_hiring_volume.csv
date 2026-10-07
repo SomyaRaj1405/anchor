@@ -1,0 +1,643 @@
+company_name,roles_offered,total_openings,mean_avg_salary
+TCS,10,9064,9.459999999999999
+Accenture,10,5425,12.190000000000001
+Cognizant,10,3813,11.209999999999999
+Wipro,10,2566,10.49
+IBM,10,2480,13.34
+Genpact,8,2147,11.825
+Capgemini,10,1994,10.809999999999999
+L&T Infotech,9,1873,12.588888888888889
+Tech Mahindra,10,1830,9.86
+HCL Technologies,10,1783,11.67
+Deloitte,10,1714,14.190000000000001
+Evalueserve,3,1698,9.6
+Infosys,10,1686,10.55
+Amazon,9,1279,20.144444444444446
+DXC Technology,10,1076,11.459999999999999
+EXL Service,8,996,11.2625
+Ernst & Young,9,896,14.088888888888889
+HSBC,8,795,14.2
+Quantiphi Analytics Solutions,6,785,11.716666666666667
+American Express,7,781,15.9
+Optum,8,709,15.1625
+Societe Generale,5,659,17.119999999999997
+UnitedHealth,8,638,14.1125
+JP Morgan Chase,10,632,18.869999999999997
+Mindtree,10,602,10.690000000000001
+Fidelity National Information Services,6,559,11.916666666666666
+Shell,9,546,21.966666666666665
+Flipkart,7,545,24.728571428571428
+eClerx,6,533,6.55
+GlobalLogic,6,531,12.066666666666668
+Cgi Group,5,513,12.34
+Oracle,9,486,15.02222222222222
+Fractal Analytics,6,484,17.400000000000002
+Tiger Analytics,8,462,15.075000000000001
+Concentrix Corporation,6,459,4.45
+ICICI Bank,4,456,8.95
+NTT DATA,7,442,9.671428571428573
+Hewlett-Packard Enterprise,9,431,13.766666666666667
+Conduent,3,413,6.266666666666667
+Ericsson,8,402,13.65
+Wells Fargo India,8,395,15.8875
+Barclays,7,391,17.071428571428573
+Walmart,6,362,28.666666666666668
+HDFC Bank,6,355,12.516666666666666
+Mphasis,9,353,11.666666666666666
+Dell,8,348,12.7875
+Mu Sigma,6,332,8.933333333333334
+PwC,9,326,13.588888888888889
+IQVIA,8,319,14.1875
+Axis Bank,6,313,10.35
+Newgen Software Technologies,2,308,10.2
+Citicorp,8,305,18.5125
+Amdocs,5,302,11.92
+Zomato,3,301,10.866666666666667
+Tredence,6,298,12.166666666666666
+Unilog Content Solutions ( P),2,291,2.85
+UST,10,289,12.2
+Zensar Technologies,6,286,9.316666666666666
+Hexaware Technologies,6,285,10.983333333333334
+VMware Software,4,284,18.75
+Novartis Healthcare,7,279,16.214285714285715
+Exl India,3,275,9.766666666666667
+Temenos,2,273,11.0
+KPMG,5,269,9.86
+Maersk,6,259,14.316666666666668
+Reliance jio,6,259,12.566666666666668
+EC-Mobility,1,259,2.1
+WNS,5,258,7.2
+Credit Suisse,3,257,16.3
+Virtusa Consulting Services,6,249,9.066666666666666
+Fiserv,5,245,12.88
+Novo Nordisk,2,241,13.6
+Oyo Rooms,5,235,14.76
+Legato Health Technologies,7,235,14.299999999999999
+NetCracker,2,221,23.35
+Zen3 Info Solutions,2,215,3.7
+ZS,6,211,14.233333333333334
+Ford Motor,7,203,12.37142857142857
+Citibank,7,201,17.47142857142857
+InnovAccer,3,198,10.866666666666665
+Larsen & Toubro Limited,6,195,8.4
+Cisco Systems,6,194,16.833333333333332
+Bridgei2i Analytics Solutions,4,194,6.85
+Cyient,3,192,5.8
+bnp paribas india solutions,2,190,12.399999999999999
+Ab Inbev,5,189,24.259999999999998
+BNP Paribas,2,187,13.25
+Paytm,6,185,15.450000000000001
+Ramco Systems,2,184,10.149999999999999
+Standard Chartered Bank,3,182,13.233333333333334
+BNY Mellon,4,181,11.125
+Allianz Technology,2,179,10.05
+Bajaj Finserv,8,178,14.350000000000001
+Swiggy,3,177,12.0
+Cogencis Information Services,1,175,1.7
+Tata Technologies,3,175,7.233333333333333
+CG Foods,1,175,4.8
+ITC Infotech India,7,174,13.442857142857141
+NatWest Group,3,173,13.666666666666666
+ValueLabs,8,169,14.912500000000001
+Verizon,6,168,15.15
+Epsilon,6,168,16.416666666666668
+S&P Global,4,166,9.3
+Coforge,5,164,18.12
+Urjanet Energy Solutions,2,160,3.25
+Ugam Solution,3,160,6.966666666666666
+UBS,4,159,15.5
+Honeywell Technology Solutions,7,155,15.299999999999999
+GEP Worldwide,5,155,13.919999999999998
+Barclays Shared Services,2,154,7.7
+Deutsche Bank,2,153,8.15
+Bank of America,6,152,16.866666666666667
+Qualsquad Infotech,1,149,2.0
+Affine Analytics,5,149,8.82
+PayPal,5,148,26.18
+Bharti Airtel,3,148,8.4
+LatentView Analytics,3,148,8.1
+Nokia,5,147,10.940000000000001
+Merkle Sokrati,3,145,6.866666666666667
+Sapient Corporation,5,145,14.8
+Teleperformance,3,145,7.199999999999999
+Vodafone Idea,6,145,14.833333333333334
+Barclays Global Service Centre,2,142,12.1
+ValueMomentum,4,142,12.024999999999999
+TheMathCompany,4,141,9.95
+3i Infotech,2,139,8.45
+Odessa,2,137,13.6
+Birlasoft,6,135,10.616666666666667
+Globant,4,133,17.25
+Harman Connected Services,6,132,12.950000000000001
+First Source,4,131,10.3
+R1 RCM,4,131,4.225
+Atos Syntel,3,131,9.566666666666666
+ABC,3,130,14.133333333333333
+Amadeus,1,128,14.8
+Microsoft Corporation,3,127,37.86666666666667
+HCL Technologies BPO Services,2,125,2.5999999999999996
+Standard Chartered Global Business Services,3,124,16.53333333333333
+Nielsen,4,124,6.7
+Altimetrik,3,123,15.366666666666667
+Target,5,123,16.259999999999998
+Apex CoVantage,1,123,1.8
+Morningstar,3,121,9.433333333333334
+Myntra,3,118,12.799999999999999
+Indium Software,6,118,11.016666666666666
+Brillio,5,116,15.8
+Reliance Industries,4,116,8.7
+Kantar,3,114,7.233333333333333
+Course5,4,114,7.675
+Synechron,4,113,15.825
+Etech Global Services,2,113,7.8
+Ola Cabs,2,112,16.6
+Sapiens,2,111,15.25
+Enquero,3,110,12.266666666666666
+QUADRANT RESOURCE LLC,1,109,3.0
+BYJU'S,4,108,8.45
+TEKsystems,6,107,14.016666666666666
+Capita,2,107,9.25
+General Mills,4,107,10.575
+Intellect Design Arena,2,106,14.2
+Kotak Mahindra Bank,1,106,7.5
+Teradata,2,102,13.55
+Persistent Systems,4,102,14.275
+Mercedes-Benz Research & Development India,5,101,16.32
+Ameriprise Financial,4,99,10.35
+Indegene,5,98,12.78
+Aon,3,98,5.666666666666667
+Cerner,4,96,13.049999999999999
+IHS Markit,4,96,15.85
+Provana,2,96,6.35
+Udaan,2,96,8.3
+Iris Software,4,95,19.1
+HERE Technologies,3,95,11.600000000000001
+Infosys BPM,3,94,6.233333333333333
+CitiusTech,4,94,12.9
+Yash Technologies,6,93,10.683333333333332
+EPAM Systems,3,92,20.766666666666666
+Meesho,2,92,16.65
+BCG,5,91,18.74
+N+A,3,89,6.2
+Oracle Financial Services Software,2,88,12.2
+Axtria,2,88,10.100000000000001
+Unisys,2,87,10.2
+Altisource,2,85,7.0
+Lowe's,4,84,18.35
+ADP Solutions,3,84,10.833333333333334
+Ebix Software India,2,83,8.4
+Franklin Templeton Investments,4,82,18.825
+Merilytics,2,82,7.4
+McKinsey & Company,5,82,19.86
+NIIT Technologies,3,81,13.799999999999999
+Freelancer.com,3,81,5.3
+Fidelity Investment,3,81,15.533333333333333
+Capco Technologies,2,80,16.05
+Ganit Business Solutions,4,80,11.225
+Google,2,79,30.4
+Schlumberger,2,78,14.1
+Dell EMC,3,76,8.833333333333334
+Proziod Analytics,2,76,4.2
+Uber,3,76,30.899999999999995
+Datamatics Global Services,2,76,3.5999999999999996
+Gartner,2,76,16.45
+GE,4,76,17.375
+FE fundinfo,2,76,4.05
+Gartner India Research and Advisory Services,3,74,18.599999999999998
+Nvidia,2,74,12.3
+Confidential,3,73,8.066666666666668
+Futurense Technologies,1,72,9.5
+DBS Bank,4,72,17.225
+IVY Comptech,3,71,19.033333333333335
+ThoughtWorks,3,71,16.866666666666664
+ANR Software,1,71,4.5
+RevGurus Info India,1,68,8.3
+Azentio,2,68,10.25
+Continental Automotive Components,2,68,2.75
+SG Analytics,3,68,6.3
+Dunnhumby,4,68,13.55
+Mercer,3,68,4.966666666666666
+Nagarro,4,67,16.825
+E2OPEN,2,67,5.1
+Ardem Data Services,1,67,1.9
+Johnson & Johnson,4,66,14.375
+JLL,3,66,11.733333333333334
+Impact Analytics,2,66,11.2
+Cybage,2,65,16.3
+Tata Communications,2,65,4.45
+Verificient Technologies,1,65,2.2
+CRG Solutions,1,64,5.8
+Bosch Global Software Technologies,4,63,14.225000000000001
+Sutherland Global Services,3,63,6.633333333333333
+Thomson Reuters,4,63,11.175
+Freelance Consultants,3,62,15.233333333333334
+Broadridge Financial Solutions,1,62,10.8
+Kriya It,1,61,1.6
+MSC Technology India,2,60,5.5
+Xyz Company,2,60,12.3
+Indus Valley Partners,1,60,17.0
+Happiest Minds Technologies,5,60,15.4
+Schneider Electric,2,59,7.949999999999999
+Fidelity National Financial,2,58,4.1
+CRMnext,1,58,6.6
+NeoSoft Technologies,1,57,6.9
+Adobe,5,57,28.04
+Systech Solutions,2,57,4.4
+Hinduja Global Solutions,3,56,7.533333333333332
+Xoriant,3,56,15.5
+NSE.IT,1,56,6.8
+Straive,2,56,5.8500000000000005
+Great Learning,2,55,10.8
+LiquidHub,2,55,3.05
+Commonwealth Bank of Australia,4,55,27.925
+Micron Technology,3,55,16.366666666666667
+Competent Software,1,54,3.1
+The Smart Cube,2,54,8.65
+Exela Technologies,1,54,8.3
+Caterpillar Inc,3,54,13.933333333333332
+Analytics Quotient,1,53,5.3
+S&P Global Market Intelligence,2,53,5.5
+QualityKiosk Technologies,1,53,7.7
+Collabera Technologies,4,53,13.125
+MasterCard,3,53,20.066666666666666
+Polestar Solutions & Services India,1,52,6.1
+Veeraraghavan & Company,1,52,1.7
+Sonata Software,2,52,7.949999999999999
+Better.com,1,51,7.8
+Innominds Software,2,51,14.65
+KJ System,1,50,2.9
+IndusInd Bank,1,49,8.0
+Kyndryl,3,49,23.766666666666666
+Vinculum Solutions,1,49,8.8
+Optimint Solutions,1,49,2.2
+Photon Interactive,2,48,9.0
+Shipco Transport,1,48,3.4
+GE Healthcare,3,48,19.366666666666667
+Yodlee,3,48,15.0
+Intelligent Image Management Inc,1,47,1.4
+UnitedLex,1,47,3.1
+Reliance Retail,2,47,6.5
+Sopra Steria,2,47,13.35
+DataMetica,2,47,9.850000000000001
+InSync Analytics,2,46,3.05
+Lumiq.ai,3,46,10.133333333333333
+Subex,3,46,14.666666666666666
+CAMP Systems,2,46,4.449999999999999
+Bahar Infocons,1,45,2.2
+SAP,2,45,27.0
+Siemens,3,45,12.700000000000001
+Morgan Stanley,3,45,22.46666666666667
+Lentra AI,1,45,6.8
+Wolters Kluwer,2,44,18.1
+Fidelity International,2,44,33.25
+Acidaes Solutions,1,43,7.0
+Citigroup,3,43,17.0
+Landmark Group,1,43,11.6
+Sigmoid Analytics,3,43,17.466666666666665
+eClinicalWorks,1,43,5.3
+Atos,3,43,14.766666666666666
+Visa,2,42,28.0
+VeeTechnologies,2,42,2.45
+Decision Point,3,42,13.366666666666665
+Care Health Insurance,1,42,5.9
+IBS Software Services,1,42,6.2
+Sphera Solutions,1,42,3.4
+Koch Business Solutions,3,41,30.900000000000002
+Tavant Technologies,3,41,11.266666666666666
+Celebal Technologies,2,41,7.05
+Incedo,2,41,15.549999999999999
+Pboplus Consulting Services,1,40,4.0
+Principal Global Services,2,40,11.75
+Randstad,2,40,5.550000000000001
+Atidiv,1,40,3.0
+Tsys Card Tech Services,1,40,15.7
+R Systems International,2,40,15.5
+NatWest Markets,2,40,14.7
+CMS Computers Limited (INDIA),1,39,4.0
+Factspan Analytics,1,39,8.1
+Hindustan Unilever,1,39,7.1
+Simplify Healthcare,1,39,5.8
+GE Aviation,3,39,17.666666666666668
+Goldman Sachs,1,39,14.9
+Philips,3,38,19.333333333333332
+Fluentgrid,1,38,5.5
+Ecolab Digital Center,4,38,17.225
+International School of Engineering,2,38,15.35
+Whitehat jr,2,38,9.25
+Data Entry,1,38,1.7
+Huawei Technologies,1,38,4.3
+Innodatatics,1,37,4.5
+LearningMate Solutions,2,37,9.8
+Yardi Systems,1,36,3.7
+Tesco,2,36,7.9
+Blue Yonder,2,36,26.1
+Xceedance,1,36,13.4
+MetLife,1,35,6.0
+Axa XL,2,35,8.8
+eMids Technologies,1,35,15.3
+D Cube Analytics,1,35,11.7
+Numeratr,1,35,3.0
+Vaco Binary Semantics,2,35,4.35
+BEPEC Solutions,1,34,4.9
+Yukthi Datasoft,1,34,2.1
+Info Edge,2,33,23.9
+Gramener,2,33,12.100000000000001
+Wavicle Data Solutions,2,33,8.45
+SpringML,2,33,10.399999999999999
+KPI Partners,3,33,14.333333333333334
+Data Gyan,1,32,1.8
+Orange Business Services,2,32,14.450000000000001
+Collegedunia,2,32,4.15
+TSWRDC WOMEN'S DEGREE COLLEGE,1,31,2.5
+Data Semantics,2,31,12.15
+Dataction Analytics,1,31,2.6
+Danske IT,1,31,18.7
+BA Continuum,2,31,18.05
+BlazeClan Technologies,2,30,7.75
+HUDL,1,30,2.9
+Allscripts,1,30,13.9
+Fragma Data Systems,1,30,5.5
+Saama Technologies,2,29,13.1
+Annalect,1,29,5.6
+NIKE,2,29,26.15
+DataWeave,2,29,10.85
+Accion Labs,2,28,17.8
+L&T Technology Services,3,28,9.733333333333333
+FedEx Express,1,28,7.4
+Galytix Analytics,1,28,6.0
+CES,1,27,7.4
+MResult Services,2,27,8.3
+APA Engineering,1,27,2.0
+Boeing,3,27,23.066666666666666
+Statestreet HCL Services,1,27,3.0
+Stats Systems India,1,26,2.1
+Eli Lilly and Company,3,26,23.53333333333333
+MindGate Solutions,1,26,12.5
+Bristlecone,1,26,9.0
+Maersk Line,2,26,17.15
+DUNNHUMBY IT SERVICES INDIA,3,26,12.466666666666667
+Objectways Technologies,1,26,1.5
+First American Corporation,1,26,13.4
+Apple,2,26,29.3
+Sandcube Analytics,1,26,2.3
+Applied Materials,1,26,14.2
+IDFC FIRST Bank,2,25,18.1
+Jio Platforms,2,25,12.4
+Quest Global,3,25,16.599999999999998
+NISC Export Services,1,25,3.2
+Pacecom Technologies,1,25,2.1
+Crif High Mark Credit Information Services,1,25,5.5
+ANZ Banking Group,1,25,9.8
+Hive,1,25,4.2
+Baker Hughes,3,24,21.2
+Hsbc Technology,1,24,18.7
+iNeuron.ai,1,24,5.1
+T-Systems,3,24,22.866666666666664
+Eurofins It Solutions,1,24,22.0
+TVS Credit Services,1,24,14.7
+Northern Trust Operating Services,1,23,6.2
+NCR Corporation,2,23,12.75
+Volante Technologies,1,22,22.3
+Sabre,1,22,20.1
+Apexon,2,22,8.9
+Toluna,1,22,7.1
+Jocata Financial Advisory and Technology,1,22,14.3
+Scienaptic Systems,2,22,17.15
+Neal Analytics,2,21,17.05
+Colgate Global Business Services,1,21,15.2
+Allsec Technologies,1,21,6.1
+o9 Solutions,2,21,17.65
+Sopra Banking Software,1,21,16.3
+Prodapt Solutions,1,21,6.9
+Rubixe,1,21,4.7
+AstraZeneca,2,21,11.65
+Algonomy,3,20,17.0
+Lumen Technologies,1,20,6.6
+KPIT Technologies,1,20,7.7
+Thryve Digital,1,20,10.0
+Blackbuck Insights,1,20,4.2
+Value c Consulting India,1,20,5.2
+ABB Group,1,20,13.0
+NDS InfoServ,1,20,9.1
+Flip Robo Technologies,1,20,4.7
+Mastek,1,20,13.6
+Springer Nature,1,20,17.0
+L&T Financial Services,1,20,9.3
+Marlabs,2,20,11.75
+Dun & Bradstreet,3,19,13.766666666666666
+Infor Global Solution,1,19,16.8
+Cygnet Infotech,1,19,8.6
+MakeMyTrip,2,19,16.95
+Brane Enterprises,1,19,14.0
+Royal Bank of Scotland International,1,19,5.7
+State Street Corporation,1,18,10.7
+InfoStretch,2,18,13.65
+CARS24.com,1,18,20.3
+Expedia,2,18,31.2
+Vedantu,1,18,16.9
+Unacademy,1,18,13.0
+Ocwen Financial Solutions,1,18,9.9
+HCL Infosystems,1,18,9.0
+Majesco,1,17,13.6
+Accolite Digital,2,17,13.65
+Innova Solutions,2,17,33.400000000000006
+Clover Infotech,1,17,9.1
+Impetus Technologies,1,17,13.1
+Infinite Computer Solutions,1,17,9.3
+Abzooba India Infotech,1,16,15.0
+GE Digital,2,16,14.75
+Knoema IT Solutions,2,16,6.1
+Embibe,1,16,16.6
+Delhivery,1,16,15.6
+Advance Auto Parts,2,16,19.5
+Dynata,1,16,8.8
+Exxon Mobil,1,16,23.2
+Rakuten,2,16,18.25
+TransOrg Analytics,1,16,9.4
+Synchrony,1,16,7.5
+Unire Business Solutions,1,16,1.9
+Go-Jek,1,15,30.5
+ICICI Lombard General Insurance Company,1,14,12.1
+Michelin,1,14,9.8
+VASTA BIO-INFORMATICS,1,14,3.6
+Clairvoyant India,2,14,13.3
+Samsung Research,2,14,24.549999999999997
+Samsung,2,14,16.0
+Reserve Bank Information Technology,1,14,15.9
+Nailbiter Research,1,14,4.7
+iOPEX Technologies,1,14,7.9
+HTC Global Services,1,13,6.4
+Webhelp,2,13,11.35
+Adidas,1,13,23.0
+Cittabase Solutions,1,13,7.9
+Zee Entertainment Enterprises,1,13,16.7
+CSS Corp,1,13,10.2
+Mr Cooper,2,13,13.4
+Bitwise Solutions,1,13,6.1
+Oil Field Instrumentation,1,13,6.9
+The Data Team,1,13,11.5
+Wipro Digital,1,13,11.1
+Red Hat,2,12,15.649999999999999
+Expert Global Solutions,1,12,2.1
+Rackspace,1,12,16.3
+Publicis,2,12,16.45
+Qualcomm,1,12,19.4
+Advantmed,1,12,7.1
+Searce Cosourcing Services,1,12,7.4
+Denave,1,11,6.7
+OptiSol Business Solutions,1,11,5.6
+Bluemind Solutions,1,11,3.1
+Autodesk,1,11,26.5
+Shadowfax Technologies,1,11,7.7
+nThrive Global Solutions,1,11,11.8
+AI Touch,1,11,2.3
+Wissend,1,11,1.9
+Cross-tab Marketing Services,1,11,5.0
+GSK Pharmaceuticals,1,11,23.1
+Resilinc,1,11,5.8
+PepsiCo,2,11,31.55
+Experis IT,1,10,8.2
+comScore,1,10,19.7
+Mobikwik,1,10,13.9
+AVASOFT,1,10,4.0
+Apisero,1,10,13.5
+Intersoft Data Labs,1,10,29.2
+Fedby Information Services,1,10,4.6
+i2e Consulting,1,10,13.1
+Phoenix American Sales Focus Solutions India,1,10,5.7
+Lenovo,1,10,13.5
+Colgate Palmolive,1,10,10.7
+Denodo Technologies,1,9,8.0
+DecisionTree Analytics & Services,1,9,12.8
+Ags Infotech,1,9,5.0
+Akamai Technologies,2,9,25.700000000000003
+Aktrix Technologies,1,9,4.1
+Equifax,1,9,6.2
+Automatic Data Processing,2,9,35.45
+Rapido,1,9,14.9
+News Technology Services,1,9,17.4
+Clarivate Analytics,1,9,17.7
+Hashedin By Deloitte,1,9,15.0
+Landis+Gyr,1,9,15.0
+Swiss Re,2,9,23.549999999999997
+QL2 Software,1,9,3.4
+Claim Genius,1,8,21.4
+Wunderman,1,8,5.7
+Lam Research,1,8,16.5
+Optum Global Solutions,1,8,18.5
+Nisum Technologies,1,8,20.1
+NielsenIQ,1,8,8.7
+Blinkit,1,8,16.7
+BUDDI.AI,1,8,4.2
+AntWorks,1,8,20.6
+Games24x7,1,8,17.9
+Home Credit Finance,1,8,7.6
+Hudson's bay Company,1,8,15.7
+S&P Capital IQ,1,8,6.4
+Sentieo,1,8,5.9
+Xiaomi,1,8,9.5
+e-Zest,1,7,4.5
+D2L Pharma Research Solutions,1,7,4.3
+Luxoft,1,7,19.5
+HARMAN,1,7,9.4
+Cartesian Consulting,1,7,7.5
+Aakash Institute,1,7,5.3
+Johnson Controls,1,7,25.1
+GE Power,2,7,16.05
+TO THE NEW,1,7,18.9
+TIAA Global Business Services,1,7,15.5
+Fuel Intelligence,1,7,4.5
+Mobile Premier League,1,7,25.2
+Nailbiter,1,7,4.9
+Symphony Retail AI,1,7,10.5
+Bajaj Finance,1,7,20.0
+B3Intelligence,1,7,6.8
+Trantor,1,7,9.4
+Monsoon CreditTech,1,6,9.6
+GE Transportation,1,6,22.2
+Cummins,1,6,23.2
+Quantium Analytics,1,6,25.0
+Encore Capital Group,1,6,8.5
+Sysark,1,6,3.7
+Williams Lea Tag,1,6,6.6
+Eversana,1,6,14.3
+Yum!,1,6,15.3
+Arthur J. Gallagher & Co,1,6,5.5
+Athenahealth Technology,1,6,6.1
+Xpo Logistics,1,6,16.3
+XL Catlin,1,6,14.9
+Lucida Technologies,1,6,3.6
+Ninjacart,1,6,6.7
+MKS Vision,1,6,18.1
+Anthology,1,6,25.5
+Ecolab Food Safety & Hygiene Solutions,1,6,13.9
+Renault Nissan Technology & Business Centre India,1,6,8.2
+Ignitarium Technology Solutions,1,6,5.8
+AAIC Technologies,1,5,9.1
+Apar Technologies,1,5,24.5
+Alliance Data,1,5,16.9
+Softcrylic Technology Solutions,1,5,18.6
+Siemens Healthineers,1,5,20.0
+AlgoAnalytics Financial Consultancy,1,5,18.9
+V2 Solutions,1,5,8.5
+Sri Ayyan Kendra Vidyalaya International School,1,5,6.1
+Qualitas Technologies,1,5,4.7
+Phenom,1,5,12.6
+EEGRAB,1,5,5.1
+Metagogy Learning Systems,1,5,3.7
+Blend360,1,5,30.4
+Taglr Technologies,1,5,6.3
+Neewee Analytics,1,5,14.9
+Digitalmain,1,5,4.4
+Takvaviya Analytics,1,5,4.8
+Emirates Airlines,1,5,68.3
+Noodle.Ai,1,5,21.7
+Reflections Info Systems,1,5,3.6
+Riskonnect,1,5,8.5
+Danaher,1,5,24.8
+Amnet Digital,1,5,11.8
+Anju Software,1,5,16.9
+MassMutual,1,5,19.3
+CIMCON Software,1,5,6.6
+Franklin Templeton International Services,1,5,18.7
+Intuit,1,5,39.0
+Kloud 9,1,5,29.9
+Allstate,1,5,12.1
+HALODOC,1,5,27.4
+ConcertAI,1,5,28.2
+Hitachi Vantara,1,5,24.6
+GGK Technologies,1,5,11.2
+Information Evolution,1,5,3.4
+Chegg,1,5,32.2
+Chubb Group,1,5,16.6
+Decision Minds,1,5,19.0
+Decimal Point Analytics,1,5,20.2
+ACS Solution,1,5,15.2
+ACL Digital,1,5,18.8
+phData,1,5,20.0
+ZF Group,1,5,16.8
+USEReady,1,4,14.3
+Techolution,1,4,10.0
+Telstra,1,4,27.6
+Tata Motors,1,4,11.5
+Senvion,1,4,12.7
+Sapient Global Markets,1,4,19.9
+Wabtec,1,4,20.0
+Western Union,1,4,22.2
+Whishworks It Consulting,1,4,29.8
+Roche Diagnostics,1,4,33.1
+Pitney Bowes,1,4,17.5
+Omega Healthcare,1,4,14.1
+Onepoint IT Consulting,1,4,10.3
+Milliman,1,4,19.5
+MSCI,1,4,38.4
+Maveric Systems,1,4,19.0
+KrazyBee,1,4,10.3
+Intel,1,4,14.4
+EdgeVerve Systems,1,4,20.4
+Cimpress,1,4,20.5
+Calsoft,1,4,10.9
+Aditya Birla Group,1,4,28.0
+Blackhawk Network,1,4,21.8
+XL Health,1,4,9.9
+Hitachi,1,3,40.0

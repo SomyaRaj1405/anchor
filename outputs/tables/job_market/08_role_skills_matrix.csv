@@ -1,0 +1,51 @@
+job_role,skill,frequency,share_pct_within_role
+Data Scientist,machine learning,180,47.62
+Data Scientist,python,165,43.65
+Data Scientist,r,129,34.13
+Data Scientist,data science,96,25.4
+Data Scientist,deep learning,71,18.78
+Data Scientist,data scientist,66,17.46
+Data Scientist,sql,57,15.08
+Data Scientist,java,46,12.17
+Data Scientist,nlp,42,11.11
+Data Scientist,data mining,39,10.32
+Data Analyst,data analysis,147,53.45
+Data Analyst,excel,51,18.55
+Data Analyst,sql,49,17.82
+Data Analyst,python,41,14.91
+Data Analyst,r,39,14.18
+Data Analyst,data analyst,35,12.73
+Data Analyst,data analytics,35,12.73
+Data Analyst,data mining,31,11.27
+Data Analyst,machine learning,28,10.18
+Data Analyst,sas,22,8.0
+Business Analyst,business analysis,433,54.95
+Business Analyst,business analyst,114,14.47
+Business Analyst,sql,61,7.74
+Business Analyst,business analysis...,49,6.22
+Business Analyst,requirement gathering,39,4.95
+Business Analyst,analytics,38,4.82
+Business Analyst,data analytics,37,4.7
+Business Analyst,uat,36,4.57
+Business Analyst,user stories,35,4.44
+Business Analyst,use cases,35,4.44
+Data Engineer,hadoop,42,37.17
+Data Engineer,spark,40,35.4
+Data Engineer,sql,36,31.86
+Data Engineer,hive,33,29.2
+Data Engineer,big data,32,28.32
+Data Engineer,python,30,26.55
+Data Engineer,java,28,24.78
+Data Engineer,etl,19,16.81
+Data Engineer,pig,19,16.81
+Data Engineer,scala,18,15.93
+Product Manager,product management,119,58.62
+Product Manager,product manager,32,15.76
+Product Manager,sales,29,14.29
+Product Manager,product strategy,26,12.81
+Product Manager,marketing,25,12.32
+Product Manager,product management...,20,9.85
+Product Manager,user experience,17,8.37
+Product Manager,ux,15,7.39
+Product Manager,product development...,15,7.39
+Product Manager,data analytics,13,6.4
