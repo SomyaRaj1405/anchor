@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <defs>
+    <linearGradient id="pureAnchorGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00f2fe" />
+      <stop offset="50%" stop-color="#00b4d8" />
+      <stop offset="100%" stop-color="#0077b6" />
+    </linearGradient>
+  </defs>
+
+  <!-- Top Shackle / Ring -->
+  <circle cx="32" cy="11" r="6" stroke="url(#pureAnchorGrad)" stroke-width="3.2" fill="none" />
+  <circle cx="32" cy="11" r="2.2" fill="url(#pureAnchorGrad)" opacity="0.6" />
+
+  <!-- Stock (Crossbar) -->
+  <path d="M 17 21 L 47 21" stroke="url(#pureAnchorGrad)" stroke-width="3.4" stroke-linecap="round" />
+  <circle cx="17" cy="21" r="2.2" fill="url(#pureAnchorGrad)" />
+  <circle cx="47" cy="21" r="2.2" fill="url(#pureAnchorGrad)" />
+
+  <!-- Shank (Shaft) -->
+  <path d="M 32 17 L 32 54" stroke="url(#pureAnchorGrad)" stroke-width="3.8" stroke-linecap="round" />
+
+  <!-- Flukes (Curved Arms) -->
+  <path d="M 12 37 C 12 52 24 57 32 57 C 40 57 52 52 52 37" stroke="url(#pureAnchorGrad)" stroke-width="3.8" stroke-linecap="round" fill="none" />
+
+  <!-- Left Fluke Palm -->
+  <polygon points="8,37 14,33 16,39" fill="url(#pureAnchorGrad)" />
+
+  <!-- Right Fluke Palm -->
+  <polygon points="56,37 50,33 48,39" fill="url(#pureAnchorGrad)" />
+
+  <!-- Crown Tip -->
+  <polygon points="29,57 35,57 32,60.5" fill="url(#pureAnchorGrad)" />
+</svg>

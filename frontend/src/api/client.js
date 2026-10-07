@@ -95,7 +95,7 @@ export async function getDiagnosis(candidateId = "sample-a") {
           provenance: "MODELLED"
         }
       ],
-      summary: { barrier_count: 2, watch_count: 2, strength_count: 1 },
+      summary: { barrier_count: 2, watch_count: 2, strength_count: 0 },
       recommendation: {
         intervention: "TRANSITION",
         title: "Transition — Skill Adjacency & Reframe",
@@ -381,7 +381,7 @@ export async function getSimulation(params = {}) {
       { label: "Continuous employment", value: 100, provenance: "SIMULATED" },
       { label: "Career gap, chronological", value: Math.round(100 * (1 - gapPenaltyFactor)), provenance: "EMPIRICAL" },
       { label: "Gap + upskilling certificate", value: Math.round(100 * (1 - gapPenaltyFactor)), provenance: "EMPIRICAL" },
-      { label: "Gap + duration reframing", value: Math.round(100 * (1 - gapPenaltyFactor) * 1.15), provenance: "EMPIRICAL" }
+      { label: "Gap + duration reframing", value: Math.round((versionBPass / baseRate) * 1000) / 10, provenance: "EMPIRICAL" }
     ],
     assumptions: simulateResponseA.assumptions,
     limitations: simulateResponseA.limitations
