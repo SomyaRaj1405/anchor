@@ -1,0 +1,49 @@
+{
+  "results": [
+    {
+      "line_number": 1,
+      "rule_text": "Continuous employment required within past 12 months",
+      "matched_rule_id": "AR-001",
+      "matched_rule_name": "Continuous employment required",
+      "risk_level": "HIGH",
+      "impact": "Disproportionately eliminates qualified re-entry talent without measuring actual capability.",
+      "recommended_intervention": "Eliminate continuity as a mandatory gate; evaluate cumulative years and recent problem-solving.",
+      "evidence_ids": [
+        "EV-001"
+      ],
+      "provenance": "MODELLED"
+    },
+    {
+      "line_number": 2,
+      "rule_text": "Most recent title must exactly match target vacancy",
+      "matched_rule_id": "AR-002",
+      "matched_rule_name": "Exact most-recent-title match",
+      "risk_level": "MEDIUM",
+      "impact": "Excludes adjacent career-transition candidates with strong transferable skill overlap.",
+      "recommended_intervention": "Implement skill-vector adjacency matching across related functional roles.",
+      "evidence_ids": [],
+      "provenance": "MODELLED"
+    },
+    {
+      "line_number": 3,
+      "rule_text": "Mandatory certification dated within last 24 months",
+      "matched_rule_id": "AR-003",
+      "matched_rule_name": "Recent mandatory certification",
+      "risk_level": "HIGH",
+      "impact": "Imposes a credential tax on candidates, although research found generic upskilling certificates did not raise callbacks.",
+      "recommended_intervention": "Replace recency criteria with focused practical capability verification assessments.",
+      "evidence_ids": [
+        "EV-001"
+      ],
+      "provenance": "MODELLED"
+    }
+  ],
+  "summary": {
+    "total_rules": 3,
+    "flagged": 3,
+    "high": 2,
+    "medium": 1,
+    "low": 0,
+    "none": 0
+  }
+}
