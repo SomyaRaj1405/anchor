@@ -1,0 +1,9 @@
+# Pyrefly Language Server Configuration
+python-interpreter-path = "backend/.venv/Scripts/python.exe"
+search-path = [
+    "backend",
+    "backend/app"
+]
+
+[errors]
+missing-import = false

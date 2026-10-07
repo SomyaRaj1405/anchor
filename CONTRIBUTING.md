@@ -14,15 +14,15 @@ Each person works on their own branch:
 | Laveesha | `laveesha-audit` |
 | Aarushi | `aarushi-data` |
 
-Do not commit directly to `main`. Open a pull request from your branch into `main`.
+Everyone pushes to their designated branches and merges to `main` as before. Force pushes and branch deletions on `main` are blocked by ruleset.
 
 ## Daily workflow
 
 1. Update your branch: `git checkout <your-branch>` then `git merge main`
 2. Do your work and commit small, often.
-3. Push: `git push`
-4. Open a pull request into `main` when a piece of work is ready.
-5. The team lead reviews and merges.
+3. Push to your branch: `git push origin <your-branch>`
+4. Merge or open a pull request into `main` when a piece of work is verified.
+5. The team lead coordinates integration and releases.
 
 ## Stay in your lane
 
