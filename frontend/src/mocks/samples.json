@@ -1,0 +1,113 @@
+{
+  "profiles": [
+    {
+      "id": "sample-a",
+      "title": "Marketing Manager re-entry (Pune)",
+      "description": "Same-role return after a 3-year break; presentation is the barrier. Expected: REFRAME.",
+      "profile": {
+        "current_or_last_role_id": "marketing_manager",
+        "target_role_id": "marketing_manager",
+        "industry": "Consumer Goods (FMCG)",
+        "location": "Pune, India",
+        "experience_years": 7.2,
+        "experience_start_year": 2013,
+        "experience_end_year": 2020,
+        "gap_years": 3,
+        "reentry_year": 2023,
+        "gap_reason": "CAREGIVING",
+        "resume_format": "CHRONOLOGICAL",
+        "skills": [
+          "brand_strategy",
+          "pnl_leadership",
+          "analytics",
+          "excel",
+          "business_intelligence",
+          "stakeholder_management",
+          "campaign_tracking",
+          "reporting_dashboards"
+        ],
+        "recent_activities": [],
+        "availability_stated": false
+      }
+    },
+    {
+      "id": "sample-b",
+      "title": "Marketing Manager to Data Analyst",
+      "description": "Same candidate targeting a different role. Expected: TRANSITION.",
+      "profile": {
+        "current_or_last_role_id": "marketing_manager",
+        "target_role_id": "data_analyst",
+        "industry": "Consumer Goods (FMCG)",
+        "location": "Pune, India",
+        "experience_years": 7.2,
+        "experience_start_year": 2013,
+        "experience_end_year": 2020,
+        "gap_years": 3,
+        "reentry_year": 2023,
+        "gap_reason": "CAREGIVING",
+        "resume_format": "CHRONOLOGICAL",
+        "skills": [
+          "brand_strategy",
+          "pnl_leadership",
+          "analytics",
+          "excel",
+          "business_intelligence",
+          "stakeholder_management",
+          "campaign_tracking",
+          "reporting_dashboards"
+        ],
+        "recent_activities": [],
+        "availability_stated": false
+      }
+    },
+    {
+      "id": "sample-c",
+      "title": "HR Manager with stale skills (Bengaluru)",
+      "description": "4-year break and genuinely missing core skills. Expected: RESKILL.",
+      "profile": {
+        "current_or_last_role_id": "hr_manager",
+        "target_role_id": "hr_manager",
+        "industry": "IT Services",
+        "location": "Bengaluru, India",
+        "experience_years": 5,
+        "experience_start_year": 2014,
+        "experience_end_year": 2019,
+        "gap_years": 4,
+        "reentry_year": 2023,
+        "gap_reason": "HEALTH",
+        "resume_format": "CHRONOLOGICAL",
+        "skills": [
+          "employee_engagement",
+          "stakeholder_management"
+        ],
+        "recent_activities": [
+          "Volunteer HR advisory for an NGO"
+        ],
+        "availability_stated": true
+      }
+    }
+  ],
+  "audit_rule_sets": [
+    {
+      "id": "deck-rules",
+      "title": "Pitch-deck sample rules",
+      "rules": [
+        "Continuous employment required within past 12 months",
+        "Most recent title must exactly match target vacancy",
+        "Mandatory certification dated within last 24 months"
+      ]
+    },
+    {
+      "id": "mixed-rules",
+      "title": "Mixed rules (includes safe lines)",
+      "rules": [
+        "Resume must list exact employment dates for every role",
+        "Graduated within the last 5 years",
+        "Hands-on experience with Python in the last 12 months",
+        "Must be a team player",
+        "3+ years experience in sales",
+        "Candidates with no career breaks preferred"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "versions": [
+    {
+      "id": "A",
+      "label": "Chronological Baseline",
+      "representation": "CHRONOLOGICAL",
+      "pass_likelihood_pct": 34.2,
+      "resume_preview": [
+        "Marketing Manager — Consumer Goods (FMCG) · 2013 – 2020",
+        "Career break · 2020 – 2023"
+      ],
+      "drivers": [
+        {
+          "label": "Reference pass likelihood of a continuously employed candidate",
+          "effect": "BASE",
+          "value_pct": 67,
+          "provenance": "SIMULATED",
+          "evidence_id": null
+        },
+        {
+          "label": "Career-break penalty scaled to a 3-year gap",
+          "effect": "RELATIVE_CHANGE",
+          "value_pct": -49,
+          "provenance": "EMPIRICAL",
+          "evidence_id": "EV-001"
+        }
+      ],
+      "provenance": "SIMULATED"
+    },
+    {
+      "id": "B",
+      "label": "Experience Duration Framing",
+      "representation": "DURATION",
+      "pass_likelihood_pct": 39.3,
+      "resume_preview": [
+        "Marketing Manager — Consumer Goods (FMCG) · 7.2 years of experience"
+      ],
+      "drivers": [
+        {
+          "label": "Reference pass likelihood of a continuously employed candidate",
+          "effect": "BASE",
+          "value_pct": 67,
+          "provenance": "SIMULATED",
+          "evidence_id": null
+        },
+        {
+          "label": "Career-break penalty scaled to a 3-year gap",
+          "effect": "RELATIVE_CHANGE",
+          "value_pct": -49,
+          "provenance": "EMPIRICAL",
+          "evidence_id": "EV-001"
+        },
+        {
+          "label": "Experience-duration reframing (relative lift)",
+          "effect": "RELATIVE_CHANGE",
+          "value_pct": 15,
+          "provenance": "EMPIRICAL",
+          "evidence_id": "EV-002"
+        }
+      ],
+      "provenance": "SIMULATED"
+    },
+    {
+      "id": "C",
+      "label": "Candidate-Optimized Framing",
+      "representation": "OPTIMIZED",
+      "pass_likelihood_pct": 43.3,
+      "resume_preview": [
+        "Marketing Manager — Consumer Goods (FMCG) · 7.2 years of experience",
+        "Business Leadership: P&L Leadership, Stakeholder Management",
+        "Data & Analytics: Analytics, Business Intelligence, Excel, Reporting Dashboards",
+        "Marketing Execution: Campaign Tracking",
+        "Marketing Strategy: Brand Strategy",
+        "Availability: ready to start immediately"
+      ],
+      "drivers": [
+        {
+          "label": "Reference pass likelihood of a continuously employed candidate",
+          "effect": "BASE",
+          "value_pct": 67,
+          "provenance": "SIMULATED",
+          "evidence_id": null
+        },
+        {
+          "label": "Career-break penalty scaled to a 3-year gap",
+          "effect": "RELATIVE_CHANGE",
+          "value_pct": -49,
+          "provenance": "EMPIRICAL",
+          "evidence_id": "EV-001"
+        },
+        {
+          "label": "Experience-duration reframing (relative lift)",
+          "effect": "RELATIVE_CHANGE",
+          "value_pct": 15,
+          "provenance": "EMPIRICAL",
+          "evidence_id": "EV-002"
+        },
+        {
+          "label": "Structured competency clusters",
+          "effect": "RELATIVE_CHANGE",
+          "value_pct": 5,
+          "provenance": "SIMULATED",
+          "evidence_id": null
+        },
+        {
+          "label": "Explicit availability indicator",
+          "effect": "RELATIVE_CHANGE",
+          "value_pct": 5,
+          "provenance": "SIMULATED",
+          "evidence_id": null
+        }
+      ],
+      "provenance": "SIMULATED"
+    }
+  ],
+  "control_certificate": {
+    "label": "Chronological + upskilling certificate",
+    "pass_likelihood_pct": 34.2,
+    "note": "No statistically significant change in callbacks was found for upskilling certificates (EV-001).",
+    "provenance": "EMPIRICAL",
+    "evidence_id": "EV-001"
+  },
+  "benchmark_index": [
+    {
+      "label": "Continuous employment",
+      "value": 100,
+      "provenance": "SIMULATED"
+    },
+    {
+      "label": "Career gap, chronological",
+      "value": 51,
+      "provenance": "EMPIRICAL"
+    },
+    {
+      "label": "Gap + upskilling certificate",
+      "value": 51,
+      "provenance": "EMPIRICAL"
+    },
+    {
+      "label": "Gap + duration reframing",
+      "value": 58.7,
+      "provenance": "EMPIRICAL"
+    }
+  ],
+  "assumptions": [
+    {
+      "key": "reference_pass_likelihood_pct",
+      "value": 67,
+      "provenance": "SIMULATED",
+      "note": "Assumed pass likelihood of a comparable continuously employed candidate; chosen so that a 3-year gap reproduces about 34%."
+    },
+    {
+      "key": "gap_penalty_pct_at_full",
+      "value": 49,
+      "provenance": "EMPIRICAL",
+      "note": "EV-001: 49% lower callback rate for women with career breaks (India)."
+    },
+    {
+      "key": "gap_years_at_full_penalty",
+      "value": 3,
+      "provenance": "MODELLED",
+      "note": "Penalty is scaled linearly up to this gap length and capped beyond it."
+    },
+    {
+      "key": "reframing_relative_lift_pct",
+      "value": 15,
+      "provenance": "EMPIRICAL",
+      "note": "EV-002: callbacks +15% versus gap-dated resumes (United Kingdom)."
+    },
+    {
+      "key": "competency_cluster_lift_pct",
+      "value": 5,
+      "provenance": "SIMULATED",
+      "note": "Illustrative assumption; no published source."
+    },
+    {
+      "key": "availability_indicator_lift_pct",
+      "value": 5,
+      "provenance": "SIMULATED",
+      "note": "Illustrative assumption; no published source."
+    },
+    {
+      "key": "certificate_lift_pct",
+      "value": 0,
+      "provenance": "EMPIRICAL",
+      "note": "EV-001: no statistically significant effect."
+    },
+    {
+      "key": "max_pass_likelihood_pct",
+      "value": 95,
+      "provenance": "SIMULATED",
+      "note": "Upper cap applied to every version."
+    }
+  ],
+  "limitations": [
+    "Published statistics describe populations, not individuals; Anchor never predicts an individual's outcome.",
+    "EV-001 was run in India and EV-002 in the United Kingdom; transferability between labour markets is not established.",
+    "Pass likelihoods are scenario projections (SIMULATED) built from the listed assumptions; they are not measured callback rates."
+  ]
+}

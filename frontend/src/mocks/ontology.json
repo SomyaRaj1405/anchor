@@ -1,0 +1,169 @@
+{
+  "skills": [
+    {
+      "id": "brand_strategy",
+      "name": "Brand Strategy",
+      "cluster": "Marketing Strategy",
+      "volatility": "LOW"
+    },
+    {
+      "id": "campaign_tracking",
+      "name": "Campaign Tracking",
+      "cluster": "Marketing Execution",
+      "volatility": "MEDIUM"
+    },
+    {
+      "id": "pnl_leadership",
+      "name": "P&L Leadership",
+      "cluster": "Business Leadership",
+      "volatility": "LOW"
+    },
+    {
+      "id": "stakeholder_management",
+      "name": "Stakeholder Management",
+      "cluster": "Business Leadership",
+      "volatility": "LOW"
+    },
+    {
+      "id": "analytics",
+      "name": "Analytics",
+      "cluster": "Data & Analytics",
+      "volatility": "MEDIUM"
+    },
+    {
+      "id": "excel",
+      "name": "Excel",
+      "cluster": "Data & Analytics",
+      "volatility": "LOW"
+    },
+    {
+      "id": "business_intelligence",
+      "name": "Business Intelligence",
+      "cluster": "Data & Analytics",
+      "volatility": "MEDIUM"
+    },
+    {
+      "id": "reporting_dashboards",
+      "name": "Reporting Dashboards",
+      "cluster": "Data & Analytics",
+      "volatility": "HIGH"
+    },
+    {
+      "id": "sql",
+      "name": "SQL",
+      "cluster": "Data Engineering",
+      "volatility": "LOW"
+    },
+    {
+      "id": "python",
+      "name": "Python",
+      "cluster": "Data Engineering",
+      "volatility": "MEDIUM"
+    },
+    {
+      "id": "requirements_gathering",
+      "name": "Requirements Gathering",
+      "cluster": "Business Analysis",
+      "volatility": "LOW"
+    },
+    {
+      "id": "process_mapping",
+      "name": "Process Mapping",
+      "cluster": "Business Analysis",
+      "volatility": "LOW"
+    },
+    {
+      "id": "talent_acquisition",
+      "name": "Talent Acquisition",
+      "cluster": "People Operations",
+      "volatility": "MEDIUM"
+    },
+    {
+      "id": "employee_engagement",
+      "name": "Employee Engagement",
+      "cluster": "People Operations",
+      "volatility": "LOW"
+    },
+    {
+      "id": "hr_analytics",
+      "name": "HR Analytics",
+      "cluster": "People Operations",
+      "volatility": "MEDIUM"
+    },
+    {
+      "id": "hris_tools",
+      "name": "HRIS Tools",
+      "cluster": "People Operations",
+      "volatility": "HIGH"
+    }
+  ],
+  "roles": [
+    {
+      "id": "marketing_manager",
+      "name": "Marketing Manager",
+      "function": "Marketing",
+      "outlook": "STABLE",
+      "core_skills": [
+        "brand_strategy",
+        "pnl_leadership",
+        "analytics",
+        "stakeholder_management",
+        "campaign_tracking",
+        "reporting_dashboards"
+      ]
+    },
+    {
+      "id": "data_analyst",
+      "name": "Data Analyst",
+      "function": "Data & Analytics",
+      "outlook": "GROWING",
+      "core_skills": [
+        "analytics",
+        "excel",
+        "business_intelligence",
+        "stakeholder_management",
+        "campaign_tracking",
+        "sql",
+        "python",
+        "reporting_dashboards"
+      ]
+    },
+    {
+      "id": "business_analyst",
+      "name": "Business Analyst",
+      "function": "Business Analysis",
+      "outlook": "GROWING",
+      "core_skills": [
+        "requirements_gathering",
+        "process_mapping",
+        "stakeholder_management",
+        "analytics",
+        "excel",
+        "sql"
+      ]
+    },
+    {
+      "id": "hr_manager",
+      "name": "HR Manager",
+      "function": "People Operations",
+      "outlook": "STABLE",
+      "core_skills": [
+        "talent_acquisition",
+        "employee_engagement",
+        "hr_analytics",
+        "stakeholder_management",
+        "hris_tools"
+      ]
+    },
+    {
+      "id": "data_entry_operator",
+      "name": "Data Entry Operator",
+      "function": "Operations",
+      "outlook": "DECLINING",
+      "core_skills": [
+        "excel",
+        "process_mapping"
+      ]
+    }
+  ]
+}
