@@ -1,0 +1,61 @@
+{
+  "target_role": {
+    "id": "data_analyst",
+    "name": "Data Analyst"
+  },
+  "transferable": [
+    {
+      "id": "analytics",
+      "name": "Analytics",
+      "cluster": "Data & Analytics"
+    },
+    {
+      "id": "excel",
+      "name": "Excel",
+      "cluster": "Data & Analytics"
+    },
+    {
+      "id": "business_intelligence",
+      "name": "Business Intelligence",
+      "cluster": "Data & Analytics"
+    },
+    {
+      "id": "stakeholder_management",
+      "name": "Stakeholder Management",
+      "cluster": "Business Leadership"
+    },
+    {
+      "id": "campaign_tracking",
+      "name": "Campaign Tracking",
+      "cluster": "Marketing Execution"
+    }
+  ],
+  "stale": [
+    {
+      "id": "reporting_dashboards",
+      "name": "Reporting Dashboards",
+      "cluster": "Data & Analytics",
+      "reason": "Toolchain volatility is HIGH and the break is 3 years."
+    }
+  ],
+  "missing": [
+    {
+      "id": "sql",
+      "name": "SQL",
+      "cluster": "Data Engineering"
+    },
+    {
+      "id": "python",
+      "name": "Python",
+      "cluster": "Data Engineering"
+    }
+  ],
+  "counts": {
+    "transferable": 5,
+    "stale": 1,
+    "missing": 2,
+    "total": 8
+  },
+  "coverage_pct": 62.5,
+  "provenance": "MODELLED"
+}

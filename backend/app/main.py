@@ -10,8 +10,10 @@ FastAPI application configuration:
 - Stub mode toggle via ANCHOR_STUB environment variable
 """
 
+import logging
 import os
 import sys
+from contextlib import asynccontextmanager
 from pathlib import Path
 
 # Ensure backend directory is in sys.path
@@ -25,6 +27,16 @@ from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import JSONResponse
 from starlette.exceptions import HTTPException as StarletteHTTPException
 
+from app.check_data import run_checks
+from app.routers import (
+    audit_router,
+    diagnostic_router,
+    evidence_router,
+    ontology_router,
+    samples_router,
+    simulation_router,
+    transition_router,
+)
 from app.schemas import (
     ErrorBody,
     ErrorCode,
@@ -32,11 +44,24 @@ from app.schemas import (
     ErrorResponse,
     HealthResponse,
 )
+from app.validation import ProfileValidationException
+
+logger = logging.getLogger("anchor.api")
+
+
+@asynccontextmanager
+async def lifespan(app: FastAPI):
+    """Run data integrity check on startup."""
+    if not run_checks():
+        logger.error("Data integrity check failed during startup.")
+    yield
+
 
 app = FastAPI(
     title="Anchor API",
     description="Evidence-Driven Workforce Intervention Intelligence API",
     version="1.0",
+    lifespan=lifespan,
 )
 
 # ---------------------------------------------------------------------------
@@ -82,9 +107,29 @@ async def validation_exception_handler(request: Request, exc: RequestValidationE
     )
 
 
+@app.exception_handler(ProfileValidationException)
+async def profile_validation_exception_handler(request: Request, exc: ProfileValidationException):
+    return JSONResponse(
+        status_code=status.HTTP_422_UNPROCESSABLE_ENTITY,
+        content=ErrorResponse(
+            error=ErrorBody(
+                code=ErrorCode.VALIDATION_ERROR,
+                message=exc.message,
+                details=exc.details,
+            )
+        ).model_dump(),
+    )
+
+
 @app.exception_handler(StarletteHTTPException)
 async def http_exception_handler(request: Request, exc: StarletteHTTPException):
-    code = ErrorCode.NOT_FOUND if exc.status_code == 404 else ErrorCode.INTERNAL_ERROR
+    if exc.status_code == 404:
+        code = ErrorCode.NOT_FOUND
+    elif exc.status_code == 422:
+        code = ErrorCode.VALIDATION_ERROR
+    else:
+        code = ErrorCode.INTERNAL_ERROR
+
     return JSONResponse(
         status_code=exc.status_code,
         content=ErrorResponse(
@@ -99,6 +144,7 @@ async def http_exception_handler(request: Request, exc: StarletteHTTPException):
 
 @app.exception_handler(Exception)
 async def unhandled_exception_handler(request: Request, exc: Exception):
+    logger.exception("Unhandled server exception: %s", exc)
     return JSONResponse(
         status_code=status.HTTP_500_INTERNAL_SERVER_ERROR,
         content=ErrorResponse(
@@ -122,3 +168,15 @@ async def health_check():
         version="1.0",
         stub_mode=stub_mode,
     )
+
+
+# ---------------------------------------------------------------------------
+# Routers (Appendix A.4)
+# ---------------------------------------------------------------------------
+app.include_router(ontology_router)
+app.include_router(samples_router)
+app.include_router(evidence_router)
+app.include_router(diagnostic_router)
+app.include_router(simulation_router)
+app.include_router(transition_router)
+app.include_router(audit_router)

@@ -5,9 +5,8 @@ and data models as defined in Appendix A of the Anchor Project Specification.
 """
 
 from enum import Enum
-from typing import Optional
-from pydantic import BaseModel, ConfigDict, Field, field_validator
 
+from pydantic import BaseModel, ConfigDict, Field, field_validator
 
 # ---------------------------------------------------------------------------
 # A.2 Enumerations
@@ -127,16 +126,16 @@ class HealthResponse(BaseModel):
 class CandidateProfile(BaseModel):
     model_config = ConfigDict(extra="forbid")
 
-    name: Optional[str] = Field(default=None, max_length=60)
+    name: str | None = Field(default=None, max_length=60)
     current_or_last_role_id: str
     target_role_id: str
     industry: str = Field(..., min_length=1, max_length=60)
-    location: Optional[str] = Field(default=None, max_length=60)
+    location: str | None = Field(default=None, max_length=60)
     experience_years: float = Field(..., ge=0.0, le=50.0)
-    experience_start_year: Optional[int] = Field(default=None, ge=1970, le=2035)
-    experience_end_year: Optional[int] = Field(default=None, ge=1970, le=2035)
+    experience_start_year: int | None = Field(default=None, ge=1970, le=2035)
+    experience_end_year: int | None = Field(default=None, ge=1970, le=2035)
     gap_years: float = Field(..., ge=0.0, le=15.0)
-    reentry_year: Optional[int] = Field(default=None, ge=1970, le=2035)
+    reentry_year: int | None = Field(default=None, ge=1970, le=2035)
     gap_reason: GapReason = Field(default=GapReason.OTHER)
     resume_format: ResumeFormat
     skills: list[str] = Field(..., min_length=1, max_length=30)
@@ -241,7 +240,7 @@ class Driver(BaseModel):
     effect: DriverEffect
     value_pct: float
     provenance: Provenance
-    evidence_id: Optional[str] = None
+    evidence_id: str | None = None
 
 
 class Version(BaseModel):
@@ -259,7 +258,7 @@ class ControlCertificate(BaseModel):
     pass_likelihood_pct: float
     note: str
     provenance: Provenance = Provenance.EMPIRICAL
-    evidence_id: Optional[str] = "EV-001"
+    evidence_id: str | None = "EV-001"
 
 
 class BenchmarkItem(BaseModel):
@@ -324,13 +323,13 @@ class TransitionResult(BaseModel):
 class AuditResultItem(BaseModel):
     line_number: int
     rule_text: str
-    matched_rule_id: Optional[str] = None
-    matched_rule_name: Optional[str] = None
+    matched_rule_id: str | None = None
+    matched_rule_name: str | None = None
     risk_level: RiskLevel
     impact: str
-    recommended_intervention: Optional[str] = None
+    recommended_intervention: str | None = None
     evidence_ids: list[str] = Field(default_factory=list)
-    provenance: Optional[Provenance] = None
+    provenance: Provenance | None = None
 
 
 class AuditSummary(BaseModel):
@@ -405,7 +404,7 @@ class EvidenceListResponse(BaseModel):
 class ParamItem(BaseModel):
     value: float
     provenance: Provenance
-    evidence_id: Optional[str] = None
+    evidence_id: str | None = None
     note: str
 
 
@@ -426,7 +425,7 @@ class AuditRule(BaseModel):
     patterns: list[str]
     risk_level: RiskLevel
     impact: str
-    recommended_intervention: Optional[str] = None
+    recommended_intervention: str | None = None
     evidence_ids: list[str] = Field(default_factory=list)
     provenance: Provenance = Provenance.MODELLED
 

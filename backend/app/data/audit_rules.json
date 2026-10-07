@@ -1,0 +1,84 @@
+{
+  "rules": [
+    {
+      "id": "AR-001",
+      "name": "Continuous employment required",
+      "patterns": [
+        "continuous(ly)?\\s+(employ|work)",
+        "(no|without)\\s+(any\\s+)?(career\\s+)?(gap|break)s?\\b",
+        "uninterrupted\\s+(employment|work)",
+        "currently\\s+employed"
+      ],
+      "risk_level": "HIGH",
+      "impact": "Disproportionately eliminates qualified re-entry talent without measuring actual capability.",
+      "recommended_intervention": "Eliminate continuity as a mandatory gate; evaluate cumulative years and recent problem-solving.",
+      "evidence_ids": ["EV-001"],
+      "provenance": "MODELLED"
+    },
+    {
+      "id": "AR-002",
+      "name": "Exact most-recent-title match",
+      "patterns": [
+        "most\\s+recent\\s+(job\\s+)?title",
+        "current\\s+(job\\s+)?title\\s+must",
+        "title\\s+must\\s+(exactly\\s+)?match"
+      ],
+      "risk_level": "MEDIUM",
+      "impact": "Excludes adjacent career-transition candidates with strong transferable skill overlap.",
+      "recommended_intervention": "Implement skill-vector adjacency matching across related functional roles.",
+      "evidence_ids": [],
+      "provenance": "MODELLED"
+    },
+    {
+      "id": "AR-003",
+      "name": "Recent mandatory certification",
+      "patterns": [
+        "certif\\w*.*(within|in)\\s+(the\\s+)?(last|past)\\s+\\d+\\s+(month|year)s?",
+        "certified\\s+within"
+      ],
+      "risk_level": "HIGH",
+      "impact": "Imposes a credential tax on candidates, although research found generic upskilling certificates did not raise callbacks.",
+      "recommended_intervention": "Replace recency criteria with focused practical capability verification assessments.",
+      "evidence_ids": ["EV-001"],
+      "provenance": "MODELLED"
+    },
+    {
+      "id": "AR-004",
+      "name": "Exact employment dates mandatory",
+      "patterns": [
+        "(exact|full|month[- ]?(and[- ]?)?year)\\s+(employment\\s+)?dates",
+        "dates\\s+of\\s+employment\\s+(are\\s+)?(mandatory|required)"
+      ],
+      "risk_level": "MEDIUM",
+      "impact": "Forces employment gaps to stay visible; research found duration-based framing improves callbacks over date-based resumes.",
+      "recommended_intervention": "Accept experience-duration summaries alongside, or instead of, month-and-year dates.",
+      "evidence_ids": ["EV-002"],
+      "provenance": "MODELLED"
+    },
+    {
+      "id": "AR-005",
+      "name": "Graduation-year cut-off",
+      "patterns": [
+        "graduat\\w*\\s+(within|in)\\s+(the\\s+)?(last|past)\\s+\\d+\\s+years?",
+        "maximum\\s+\\d+\\s+years?\\s+(since|after)\\s+graduation"
+      ],
+      "risk_level": "MEDIUM",
+      "impact": "Excludes experienced professionals returning after a break regardless of current capability.",
+      "recommended_intervention": "Replace graduation-year limits with a demonstrated-competency evaluation.",
+      "evidence_ids": [],
+      "provenance": "MODELLED"
+    },
+    {
+      "id": "AR-006",
+      "name": "Recent hands-on usage window",
+      "patterns": [
+        "(experience|usage|use)\\s+(with|of|in)?.*(within|in)\\s+(the\\s+)?(last|past)\\s+\\d+\\s+(month|year)s?"
+      ],
+      "risk_level": "MEDIUM",
+      "impact": "Rewards toolchain recency over transferable capability and can screen out re-entry candidates whose core skills remain relevant.",
+      "recommended_intervention": "Use a short practical capability check for the specific tool instead of a recency window.",
+      "evidence_ids": [],
+      "provenance": "MODELLED"
+    }
+  ]
+}

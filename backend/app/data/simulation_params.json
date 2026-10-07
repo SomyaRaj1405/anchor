@@ -1,0 +1,50 @@
+{
+  "reference_pass_likelihood_pct": {
+    "value": 67,
+    "provenance": "SIMULATED",
+    "evidence_id": null,
+    "note": "Assumed pass likelihood of a comparable continuously employed candidate; chosen so that a 3-year gap reproduces about 34%."
+  },
+  "gap_penalty_pct_at_full": {
+    "value": 49,
+    "provenance": "EMPIRICAL",
+    "evidence_id": "EV-001",
+    "note": "EV-001: 49% lower callback rate for women with career breaks (India)."
+  },
+  "gap_years_at_full_penalty": {
+    "value": 3,
+    "provenance": "MODELLED",
+    "evidence_id": null,
+    "note": "Penalty is scaled linearly up to this gap length and capped beyond it."
+  },
+  "reframing_relative_lift_pct": {
+    "value": 15,
+    "provenance": "EMPIRICAL",
+    "evidence_id": "EV-002",
+    "note": "EV-002: callbacks +15% versus gap-dated resumes (United Kingdom)."
+  },
+  "competency_cluster_lift_pct": {
+    "value": 5,
+    "provenance": "SIMULATED",
+    "evidence_id": null,
+    "note": "Illustrative assumption; no published source."
+  },
+  "availability_indicator_lift_pct": {
+    "value": 5,
+    "provenance": "SIMULATED",
+    "evidence_id": null,
+    "note": "Illustrative assumption; no published source."
+  },
+  "certificate_lift_pct": {
+    "value": 0,
+    "provenance": "EMPIRICAL",
+    "evidence_id": "EV-001",
+    "note": "EV-001: no statistically significant effect."
+  },
+  "max_pass_likelihood_pct": {
+    "value": 95,
+    "provenance": "SIMULATED",
+    "evidence_id": null,
+    "note": "Upper cap applied to every version."
+  }
+}
