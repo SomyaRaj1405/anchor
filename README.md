@@ -94,17 +94,25 @@ The app opens at `http://localhost:5173` and talks to the API at `http://localho
 
 ## Team
 
-| Member | Area |
-|---|---|
-| **Hamza** | Team lead, API and integration |
-| **Aditya** | Core engines (diagnostic, intervention, simulation) |
-| **Somya** | Frontend foundation, Diagnostic and Lab screens, repository |
-| **Laveesha** | Employer audit and Transition screen |
-| **Aarushi** | Data, evidence registry, landing and evidence screens, QA |
+| Member | Area | Branch | Work file |
+|---|---|---|---|
+| **Hamza** | Team lead, API and integration | `hamza-backend` | [Work file](docs/Anchor_Work_Hamza_Team_Lead.docx) |
+| **Aditya** | Core engines (diagnostic, intervention, simulation) | `aditya-engines` | [Work file](docs/Anchor_Work_Aditya_Core_Engines.docx) |
+| **Somya** | Frontend foundation, Diagnostic and Lab screens, repository | `somya-frontend` | [Work file](docs/Anchor_Work_Somya_Frontend.docx) |
+| **Laveesha** | Employer audit and Transition screen | `laveesha-audit` | [Work file](docs/Anchor_Work_Laveesha_Audit_and_Transition.docx) |
+| **Aarushi** | Data, evidence registry, landing and evidence screens, QA | `aarushi-data` | [Work file](docs/Anchor_Work_Aarushi_Data_and_Evidence.docx) |
 
 ## Documentation
 
-The business requirements document and one work file per team member are in [`docs/`](docs/).
+- [Business Requirements Document (BRD v1.0)](docs/Anchor_BRD_v1_0.docx)
+- One work file per team member, linked in the Team table above.
+
+## Workflow
+
+- Each person works on their own branch (see the Team table).
+- Keep changes inside your own area of the folder structure to avoid conflicts.
+- Never commit `.env` files or secrets. The repository is public.
+- Pull the latest `main` into your branch regularly: `git checkout <your-branch> && git merge main`.
 
 ## Honest limitations
 
