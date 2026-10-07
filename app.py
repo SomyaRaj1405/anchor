@@ -7,16 +7,16 @@ Project: SAS Data Analytics Hackathon - Evaluation Demo
 
 import sys
 from pathlib import Path
-import pandas as pd
+
 import numpy as np
+import pandas as pd
 import streamlit as st
-import matplotlib.pyplot as plt
 
 # Ensure src/ is in python path
 BASE_DIR = Path(__file__).resolve().parent
 sys.path.insert(0, str(BASE_DIR))
 
-from src.recommendation_engine import evaluate_career_profile, CAREER_ARCHETYPES
+from src.recommendation_engine import evaluate_career_profile
 
 # Page Configuration
 st.set_page_config(
@@ -71,7 +71,7 @@ def load_all_datasets():
 # Load data
 try:
     df_ds, df_aj, df_jds, df_sds = load_all_datasets()
-except Exception as e:
+except (FileNotFoundError, ValueError, OSError) as e:
     st.error(f"Error loading datasets: {e}")
     st.stop()
     raise SystemExit(1)
@@ -294,7 +294,7 @@ elif nav_choice == "5. Integrated Career Insights":
     try:
         matrix_df = pd.read_csv(BASE_DIR / "outputs" / "tables" / "integrated_career_insights.csv")
         st.dataframe(matrix_df, width="stretch")
-    except Exception as e:
+    except (FileNotFoundError, ValueError, OSError) as e:
         st.warning(f"Could not load integrated table: {e}")
 
     st.markdown("---")
