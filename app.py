@@ -74,6 +74,7 @@ try:
 except Exception as e:
     st.error(f"Error loading datasets: {e}")
     st.stop()
+    raise SystemExit(1)
 
 # Sidebar Navigation
 st.sidebar.image("https://img.icons8.com/fluency/96/anchor.png", width=64)
