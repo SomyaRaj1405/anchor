@@ -1,0 +1,9 @@
+# Pyrefly Language Server Configuration
+python-interpreter-path = ".venv/Scripts/python.exe"
+search-path = [
+    ".",
+    "app"
+]
+
+[errors]
+missing-import = false
