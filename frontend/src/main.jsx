@@ -8,6 +8,7 @@ import "@fontsource/fraunces/600.css";
 import "./tokens.css";
 import "./shell.css";
 import "./styles.css";
+import "./auth.css";
 import AppShell from "./components/AppShell";
 import HomePage from "./pages/HomePage";
 import SignInPage from "./pages/SignInPage";
