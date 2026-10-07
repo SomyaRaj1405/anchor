@@ -1,0 +1,1603 @@
+reference_no,company_name,job_title,min_experience,avg_salary,min_salary,max_salary,num_of_jobs,salary_consistency_valid
+7834,TCS,Data Scientist,2,7.8,4.5,16.0,841,True
+7862,Accenture,Data Scientist,2,12.8,5.8,23.0,501,True
+5925,IBM,Data Scientist,2,13.4,5.3,25.0,394,True
+7578,Cognizant,Data Scientist,2,9.8,5.0,18.0,318,True
+7177,Capgemini,Data Scientist,2,8.6,4.8,14.6,300,True
+4018,Infosys,Data Scientist,2,9.3,4.5,24.0,228,True
+8562,Wipro,Data Scientist,2,9.7,4.5,18.2,225,True
+6212,Tech Mahindra,Data Scientist,2,7.6,4.1,15.4,218,True
+8334,Fractal Analytics,Data Scientist,2,15.9,10.0,23.0,166,True
+3930,Deloitte,Data Scientist,2,14.2,7.0,25.0,163,True
+5436,Ericsson,Data Scientist,3,14.6,6.0,26.9,152,True
+7445,HCL Technologies,Data Scientist,2,9.8,4.5,20.3,152,True
+4215,Amazon,Data Scientist,2,28.1,9.5,50.0,140,True
+8777,UnitedHealth,Data Scientist,2,14.8,8.3,21.5,120,True
+1347,Mu Sigma,Data Scientist,1,7.4,5.0,12.0,116,True
+3097,Ab Inbev,Data Scientist,2,20.6,15.0,26.2,116,True
+1322,L&T Infotech,Data Scientist,2,11.6,6.5,20.9,102,True
+3990,Tiger Analytics,Data Scientist,2,14.8,9.0,20.0,102,True
+8847,Optum,Data Scientist,2,16.6,11.0,22.5,101,True
+3700,Ernst & Young,Data Scientist,2,12.4,6.7,20.0,96,True
+8732,Mindtree,Data Scientist,2,10.6,4.8,18.7,94,True
+5837,Walmart,Data Scientist,2,28.3,17.8,41.0,85,True
+4163,DXC Technology,Data Scientist,2,10.0,4.4,15.5,83,True
+1769,Microsoft Corporation,Data Scientist,1,32.1,13.0,60.0,81,True
+3026,Genpact,Data Scientist,2,12.2,5.5,20.0,74,True
+6255,Hewlett-Packard Enterprise,Data Scientist,2,16.6,7.1,26.5,70,True
+8658,Ford Motor,Data Scientist,2,14.4,10.0,20.0,64,True
+7508,Reliance jio,Data Scientist,1,15.6,5.6,30.0,61,True
+6502,Verizon,Data Scientist,3,14.2,9.9,21.8,58,True
+2075,IQVIA,Data Scientist,2,11.4,6.9,22.0,58,True
+1093,Shell,Data Scientist,3,20.9,13.5,27.0,57,True
+8466,PayPal,Data Scientist,3,27.7,15.0,45.0,57,True
+1700,JP Morgan Chase,Data Scientist,2,20.5,12.0,31.0,56,True
+2098,EXL Service,Data Scientist,1,14.0,7.6,21.0,55,True
+1634,American Express,Data Scientist,2,17.7,10.8,26.0,48,True
+2073,Vodafone Idea,Data Scientist,2,13.4,6.0,20.0,45,True
+2884,HDFC Bank,Data Scientist,0,15.3,9.0,22.2,44,True
+6527,Great Learning,Data Scientist,0,9.3,7.0,13.8,44,True
+6308,Reliance Industries,Data Scientist,1,10.4,6.0,21.0,42,True
+5241,ZS,Data Scientist,1,16.9,10.0,25.0,42,True
+2744,Oracle,Data Scientist,2,16.3,6.5,39.0,42,True
+7417,Novartis Healthcare,Data Scientist,2,21.9,9.0,36.0,41,True
+5750,TheMathCompany,Data Scientist,2,10.5,6.0,16.0,41,True
+8050,PwC,Data Scientist,2,12.6,7.5,20.0,41,True
+5007,SAP,Data Scientist,2,17.4,11.0,26.0,40,True
+1554,Legato Health Technologies,Data Scientist,1,14.3,9.0,21.0,39,True
+1582,Impact Analytics,Data Scientist,0,9.0,7.0,13.0,38,True
+6534,Innominds Software,Data Scientist,1,10.7,6.5,15.2,37,True
+5702,Flipkart,Data Scientist,0,23.2,14.7,42.0,37,True
+8479,Innodatatics,Data Scientist,0,4.5,2.0,7.0,37,True
+6834,KPMG,Data Scientist,2,14.1,9.0,20.0,36,True
+4726,NTT DATA,Data Scientist,2,7.7,5.0,17.2,36,True
+6624,HSBC,Data Scientist,2,14.1,8.5,23.9,36,True
+4409,Societe Generale,Data Scientist,1,18.2,7.4,26.0,35,True
+4038,Mphasis,Data Scientist,2,8.9,5.2,15.0,35,True
+7493,Mercedes-Benz Research & Development India,Data Scientist,2,14.1,8.2,21.0,34,True
+6130,BEPEC Solutions,Data Scientist,1,4.9,3.0,7.0,34,True
+8451,Brillio,Data Scientist,1,16.0,9.0,24.0,33,True
+2580,ABC,Data Scientist,2,19.2,6.5,35.0,32,True
+1232,WNS,Data Scientist,1,11.4,7.2,17.0,32,True
+1843,Hexaware Technologies,Data Scientist,0,9.7,4.5,19.0,32,True
+5007,International School of Engineering,Data Scientist,1,10.5,5.4,16.3,31,True
+3353,Wells Fargo India,Data Scientist,2,15.4,5.5,31.2,31,True
+1871,Kyndryl,Data Scientist,3,14.1,6.0,30.0,31,True
+3678,eClerx,Data Scientist,2,9.3,6.0,16.7,30,True
+1145,DBS Bank,Data Scientist,2,14.3,9.0,23.7,30,True
+4465,Cyient,Data Scientist,2,10.4,5.0,18.5,30,True
+6940,Nagarro,Data Scientist,1,12.1,7.0,18.0,29,True
+2026,Freelancer.com,Data Scientist,1,7.1,3.0,15.0,29,True
+1160,Cisco Systems,Data Scientist,2,19.0,12.0,32.5,28,True
+5453,Bajaj Finserv,Data Scientist,1,11.9,7.5,19.4,28,True
+7955,Dell,Data Scientist,1,17.0,8.0,27.0,27,True
+2170,Dunnhumby,Data Scientist,1,12.9,8.5,18.0,26,True
+4548,Honeywell Technology Solutions,Data Scientist,2,15.1,8.5,23.4,26,True
+3997,Bristlecone,Data Scientist,1,9.0,6.6,11.5,26,True
+3756,Sigmoid Analytics,Data Scientist,0,14.9,11.0,20.0,26,True
+5538,Applied Materials,Data Scientist,2,14.2,7.0,22.0,26,True
+6821,Citicorp,Data Scientist,2,19.2,14.0,23.5,26,True
+1099,Siemens,Data Scientist,2,13.5,7.8,24.0,26,True
+4945,MasterCard,Data Scientist,2,19.6,12.1,25.3,26,True
+1930,Bosch Global Software Technologies,Data Scientist,2,11.9,7.0,16.6,25,True
+2859,Wolters Kluwer,Data Scientist,0,12.5,9.9,17.6,25,True
+1335,Birlasoft,Data Scientist,2,8.0,4.0,12.7,25,True
+6721,Atos,Data Scientist,2,13.0,5.0,28.0,25,True
+3168,Info Edge,Data Scientist,0,16.9,12.0,24.0,25,True
+6267,VMware Software,Data Scientist,4,23.6,11.5,32.1,25,True
+5215,Course5,Data Scientist,1,8.1,4.0,12.7,25,True
+4062,Bridgei2i Analytics Solutions,Data Scientist,2,9.4,6.0,14.4,24,True
+8614,Larsen & Toubro Limited,Data Scientist,1,9.4,4.5,23.0,24,True
+7202,iNeuron.ai,Data Scientist,0,5.1,3.0,8.0,24,True
+4119,Tredence,Data Scientist,2,14.4,8.0,19.0,23,True
+6033,Enquero,Data Scientist,0,11.5,5.0,16.2,23,True
+5746,R Systems International,Data Scientist,2,16.2,7.5,24.4,23,True
+3004,UST,Data Scientist,3,9.8,6.5,15.0,23,True
+4787,Cgi Group,Data Scientist,2,8.2,4.2,14.0,23,True
+2749,Bank of America,Data Scientist,2,22.8,13.2,30.3,23,True
+3684,Axis Bank,Data Scientist,1,11.7,7.9,18.0,23,True
+7892,Ganit Business Solutions,Data Scientist,3,12.6,8.5,16.0,23,True
+4651,Virtusa Consulting Services,Data Scientist,1,9.7,4.8,15.6,22,True
+2352,ITC Infotech India,Data Scientist,2,10.9,4.1,20.5,22,True
+4307,Gramener,Data Scientist,1,9.8,7.5,14.0,22,True
+1185,Subex,Data Scientist,1,10.8,8.2,13.7,22,True
+7236,Xoriant,Data Scientist,2,10.4,5.3,17.6,22,True
+5318,Caterpillar Inc,Data Scientist,2,12.8,7.7,18.0,21,True
+3508,ICICI Bank,Data Scientist,0,11.9,5.0,20.0,21,True
+8321,Freelance Consultants,Data Scientist,1,10.2,3.2,24.0,21,True
+4710,Sutherland Global Services,Data Scientist,1,8.5,5.1,12.3,21,True
+2597,Prodapt Solutions,Data Scientist,1,6.9,3.3,16.0,21,True
+5388,Rubixe,Data Scientist,0,4.7,2.4,9.0,21,True
+4757,NDS InfoServ,Data Scientist,0,9.1,5.0,12.0,20,True
+7722,Zensar Technologies,Data Scientist,1,8.2,4.2,15.5,20,True
+4470,Fidelity National Information Services,Data Scientist,3,10.9,7.3,18.6,20,True
+4941,KPIT Technologies,Data Scientist,1,7.7,4.5,15.0,20,True
+3365,Citibank,Data Scientist,2,17.3,10.0,24.2,20,True
+4013,ValueLabs,Data Scientist,2,14.6,7.0,22.5,20,True
+3653,ABB Group,Data Scientist,2,13.0,8.3,19.0,20,True
+2520,L&T Financial Services,Data Scientist,1,9.3,8.2,12.5,20,True
+2087,Value c Consulting India,Data Scientist,2,5.2,4.2,6.0,20,True
+2584,Lumiq.ai,Data Scientist,0,8.3,6.0,13.0,20,True
+7885,Flip Robo Technologies,Data Scientist,1,4.7,3.0,7.9,20,True
+8008,Philips,Data Scientist,3,17.9,11.2,30.0,19,True
+1973,Nokia,Data Scientist,2,13.0,6.2,24.0,19,True
+1317,Confidential,Data Scientist,1,8.5,4.1,18.5,19,True
+6614,Tata Technologies,Data Scientist,0,6.6,4.8,9.2,19,True
+3712,Nielsen,Data Scientist,1,7.0,6.0,10.0,19,True
+8220,Kantar,Data Scientist,3,11.5,6.4,18.0,19,True
+3175,Persistent Systems,Data Scientist,2,10.5,5.8,17.0,19,True
+5745,Exl India,Data Scientist,1,14.0,10.0,18.0,19,True
+1389,Blue Yonder,Data Scientist,3,20.6,15.1,26.0,19,True
+8933,Brane Enterprises,Data Scientist,1,14.0,8.0,22.5,19,True
+4768,Micron Technology,Data Scientist,0,16.4,11.4,25.0,19,True
+4243,Indegene,Data Scientist,0,9.6,8.0,14.5,18,True
+8862,CARS24.com,Data Scientist,1,20.3,14.5,24.0,18,True
+5418,GlobalLogic,Data Scientist,2,14.6,4.0,26.0,18,True
+4598,Maersk,Data Scientist,4,20.9,14.0,31.0,18,True
+5705,Barclays,Data Scientist,2,18.2,13.6,25.0,18,True
+7811,Indium Software,Data Scientist,1,7.9,5.0,12.0,18,True
+1171,Celebal Technologies,Data Scientist,0,8.6,5.7,13.0,18,True
+2793,Affine Analytics,Data Scientist,1,9.7,6.3,18.0,18,True
+3797,Fidelity Investment,Data Scientist,3,23.4,13.8,36.0,18,True
+3373,Jio Platforms,Data Scientist,2,13.9,7.0,23.0,18,True
+7971,Happiest Minds Technologies,Data Scientist,1,8.7,5.2,14.0,17,True
+5151,Adobe,Data Scientist,3,29.4,20.0,44.0,17,True
+7118,CitiusTech,Data Scientist,2,10.4,5.8,17.5,17,True
+5497,Scienaptic Systems,Data Scientist,0,14.6,8.0,19.0,17,True
+2525,Boeing,Data Scientist,1,19.4,13.5,35.0,17,True
+2394,Citigroup,Data Scientist,1,18.4,13.5,27.5,17,True
+1823,Marlabs,Data Scientist,0,9.3,5.5,20.6,16,True
+1326,TransOrg Analytics,Data Scientist,1,9.4,7.0,13.5,16,True
+7642,T-Systems,Data Scientist,3,14.1,7.8,24.0,16,True
+6985,Sopra Steria,Data Scientist,3,12.1,8.0,19.7,16,True
+7237,Apexon,Data Scientist,2,7.5,4.9,10.8,16,True
+6915,Embibe,Data Scientist,0,16.6,12.0,21.0,16,True
+7668,Quest Global,Data Scientist,2,6.7,4.8,8.5,16,True
+4290,Harman Connected Services,Data Scientist,3,13.6,7.0,26.5,16,True
+2938,Exxon Mobil,Data Scientist,2,23.2,14.0,30.1,16,True
+3809,Ugam Solution,Data Scientist,0,9.8,5.0,15.0,16,True
+4986,L&T Technology Services,Data Scientist,1,8.7,4.3,18.0,16,True
+6053,Credit Suisse,Data Scientist,2,17.4,11.0,26.0,16,True
+8474,Iris Software,Data Scientist,5,18.5,11.5,25.8,16,True
+8125,Delhivery,Data Scientist,1,15.6,10.0,20.8,16,True
+3506,Abzooba India Infotech,Data Scientist,1,15.0,8.5,20.1,16,True
+2246,Sonata Software,Data Scientist,1,8.1,4.8,12.0,15,True
+2368,Incedo,Data Scientist,1,12.2,7.0,20.0,15,True
+5896,Go-Jek,Data Scientist,3,30.5,16.5,44.0,15,True
+8893,GE,Data Scientist,2,14.3,8.4,24.0,15,True
+8061,Fiserv,Data Scientist,3,12.1,8.0,17.0,15,True
+1973,UBS,Data Scientist,2,15.2,10.2,22.0,15,True
+7863,Quantiphi Analytics Solutions,Data Scientist,0,9.8,7.0,16.0,15,True
+1415,Amdocs,Data Scientist,2,8.5,6.0,12.0,15,True
+5973,Apple,Data Scientist,2,33.6,8.2,74.5,15,True
+7248,Oyo Rooms,Data Scientist,0,14.7,10.0,20.5,14,True
+4274,iOPEX Technologies,Data Scientist,1,7.9,3.5,12.0,14,True
+6032,Yash Technologies,Data Scientist,2,11.2,7.5,16.0,14,True
+5813,Franklin Templeton Investments,Data Scientist,3,27.7,15.0,45.0,14,True
+8498,N+A,Data Scientist,0,8.6,2.4,15.0,14,True
+4553,ICICI Lombard General Insurance Company,Data Scientist,0,12.1,7.4,15.4,14,True
+3091,Reserve Bank Information Technology,Data Scientist,2,15.9,8.0,23.5,14,True
+5037,o9 Solutions,Data Scientist,1,13.8,11.0,17.5,14,True
+8979,HTC Global Services,Data Scientist,1,6.4,3.6,10.0,13,True
+2289,Accolite Digital,Data Scientist,0,14.5,6.0,19.5,13,True
+8250,Wipro Digital,Data Scientist,1,11.1,7.0,17.5,13,True
+6861,CSS Corp,Data Scientist,0,10.2,7.0,14.5,13,True
+6434,Morgan Stanley,Data Scientist,2,18.1,10.5,23.6,13,True
+2855,Zee Entertainment Enterprises,Data Scientist,1,16.7,13.2,23.0,13,True
+6737,Ola Cabs,Data Scientist,1,21.9,13.0,30.0,13,True
+3242,NatWest Markets,Data Scientist,1,16.0,11.0,26.0,13,True
+7193,Myntra,Data Scientist,2,16.9,8.3,33.0,13,True
+4991,TCS,Business Analyst,2,6.9,3.0,12.0,4200,True
+5052,Accenture,Business Analyst,1,7.0,2.7,14.7,1900,True
+4079,Genpact,Business Analyst,1,6.4,4.5,9.0,1700,True
+2938,Wipro,Business Analyst,2,8.6,4.2,15.5,1200,True
+8747,Cognizant,Business Analyst,1,8.6,4.5,14.0,1100,True
+2705,Deloitte,Business Analyst,1,7.8,5.0,12.0,991,True
+5065,HCL Technologies,Business Analyst,1,6.6,2.3,14.2,714,True
+6400,Evalueserve,Business Analyst,1,6.5,4.7,8.5,693,True
+5084,Infosys,Business Analyst,1,8.9,4.4,16.5,692,True
+3139,IBM,Business Analyst,2,8.3,4.0,16.0,662,True
+3059,DXC Technology,Business Analyst,2,7.7,4.1,13.0,580,True
+7033,Tech Mahindra,Business Analyst,2,7.6,3.8,15.0,575,True
+4422,American Express,Business Analyst,1,8.3,3.0,19.0,539,True
+3828,Capgemini,Business Analyst,2,9.1,4.3,15.0,531,True
+3430,Societe Generale,Business Analyst,3,13.5,7.6,21.0,514,True
+8905,EXL Service,Business Analyst,0,6.2,4.5,8.5,476,True
+2779,Amazon,Business Analyst,2,11.3,4.8,20.0,445,True
+1062,HSBC,Business Analyst,2,12.1,5.0,21.0,382,True
+3008,ICICI Bank,Business Analyst,1,6.7,4.0,12.6,326,True
+4230,JP Morgan Chase,Business Analyst,2,12.4,5.7,21.7,323,True
+8110,Zomato,Business Analyst,1,10.7,8.3,12.0,274,True
+2571,L&T Infotech,Business Analyst,2,9.7,4.5,16.6,271,True
+3742,Shell,Business Analyst,4,19.5,12.0,30.0,258,True
+8882,Barclays,Business Analyst,2,12.3,5.5,19.4,255,True
+5353,Cgi Group,Business Analyst,2,6.9,4.7,11.0,252,True
+6214,Oracle,Business Analyst,1,5.5,3.4,10.0,243,True
+2810,Amdocs,Business Analyst,4,12.1,6.8,20.0,236,True
+6444,Conduent,Business Analyst,2,6.1,4.0,9.4,225,True
+4340,Fidelity National Information Services,Business Analyst,3,10.8,5.8,18.0,214,True
+8629,HDFC Bank,Business Analyst,2,7.9,4.1,12.0,208,True
+8282,Novo Nordisk,Business Analyst,4,11.5,8.0,15.2,207,True
+5935,Axis Bank,Business Analyst,1,9.7,4.2,15.0,199,True
+6202,Ernst & Young,Business Analyst,1,8.8,4.0,20.0,198,True
+3346,Credit Suisse,Business Analyst,2,15.2,10.0,23.0,179,True
+5309,Hewlett-Packard Enterprise,Business Analyst,2,6.7,3.6,11.5,175,True
+4779,CG Foods,Business Analyst,0,4.8,2.0,10.0,175,True
+1279,Quantiphi Analytics Solutions,Business Analyst,0,8.9,6.5,13.0,167,True
+8859,NetCracker,Business Analyst,5,18.7,12.0,28.0,159,True
+7549,Oyo Rooms,Business Analyst,0,10.2,6.0,14.0,153,True
+1356,VMware Software,Business Analyst,3,9.8,6.0,15.0,153,True
+8080,Mphasis,Business Analyst,1,10.0,3.5,19.0,151,True
+1024,Exl India,Business Analyst,0,6.3,4.5,8.6,147,True
+1469,Mindtree,Business Analyst,2,9.5,5.5,15.0,144,True
+6070,Newgen Software Technologies,Business Analyst,2,9.3,7.0,11.5,138,True
+7204,NTT DATA,Business Analyst,2,7.3,4.5,14.0,133,True
+2033,Hexaware Technologies,Business Analyst,2,10.0,4.2,16.8,131,True
+3208,Temenos,Business Analyst,2,8.8,5.6,12.2,128,True
+8095,Wells Fargo India,Business Analyst,3,12.0,6.2,20.8,128,True
+7113,Barclays Shared Services,Business Analyst,1,8.3,3.8,14.2,127,True
+6065,Bridgei2i Analytics Solutions,Business Analyst,0,6.0,5.0,8.0,124,True
+4560,Tata Technologies,Business Analyst,3,6.4,4.3,8.9,119,True
+4770,Standard Chartered Bank,Business Analyst,2,12.0,6.0,20.0,117,True
+6767,Mu Sigma,Business Analyst,1,6.9,5.5,9.0,116,True
+1792,Virtusa Consulting Services,Business Analyst,2,10.6,5.0,18.5,111,True
+7720,Allianz Technology,Business Analyst,3,8.2,5.1,12.0,110,True
+8920,Kotak Mahindra Bank,Business Analyst,1,7.5,3.0,15.5,106,True
+4868,Citicorp,Business Analyst,2,15.6,7.8,21.3,106,True
+6540,BNP Paribas,Business Analyst,3,10.7,6.7,16.3,105,True
+5094,UST,Business Analyst,3,11.1,5.5,17.5,103,True
+2991,Flipkart,Business Analyst,1,12.3,4.7,18.9,103,True
+2187,Barclays Global Service Centre,Business Analyst,1,11.7,4.5,21.6,102,True
+1495,BNY Mellon,Business Analyst,3,8.5,4.5,17.5,101,True
+4249,Optum,Business Analyst,2,8.6,4.8,17.1,100,True
+1651,Ola Cabs,Business Analyst,0,11.3,7.7,15.0,99,True
+5470,UBS,Business Analyst,2,14.5,7.5,23.5,97,True
+6625,Odessa,Business Analyst,1,11.0,8.4,13.0,96,True
+3764,bnp paribas india solutions,Business Analyst,3,10.2,6.5,15.0,96,True
+4233,UnitedHealth,Business Analyst,2,8.3,5.0,13.0,95,True
+4270,HCL Technologies BPO Services,Business Analyst,1,2.3,1.6,4.0,95,True
+5516,Ramco Systems,Business Analyst,1,7.6,4.5,10.5,94,True
+3290,Tredence,Business Analyst,0,6.9,6.1,8.5,92,True
+4802,Novartis Healthcare,Business Analyst,1,10.0,7.0,14.2,92,True
+1167,Atos Syntel,Business Analyst,2,7.6,4.0,13.0,92,True
+2387,Cisco Systems,Business Analyst,2,12.5,6.0,20.5,90,True
+6351,ITC Infotech India,Business Analyst,1,7.8,4.5,14.0,90,True
+5121,Deutsche Bank,Business Analyst,2,9.1,3.3,19.0,89,True
+8507,Dell,Business Analyst,2,7.0,4.6,10.2,89,True
+5516,Paytm,Business Analyst,1,7.7,3.9,15.0,89,True
+1192,3i Infotech,Business Analyst,1,6.1,3.9,8.8,88,True
+1140,KPMG,Business Analyst,1,8.2,3.6,16.0,87,True
+6905,Fiserv,Business Analyst,3,11.6,7.0,20.0,86,True
+5289,Zensar Technologies,Business Analyst,2,6.7,4.1,14.5,85,True
+6445,Legato Health Technologies,Business Analyst,3,8.0,5.0,14.0,85,True
+5643,Swiggy,Business Analyst,1,13.2,8.0,16.5,85,True
+2750,GEP Worldwide,Business Analyst,0,6.4,5.0,8.5,84,True
+3854,Intellect Design Arena,Business Analyst,2,11.2,5.8,16.7,83,True
+8135,Standard Chartered Global Business Services,Business Analyst,2,12.7,5.6,23.2,81,True
+8247,ZS,Business Analyst,1,9.6,7.0,12.8,80,True
+8221,Concentrix Corporation,Business Analyst,1,5.4,2.8,12.0,80,True
+1921,Reliance jio,Business Analyst,1,6.8,3.6,15.0,79,True
+3848,NatWest Group,Business Analyst,2,9.5,3.5,18.8,79,True
+2691,IQVIA,Business Analyst,1,8.3,4.5,16.7,78,True
+4898,PwC,Business Analyst,1,9.9,4.5,17.5,77,True
+5810,ValueMomentum,Business Analyst,1,6.1,3.8,9.5,75,True
+8392,ADP Solutions,Business Analyst,3,8.2,5.3,15.1,74,True
+8346,Provana,Business Analyst,1,4.8,3.5,6.5,73,True
+7378,ANR Software,Business Analyst,1,4.5,3.1,7.0,71,True
+5916,WNS,Business Analyst,1,6.8,3.8,12.0,69,True
+4347,Oracle Financial Services Software,Business Analyst,3,10.2,5.6,16.5,69,True
+2581,RevGurus Info India,Business Analyst,0,8.3,5.8,11.0,68,True
+5789,Sapiens,Business Analyst,2,12.5,8.0,16.7,67,True
+4982,Etech Global Services,Business Analyst,1,6.4,4.4,8.4,67,True
+4049,Citibank,Business Analyst,2,16.7,8.0,24.3,66,True
+6179,Coforge,Business Analyst,5,16.1,8.3,24.0,66,True
+6543,ABC,Business Analyst,3,13.6,5.2,25.0,63,True
+6658,Merkle Sokrati,Business Analyst,0,4.5,4.2,5.0,61,True
+7891,First Source,Business Analyst,1,4.4,2.7,7.0,60,True
+3364,Meesho,Business Analyst,0,14.0,8.5,18.0,60,True
+3070,Ebix Software India,Business Analyst,2,7.0,4.5,11.5,60,True
+3864,Indus Valley Partners,Business Analyst,1,17.0,14.0,20.0,60,True
+7264,Schlumberger,Business Analyst,3,14.5,9.0,21.0,59,True
+5586,Capita,Business Analyst,1,5.9,2.3,13.0,58,True
+4648,CRMnext,Business Analyst,1,6.6,5.0,8.0,58,True
+1910,NeoSoft Technologies,Business Analyst,1,6.9,3.1,10.0,57,True
+4406,NSE.IT,Business Analyst,1,6.8,3.5,12.5,56,True
+8516,Nokia,Business Analyst,2,9.3,5.5,16.6,56,True
+8166,Capco Technologies,Business Analyst,3,13.9,6.0,22.0,56,True
+6012,eClerx,Business Analyst,1,3.7,2.3,9.3,55,True
+7955,Affine Analytics,Business Analyst,0,6.8,6.0,8.3,55,True
+6869,Exela Technologies,Business Analyst,3,8.3,5.1,12.0,54,True
+8158,Analytics Quotient,Business Analyst,1,5.3,4.0,6.8,53,True
+6463,NIIT Technologies,Business Analyst,3,11.1,7.0,17.8,53,True
+6317,QualityKiosk Technologies,Business Analyst,2,7.7,3.6,13.0,53,True
+3504,Fidelity Investment,Business Analyst,2,9.9,6.8,16.0,53,True
+8269,Altisource,Business Analyst,2,5.5,3.3,9.0,52,True
+6308,Polestar Solutions & Services India,Business Analyst,0,6.1,4.2,8.8,52,True
+1955,Veeraraghavan & Company,Business Analyst,0,1.7,1.2,2.3,52,True
+1490,Verizon,Business Analyst,3,10.5,6.3,16.3,51,True
+3225,BYJU'S,Business Analyst,1,7.7,4.0,13.0,51,True
+8151,Bank of America,Business Analyst,3,14.1,8.1,21.5,51,True
+4840,Better.com,Business Analyst,1,7.8,6.0,11.2,51,True
+2920,KJ System,Business Analyst,1,2.9,2.4,3.6,50,True
+3477,ValueLabs,Business Analyst,4,11.3,6.1,18.5,50,True
+7643,Xyz Company,Business Analyst,3,12.3,4.4,23.0,50,True
+6286,IndusInd Bank,Business Analyst,2,8.0,4.0,14.3,49,True
+3570,Vinculum Solutions,Business Analyst,1,8.8,6.0,13.0,49,True
+6981,Confidential,Business Analyst,1,8.3,4.2,16.0,49,True
+7654,Infosys BPM,Business Analyst,0,6.0,2.5,13.0,49,True
+2332,General Mills,Business Analyst,2,9.7,7.0,12.0,48,True
+6733,Yash Technologies,Business Analyst,4,8.9,6.1,12.3,48,True
+8293,Shipco Transport,Business Analyst,1,3.4,2.1,5.0,48,True
+4542,Aon,Business Analyst,2,5.4,3.5,9.6,48,True
+3305,Persistent Systems,Business Analyst,4,12.5,8.5,18.4,48,True
+5723,Unisys,Business Analyst,2,7.7,4.0,12.0,48,True
+8884,Azentio,Business Analyst,0,7.1,4.3,11.0,47,True
+5848,Synechron,Business Analyst,4,16.4,9.9,22.0,46,True
+5704,Ford Motor,Business Analyst,2,8.1,2.9,14.0,46,True
+6202,Birlasoft,Business Analyst,2,8.5,4.5,15.0,45,True
+5757,Cybage,Business Analyst,5,14.6,10.1,20.0,45,True
+7343,Lentra AI,Business Analyst,1,6.8,4.1,11.0,45,True
+5725,N+A,Business Analyst,1,6.3,2.5,11.0,44,True
+5330,IVY Comptech,Business Analyst,4,14.6,8.5,20.0,44,True
+6304,S&P Global,Business Analyst,3,11.1,7.5,17.0,44,True
+8355,Gartner,Business Analyst,1,14.2,10.0,19.0,44,True
+5784,Acidaes Solutions,Business Analyst,2,7.0,5.0,10.0,43,True
+1805,Udaan,Business Analyst,1,11.6,4.8,18.0,43,True
+5597,Reliance Industries,Business Analyst,2,8.1,4.9,14.4,43,True
+6864,Dell EMC,Business Analyst,2,6.6,3.8,10.1,43,True
+1260,GlobalLogic,Business Analyst,2,9.0,2.5,20.0,43,True
+4239,eClinicalWorks,Business Analyst,2,5.3,3.8,8.3,43,True
+8383,ThoughtWorks,Business Analyst,2,14.7,8.5,26.0,43,True
+8983,Landmark Group,Business Analyst,2,11.6,7.5,15.0,43,True
+5379,Merilytics,Business Analyst,0,7.0,5.5,8.0,42,True
+2570,Care Health Insurance,Business Analyst,0,5.9,3.3,8.4,42,True
+8704,Epsilon,Business Analyst,2,9.7,6.0,16.5,41,True
+8052,Gartner India Research and Advisory Services,Business Analyst,2,15.4,10.0,20.0,41,True
+4612,Globant,Business Analyst,3,13.3,9.0,20.9,41,True
+8989,Franklin Templeton Investments,Business Analyst,4,8.2,4.7,12.5,40,True
+7073,Atidiv,Business Analyst,1,3.0,2.2,4.0,40,True
+2955,Maersk,Business Analyst,4,8.9,5.0,16.0,40,True
+5049,Pboplus Consulting Services,Business Analyst,0,4.0,3.0,5.2,40,True
+3691,Reliance Retail,Business Analyst,1,7.0,3.5,13.0,40,True
+5111,Larsen & Toubro Limited,Business Analyst,0,8.5,3.8,14.0,40,True
+8570,TEKsystems,Business Analyst,3,12.0,7.1,18.5,40,True
+5275,Hindustan Unilever,Business Analyst,2,7.1,3.4,10.7,39,True
+7690,Tata Communications,Business Analyst,1,5.0,2.9,9.2,39,True
+5978,Ameriprise Financial,Business Analyst,1,5.9,3.9,9.3,39,True
+5323,Goldman Sachs,Business Analyst,0,14.9,6.5,30.0,39,True
+5204,Factspan Analytics,Business Analyst,1,8.1,6.5,10.0,39,True
+6064,MSC Technology India,Business Analyst,1,4.3,2.9,5.7,39,True
+3744,Simplify Healthcare,Business Analyst,1,5.8,4.0,9.5,39,True
+6436,CMS Computers Limited (INDIA),Business Analyst,1,4.0,2.6,6.0,39,True
+1909,Fluentgrid,Business Analyst,2,5.5,3.2,8.8,38,True
+6352,Bajaj Finserv,Business Analyst,1,9.0,3.8,13.0,38,True
+7099,Ericsson,Business Analyst,3,9.7,5.1,16.0,38,True
+4181,Sonata Software,Business Analyst,1,7.8,5.0,11.5,37,True
+8230,CitiusTech,Business Analyst,2,9.0,6.4,12.1,37,True
+7723,R1 RCM,Business Analyst,1,3.8,2.7,6.7,37,True
+1525,TCS,Data Analyst,1,4.7,2.4,8.9,1600,True
+5783,Cognizant,Data Analyst,1,5.5,2.9,8.3,1200,True
+3384,Accenture,Data Analyst,1,5.2,2.3,11.0,1100,True
+3229,Capgemini,Data Analyst,0,4.6,3.0,9.0,485,True
+3865,Wipro,Data Analyst,1,4.8,2.2,9.0,475,True
+4313,GlobalLogic,Data Analyst,1,2.5,2.0,3.5,415,True
+7435,Tech Mahindra,Data Analyst,1,4.6,2.2,7.5,397,True
+7620,Amazon,Data Analyst,1,5.2,2.5,15.3,380,True
+5722,Infosys,Data Analyst,1,5.7,3.4,12.0,323,True
+4754,HCL Technologies,Data Analyst,1,4.5,2.4,9.5,320,True
+8750,eClerx,Data Analyst,0,2.5,2.0,3.9,302,True
+5265,IBM,Data Analyst,2,7.6,4.0,15.5,297,True
+1932,Ernst & Young,Data Analyst,1,5.8,3.4,10.5,297,True
+7089,Flipkart,Data Analyst,1,5.9,3.2,12.0,241,True
+1715,Genpact,Data Analyst,1,4.7,2.5,9.0,228,True
+7423,Optum,Data Analyst,2,12.8,6.0,19.0,219,True
+5924,Concentrix Corporation,Data Analyst,1,3.9,2.4,6.3,209,True
+1495,Deloitte,Data Analyst,1,7.6,4.3,13.0,202,True
+7677,Zen3 Info Solutions,Data Analyst,1,3.1,2.2,4.2,188,True
+7125,Unilog Content Solutions ( P),Data Analyst,1,2.5,2.0,3.2,181,True
+4866,Cogencis Information Services,Data Analyst,1,1.7,1.2,2.6,175,True
+5305,UnitedHealth,Data Analyst,2,10.7,3.3,18.0,171,True
+4292,Qualsquad Infotech,Data Analyst,0,2.0,1.1,3.0,149,True
+2746,NTT DATA,Data Analyst,1,4.3,2.1,8.0,138,True
+7855,InnovAccer,Data Analyst,0,9.2,5.0,13.0,137,True
+8565,Teleperformance,Data Analyst,1,2.4,1.8,4.4,132,True
+1372,Mindtree,Data Analyst,1,5.6,4.0,9.6,132,True
+4169,Ericsson,Data Analyst,2,5.8,4.0,10.0,126,True
+8066,Apex CoVantage,Data Analyst,0,1.8,1.1,3.0,123,True
+8119,Tiger Analytics,Data Analyst,0,8.8,7.5,12.0,120,True
+6492,Cyient,Data Analyst,1,3.4,1.8,6.7,119,True
+6332,Urjanet Energy Solutions,Data Analyst,1,2.7,2.0,4.2,118,True
+8641,HSBC,Data Analyst,1,8.0,3.4,12.4,117,True
+4076,DXC Technology,Data Analyst,1,5.4,3.7,10.2,109,True
+8361,QUADRANT RESOURCE LLC,Data Analyst,1,3.0,1.5,4.0,109,True
+4918,PwC,Data Analyst,0,6.3,3.2,12.0,108,True
+2323,LatentView Analytics,Data Analyst,0,6.3,5.0,9.0,104,True
+7136,EXL Service,Data Analyst,1,5.0,2.2,9.1,102,True
+1520,KPMG,Data Analyst,1,6.7,3.0,12.0,100,True
+3875,WNS,Data Analyst,1,5.2,2.0,8.9,98,True
+7181,Myntra,Data Analyst,1,9.6,4.8,14.0,98,True
+7233,IQVIA,Data Analyst,1,7.3,4.1,12.0,96,True
+4383,Ugam Solution,Data Analyst,0,4.6,1.8,8.0,92,True
+6109,Bharti Airtel,Data Analyst,1,4.6,2.6,11.0,90,True
+6498,ICICI Bank,Data Analyst,1,4.9,2.5,10.0,82,True
+8086,Walmart,Data Analyst,1,13.9,3.8,30.0,81,True
+1929,JP Morgan Chase,Data Analyst,2,10.0,4.1,20.0,81,True
+8720,Kantar,Data Analyst,1,4.2,3.0,5.7,79,True
+6312,S&P Global,Data Analyst,1,4.4,3.1,8.0,79,True
+2787,Axtria,Data Analyst,0,8.8,6.0,13.5,77,True
+7507,L&T Infotech,Data Analyst,1,6.6,3.8,14.5,77,True
+8608,Nielsen,Data Analyst,1,4.0,2.4,7.3,75,True
+1390,Citicorp,Data Analyst,1,12.2,8.5,17.1,75,True
+3695,Morningstar,Data Analyst,0,3.6,3.0,4.8,74,True
+7277,TheMathCompany,Data Analyst,0,5.2,4.5,8.0,73,True
+2940,Hewlett-Packard Enterprise,Data Analyst,2,6.6,3.5,10.0,72,True
+1814,Datamatics Global Services,Data Analyst,0,2.1,1.0,5.4,72,True
+6717,HERE Technologies,Data Analyst,0,2.6,2.0,4.0,72,True
+4960,HDFC Bank,Data Analyst,1,4.6,2.0,10.3,69,True
+5694,Nvidia,Data Analyst,1,3.3,2.5,4.1,69,True
+4017,Dell,Data Analyst,1,5.8,2.5,12.0,68,True
+8562,Zensar Technologies,Data Analyst,1,4.4,2.9,6.5,67,True
+2088,Vodafone Idea,Data Analyst,2,5.7,3.0,11.0,67,True
+1519,Ardem Data Services,Data Analyst,0,1.9,1.1,3.0,67,True
+2675,Fiserv,Data Analyst,2,11.5,6.0,17.0,66,True
+1742,Verificient Technologies,Data Analyst,0,2.2,1.8,3.3,65,True
+3495,CRG Solutions,Data Analyst,1,5.8,3.7,9.0,64,True
+6385,Oracle,Data Analyst,1,5.8,3.1,13.9,64,True
+2623,Google,Data Analyst,1,15.5,2.6,50.0,63,True
+3511,Swiggy,Data Analyst,1,4.4,3.1,7.3,62,True
+7027,Kriya It,Data Analyst,0,1.6,1.0,2.5,61,True
+3379,Reliance jio,Data Analyst,1,5.6,3.5,10.5,58,True
+8651,Mphasis,Data Analyst,1,5.1,2.1,9.5,58,True
+6454,Wells Fargo India,Data Analyst,1,10.3,3.1,20.0,55,True
+6466,FE fundinfo,Data Analyst,0,3.3,2.5,4.0,55,True
+7278,Oyo Rooms,Data Analyst,1,6.5,3.4,11.5,54,True
+4321,Competent Software,Data Analyst,1,3.1,2.0,4.1,54,True
+4323,Udaan,Data Analyst,1,5.0,3.0,9.0,53,True
+3482,Continental Automotive Components,Data Analyst,1,2.6,2.2,3.5,53,True
+1322,E2OPEN,Data Analyst,2,4.1,3.2,5.7,53,True
+8508,IHS Markit,Data Analyst,1,5.8,3.5,9.5,52,True
+2174,Fidelity National Financial,Data Analyst,0,3.3,1.9,4.2,51,True
+4312,Proziod Analytics,Data Analyst,1,3.5,3.0,4.5,51,True
+3373,American Express,Data Analyst,1,9.5,3.2,18.0,50,True
+8817,Bajaj Finserv,Data Analyst,0,6.5,2.0,12.0,49,True
+7371,Optimint Solutions,Data Analyst,0,2.2,1.7,3.0,49,True
+2803,Mu Sigma,Data Analyst,1,7.8,5.0,14.5,48,True
+5713,Course5,Data Analyst,0,3.5,3.0,5.1,48,True
+6753,Paytm,Data Analyst,2,6.0,3.0,12.5,48,True
+1911,Straive,Data Analyst,0,2.4,1.8,3.0,48,True
+6918,Honeywell Technology Solutions,Data Analyst,2,9.4,5.0,13.0,47,True
+8649,Intelligent Image Management Inc,Data Analyst,0,1.4,0.2,2.0,47,True
+1980,UnitedLex,Data Analyst,1,3.1,2.5,4.2,47,True
+1325,Fidelity National Information Services,Data Analyst,1,5.0,2.7,8.1,46,True
+6689,Barclays,Data Analyst,1,11.2,6.5,19.0,46,True
+4277,Novartis Healthcare,Data Analyst,2,10.3,6.7,14.2,46,True
+7627,R1 RCM,Data Analyst,1,3.4,2.3,5.5,45,True
+2597,Nokia,Data Analyst,0,4.2,2.2,8.0,45,True
+6775,Bahar Infocons,Data Analyst,1,2.2,1.4,3.1,45,True
+6616,Axis Bank,Data Analyst,0,8.2,4.0,14.0,45,True
+4686,Freelancer.com,Data Analyst,1,3.7,1.5,7.0,45,True
+6510,Virtusa Consulting Services,Data Analyst,1,4.2,2.2,8.8,44,True
+2584,Aon,Data Analyst,0,4.6,2.9,8.5,43,True
+3365,Conduent,Data Analyst,1,3.9,1.6,6.4,42,True
+1396,Schneider Electric,Data Analyst,1,6.3,3.0,12.1,42,True
+5831,Citibank,Data Analyst,0,10.4,4.1,15.8,42,True
+7248,Sphera Solutions,Data Analyst,0,3.4,3.2,3.8,42,True
+5005,Systech Solutions,Data Analyst,0,4.7,3.8,7.5,41,True
+6589,Ford Motor,Data Analyst,1,9.6,5.0,13.1,41,True
+6564,First Source,Data Analyst,1,2.7,1.5,4.9,40,True
+6582,S&P Global Market Intelligence,Data Analyst,1,4.1,3.0,6.1,40,True
+5579,UST,Data Analyst,2,7.4,3.8,12.0,40,True
+4728,SG Analytics,Data Analyst,1,4.6,3.0,6.3,39,True
+3255,Indegene,Data Analyst,1,9.0,7.5,10.9,38,True
+5864,Cisco Systems,Data Analyst,3,9.0,4.0,21.7,38,True
+6388,Huawei Technologies,Data Analyst,2,4.3,3.3,5.8,38,True
+6701,Data Entry,Data Analyst,0,1.7,0.2,3.4,38,True
+6586,Shell,Data Analyst,2,13.3,6.0,21.7,37,True
+6619,Harman Connected Services,Data Analyst,2,6.0,3.5,12.6,37,True
+1330,Johnson & Johnson,Data Analyst,1,5.0,3.0,10.5,37,True
+6816,InSync Analytics,Data Analyst,1,2.5,1.9,3.3,37,True
+1981,Larsen & Toubro Limited,Data Analyst,1,5.0,2.0,9.0,37,True
+4580,Yardi Systems,Data Analyst,2,3.7,2.7,4.6,36,True
+8679,Freelance Consultants,Data Analyst,1,3.8,1.8,6.1,36,True
+5865,Brillio,Data Analyst,0,5.8,4.0,11.0,36,True
+8908,Yodlee,Data Analyst,1,5.5,3.9,8.6,35,True
+8921,ABC,Data Analyst,1,9.6,3.0,24.0,35,True
+2886,JLL,Data Analyst,1,5.4,3.5,9.2,35,True
+4670,Sapient Corporation,Data Analyst,2,7.9,5.0,12.0,35,True
+2895,ZS,Data Analyst,1,10.6,7.0,16.0,35,True
+7987,Uber,Data Analyst,1,13.0,6.5,30.0,35,True
+6360,Numeratr,Data Analyst,0,3.0,2.0,4.4,35,True
+5656,Yukthi Datasoft,Data Analyst,1,2.1,1.5,2.9,34,True
+8307,Infosys BPM,Data Analyst,1,3.8,2.1,7.8,34,True
+5134,Hexaware Technologies,Data Analyst,1,6.4,0.2,14.0,33,True
+6855,Ganit Business Solutions,Data Analyst,0,6.0,6.0,6.0,33,True
+3763,Fractal Analytics,Data Analyst,1,9.9,4.9,17.5,33,True
+6545,CAMP Systems,Data Analyst,1,3.8,3.0,4.6,32,True
+1608,Indium Software,Data Analyst,0,7.0,4.0,11.0,32,True
+6180,Data Gyan,Data Analyst,0,1.8,1.5,2.0,32,True
+7886,Randstad,Data Analyst,1,4.2,2.5,8.0,31,True
+8564,Epsilon,Data Analyst,1,9.9,5.5,16.1,31,True
+8288,N+A,Data Analyst,0,3.7,2.1,6.0,31,True
+4018,The Smart Cube,Data Analyst,0,7.7,6.3,9.0,31,True
+1826,Dataction Analytics,Data Analyst,0,2.6,1.9,3.5,31,True
+7748,TSWRDC WOMEN'S DEGREE COLLEGE,Data Analyst,0,2.5,2.0,3.5,31,True
+2819,LiquidHub,Data Analyst,0,2.6,1.4,5.0,30,True
+6902,Sutherland Global Services,Data Analyst,1,4.8,2.8,7.3,30,True
+3067,ValueLabs,Data Analyst,1,5.1,2.4,13.8,30,True
+1755,HCL Technologies BPO Services,Data Analyst,1,2.9,1.9,5.0,30,True
+1130,HUDL,Data Analyst,0,2.9,2.0,3.8,30,True
+8971,Mercedes-Benz Research & Development India,Data Analyst,1,10.2,7.5,15.0,30,True
+3174,Whitehat jr,Data Analyst,1,5.9,4.3,8.0,30,True
+3254,Caterpillar Inc,Data Analyst,1,6.2,3.6,10.5,29,True
+8159,General Mills,Data Analyst,0,7.0,5.3,9.2,29,True
+1298,BYJU'S,Data Analyst,1,7.0,5.0,15.4,29,True
+8425,Hinduja Global Solutions,Data Analyst,1,3.7,2.0,6.5,29,True
+8410,Mercer,Data Analyst,0,4.8,2.3,8.5,29,True
+8838,Bridgei2i Analytics Solutions,Data Analyst,0,5.3,4.5,7.8,29,True
+4586,Annalect,Data Analyst,0,5.6,3.6,7.5,29,True
+8212,Verizon,Data Analyst,1,11.4,6.4,17.8,28,True
+6087,McKinsey & Company,Data Analyst,1,15.3,9.0,20.0,28,True
+6301,ITC Infotech India,Data Analyst,0,7.9,3.7,16.0,28,True
+6455,Vaco Binary Semantics,Data Analyst,0,3.7,2.4,6.0,28,True
+4568,FedEx Express,Data Analyst,0,7.4,3.3,12.0,28,True
+8142,Galytix Analytics,Data Analyst,0,6.0,6.0,6.0,28,True
+3409,VeeTechnologies,Data Analyst,1,1.9,1.2,2.4,28,True
+3897,APA Engineering,Data Analyst,0,2.0,1.5,3.1,27,True
+3711,Tesco,Data Analyst,1,5.5,3.9,8.9,27,True
+7589,UBS,Data Analyst,1,9.4,6.0,15.5,27,True
+8738,BCG,Data Analyst,2,11.9,6.0,19.4,27,True
+4827,Reliance Industries,Data Analyst,1,6.3,2.2,9.0,26,True
+7494,Collegedunia,Data Analyst,1,4.0,3.0,5.4,26,True
+5794,Thomson Reuters,Data Analyst,1,4.1,2.1,6.9,26,True
+7130,Tata Communications,Data Analyst,0,3.9,2.1,5.1,26,True
+6799,Cerner,Data Analyst,1,7.3,5.2,10.5,26,True
+6934,Sandcube Analytics,Data Analyst,0,2.3,1.1,3.6,26,True
+5734,Bank of America,Data Analyst,2,13.9,5.5,20.0,26,True
+3953,Stats Systems India,Data Analyst,0,2.1,1.5,3.1,26,True
+5479,Objectways Technologies,Data Analyst,0,1.5,1.2,2.0,26,True
+2634,Target,Data Analyst,1,8.8,2.9,13.0,25,True
+2135,PayPal,Data Analyst,1,17.2,8.0,30.0,25,True
+2650,NISC Export Services,Data Analyst,1,3.2,2.3,5.0,25,True
+2214,ANZ Banking Group,Data Analyst,2,9.8,4.4,15.6,25,True
+1609,Hive,Data Analyst,0,4.2,3.5,5.8,25,True
+5913,Crif High Mark Credit Information Services,Data Analyst,2,5.5,3.8,8.0,25,True
+4584,Pacecom Technologies,Data Analyst,0,2.1,2.0,2.6,25,True
+5403,TCS,Data Engineer,1,5.8,3.9,10.1,819,True
+5985,IBM,Data Engineer,1,10.4,4.8,18.0,727,True
+6440,L&T Infotech,Data Engineer,1,5.7,4.1,9.0,420,True
+1403,Accenture,Data Engineer,1,9.0,5.0,16.8,332,True
+8967,Cognizant,Data Engineer,1,7.5,4.5,13.3,292,True
+3793,EC-Mobility,Data Engineer,1,2.1,1.8,2.6,259,True
+4299,Capgemini,Data Engineer,1,7.4,4.0,13.5,231,True
+8920,Infosys,Data Engineer,1,5.5,3.6,10.0,196,True
+8265,Fractal Analytics,Data Engineer,2,11.8,8.0,18.0,184,True
+2453,Wipro,Data Engineer,1,6.6,4.0,14.5,175,True
+4338,Amazon,Data Engineer,2,22.0,11.0,40.0,166,True
+1944,Quantiphi Analytics Solutions,Data Engineer,0,10.4,6.5,15.0,140,True
+5805,Tech Mahindra,Data Engineer,2,6.5,4.2,13.0,130,True
+4495,Mindtree,Data Engineer,1,6.0,3.9,9.9,124,True
+4021,DXC Technology,Data Engineer,1,6.6,3.8,12.0,122,True
+7790,Deloitte,Data Engineer,1,11.8,6.0,18.0,116,True
+5491,Walmart,Data Engineer,3,22.1,15.0,31.9,88,True
+8350,Optum,Data Engineer,2,11.1,7.9,16.8,80,True
+4667,Shell,Data Engineer,1,17.2,8.0,24.0,79,True
+1550,HCL Technologies,Data Engineer,1,9.0,3.5,18.0,79,True
+2614,Futurense Technologies,Data Engineer,1,9.5,7.0,12.0,72,True
+5818,Tiger Analytics,Data Engineer,1,14.0,7.0,21.0,69,True
+3148,Teradata,Data Engineer,3,13.6,8.8,17.5,68,True
+1885,Altimetrik,Data Engineer,1,12.6,6.5,22.0,59,True
+4189,Ernst & Young,Data Engineer,2,12.8,5.2,20.0,59,True
+3776,Maersk,Data Engineer,2,17.0,7.8,27.8,55,True
+2933,UnitedHealth,Data Engineer,2,10.3,6.3,17.3,53,True
+5233,Genpact,Data Engineer,1,6.8,3.2,14.0,47,True
+6910,PayPal,Data Engineer,4,21.6,12.8,31.0,44,True
+6103,Enquero,Data Engineer,1,9.5,6.2,15.0,41,True
+4869,DataMetica,Data Engineer,0,6.4,4.0,10.7,41,True
+2846,Ericsson,Data Engineer,2,10.6,5.3,17.5,40,True
+1308,GE,Data Engineer,3,12.8,9.6,16.0,39,True
+8734,Target,Data Engineer,0,12.9,10.0,17.7,38,True
+6343,Brillio,Data Engineer,0,7.7,4.5,13.3,38,True
+6891,ZS,Data Engineer,1,11.7,9.0,16.0,37,True
+2537,Hewlett-Packard Enterprise,Data Engineer,2,8.4,4.5,18.0,36,True
+2809,Reliance jio,Data Engineer,1,8.2,4.5,13.0,35,True
+5224,Sapient Corporation,Data Engineer,2,13.5,9.2,17.0,34,True
+8736,Larsen & Toubro Limited,Data Engineer,1,5.8,4.0,10.5,34,True
+2516,JP Morgan Chase,Data Engineer,4,18.7,8.0,29.0,32,True
+5049,Societe Generale,Data Engineer,2,16.8,9.6,23.0,31,True
+3209,Bajaj Finserv,Data Engineer,0,10.9,8.0,12.5,30,True
+4795,Bharti Airtel,Data Engineer,2,4.0,3.0,7.5,30,True
+1567,Bank of America,Data Engineer,2,15.1,8.1,22.0,30,True
+2911,Mphasis,Data Engineer,1,10.1,4.2,19.0,30,True
+8199,Fragma Data Systems,Data Engineer,0,5.5,3.5,11.9,30,True
+5796,NTT DATA,Data Engineer,2,10.4,4.1,25.0,29,True
+7031,PwC,Data Engineer,1,10.0,5.5,16.5,29,True
+4222,KPMG,Data Engineer,2,12.3,7.0,18.0,28,True
+7442,UST,Data Engineer,1,9.8,3.5,17.0,27,True
+6201,Virtusa Consulting Services,Data Engineer,1,9.0,4.2,20.0,27,True
+2469,DBS Bank,Data Engineer,2,13.6,9.1,24.0,27,True
+6026,Koch Business Solutions,Data Engineer,4,23.6,12.0,34.0,27,True
+7134,Lowe's,Data Engineer,1,12.1,10.0,14.3,26,True
+1593,BA Continuum,Data Engineer,4,16.5,12.0,22.8,26,True
+1677,Dell,Data Engineer,1,12.8,5.5,20.0,26,True
+2478,Data Semantics,Data Engineer,3,8.9,4.5,15.5,25,True
+4168,BlazeClan Technologies,Data Engineer,0,5.5,3.2,9.6,24,True
+1045,Microsoft Corporation,Data Engineer,3,25.1,13.0,40.1,24,True
+6418,DataWeave,Data Engineer,1,8.2,5.5,12.0,23,True
+6158,Celebal Technologies,Data Engineer,0,5.5,4.5,10.0,23,True
+8377,SpringML,Data Engineer,1,9.7,5.5,14.0,23,True
+6914,TEKsystems,Data Engineer,1,9.7,6.0,18.0,23,True
+6104,NatWest Group,Data Engineer,2,20.4,11.1,32.0,23,True
+4956,Saama Technologies,Data Engineer,2,9.7,6.0,14.5,22,True
+5474,GE Aviation,Data Engineer,2,12.2,9.0,16.0,22,True
+8043,Affine Analytics,Data Engineer,0,7.7,6.0,12.0,22,True
+6322,Wells Fargo India,Data Engineer,3,15.2,10.1,22.0,21,True
+6759,EXL Service,Data Engineer,2,10.3,6.0,14.1,20,True
+8459,McKinsey & Company,Data Engineer,2,18.5,10.0,25.0,20,True
+2298,Cisco Systems,Data Engineer,3,19.3,12.0,28.0,20,True
+8618,IDFC FIRST Bank,Data Engineer,1,15.4,8.5,21.9,20,True
+4803,ValueLabs,Data Engineer,1,10.3,5.0,23.5,20,True
+3443,Paytm,Data Engineer,2,13.9,5.8,23.0,20,True
+7148,Blackbuck Insights,Data Engineer,0,4.2,2.5,8.5,20,True
+7078,Lumen Technologies,Data Engineer,1,6.6,4.5,9.2,20,True
+7409,Micron Technology,Data Engineer,3,12.9,8.4,18.0,20,True
+7952,GE Healthcare,Data Engineer,3,12.3,10.0,17.0,19,True
+2176,IQVIA,Data Engineer,2,10.5,5.5,15.0,19,True
+3333,SG Analytics,Data Engineer,0,7.3,5.2,12.0,19,True
+7965,Wavicle Data Solutions,Data Engineer,2,5.1,3.5,7.2,19,True
+8186,Mercedes-Benz Research & Development India,Data Engineer,1,13.1,7.0,19.0,19,True
+6312,LatentView Analytics,Data Engineer,0,7.2,5.3,12.0,19,True
+4369,Schlumberger,Data Engineer,2,13.7,6.5,22.5,19,True
+2757,Adobe,Data Engineer,3,23.7,14.0,34.0,18,True
+7274,Commonwealth Bank of Australia,Data Engineer,2,19.9,9.9,28.8,18,True
+4142,NCR Corporation,Data Engineer,1,9.5,6.2,13.5,18,True
+8181,ITC Infotech India,Data Engineer,1,6.8,4.1,13.0,18,True
+6615,Novartis Healthcare,Data Engineer,2,15.0,9.5,19.5,18,True
+4764,Legato Health Technologies,Data Engineer,2,10.8,8.3,13.5,18,True
+4104,Honeywell Technology Solutions,Data Engineer,0,11.2,5.0,26.0,17,True
+1687,Hexaware Technologies,Data Engineer,1,11.7,3.5,23.5,17,True
+8621,Impetus Technologies,Data Engineer,1,13.1,11.5,16.0,17,True
+5920,Bridgei2i Analytics Solutions,Data Engineer,0,6.7,5.0,10.0,17,True
+7597,Verizon,Data Engineer,1,10.5,5.6,15.5,16,True
+8623,Systech Solutions,Data Engineer,0,4.1,3.3,4.5,16,True
+1809,Ab Inbev,Data Engineer,4,16.5,8.2,24.0,16,True
+5226,Neal Analytics,Data Engineer,1,10.5,6.8,16.0,16,True
+8074,TheMathCompany,Data Engineer,2,9.3,7.0,13.2,16,True
+8440,Atos Syntel,Data Engineer,2,7.3,3.8,12.0,16,True
+5617,Lumiq.ai,Data Engineer,0,8.1,6.0,9.5,16,True
+2078,Axis Bank,Data Engineer,0,11.1,7.7,14.7,16,True
+4409,Google,Data Engineer,3,45.3,16.5,93.5,16,True
+7858,Maersk Line,Data Engineer,2,12.8,8.0,21.0,15,True
+5289,AstraZeneca,Data Engineer,1,9.3,6.8,13.5,15,True
+2629,Amdocs,Data Engineer,0,8.9,6.1,13.0,15,True
+5215,MasterCard,Data Engineer,0,15.1,13.0,18.0,15,True
+3322,Morgan Stanley,Data Engineer,3,20.5,11.0,26.0,14,True
+3308,Tavant Technologies,Data Engineer,1,10.1,5.8,20.0,14,True
+3842,Flipkart,Data Engineer,2,17.5,9.5,25.0,14,True
+3417,Michelin,Data Engineer,0,9.8,7.7,11.3,14,True
+4914,Concentrix Corporation,Data Engineer,1,3.7,2.6,4.5,14,True
+7726,Siemens,Data Engineer,1,12.9,6.8,16.0,14,True
+8755,Mu Sigma,Data Engineer,1,8.4,5.5,12.0,13,True
+2147,Expedia,Data Engineer,4,27.6,20.0,40.0,13,True
+2567,Decision Point,Data Engineer,0,5.9,4.8,7.0,13,True
+8059,Adidas,Data Engineer,1,23.0,14.5,34.0,13,True
+5990,Nokia,Data Engineer,1,10.7,3.6,24.5,13,True
+5708,Oil Field Instrumentation,Data Engineer,6,6.9,1.2,11.1,13,True
+5566,Atos,Data Engineer,2,8.5,3.7,17.8,13,True
+5427,Bitwise Solutions,Data Engineer,0,6.1,3.8,9.0,13,True
+8208,Ford Motor,Data Engineer,0,10.1,5.7,15.9,13,True
+4158,Persistent Systems,Data Engineer,1,11.6,4.2,20.4,13,True
+3401,Indium Software,Data Engineer,0,6.8,3.6,11.5,13,True
+8353,Citicorp,Data Engineer,2,17.9,13.5,20.0,13,True
+5406,The Data Team,Data Engineer,1,11.5,8.5,15.0,13,True
+2086,Cittabase Solutions,Data Engineer,3,7.9,5.0,10.3,13,True
+3700,NIKE,Data Engineer,3,21.3,14.1,29.0,13,True
+1105,Kyndryl,Data Engineer,2,12.8,8.5,16.0,13,True
+2377,Dunnhumby,Data Engineer,1,12.3,8.7,18.5,12,True
+7558,Advance Auto Parts,Data Engineer,3,13.3,10.2,15.5,12,True
+1092,Rackspace,Data Engineer,3,16.3,11.0,21.6,12,True
+3271,Tredence,Data Engineer,2,11.4,7.0,16.0,12,True
+4433,Expert Global Solutions,Data Engineer,0,2.1,1.1,3.1,12,True
+2256,Cerner,Data Engineer,2,9.9,6.0,14.0,12,True
+3995,Searce Cosourcing Services,Data Engineer,1,7.4,5.0,12.5,12,True
+7725,Eli Lilly and Company,Data Engineer,3,18.4,16.0,22.0,12,True
+4723,ValueMomentum,Data Engineer,1,10.6,4.5,21.3,12,True
+4253,InfoStretch,Data Engineer,1,10.5,4.2,18.0,12,True
+4383,Nagarro,Data Engineer,2,13.1,7.0,25.0,12,True
+3800,KPI Partners,Data Engineer,1,12.0,5.0,22.0,12,True
+6560,HSBC,Data Engineer,1,9.7,6.5,18.0,12,True
+4334,Bosch Global Software Technologies,Data Engineer,1,7.1,3.8,14.0,11,True
+5251,Axtria,Data Engineer,1,11.4,7.5,15.3,11,True
+8444,Visa,Data Engineer,1,28.7,16.5,37.0,11,True
+2213,Happiest Minds Technologies,Data Engineer,0,8.0,4.0,14.8,11,True
+4178,BYJU'S,Data Engineer,1,9.7,4.5,19.5,11,True
+4306,Yash Technologies,Data Engineer,0,5.3,3.2,8.0,11,True
+5751,GE Digital,Data Engineer,4,12.6,8.3,18.3,11,True
+4373,GSK Pharmaceuticals,Data Engineer,5,23.1,19.0,27.0,11,True
+3072,Rakuten,Data Engineer,0,13.3,8.5,18.5,11,True
+8897,InnovAccer,Data Engineer,1,8.2,5.0,15.0,11,True
+7854,nThrive Global Solutions,Data Engineer,2,11.8,7.8,17.6,11,True
+7944,AI Touch,Data Engineer,0,2.3,2.0,3.0,11,True
+8022,Autodesk,Data Engineer,0,26.5,6.4,40.0,11,True
+6985,Knoema IT Solutions,Data Engineer,0,3.3,2.0,4.1,11,True
+5736,Ecolab Digital Center,Data Engineer,2,11.5,8.5,18.0,11,True
+7251,Apple,Data Engineer,3,25.0,17.0,35.0,11,True
+6029,AVASOFT,Data Engineer,0,4.0,3.5,4.9,10,True
+8998,i2e Consulting,Data Engineer,2,13.1,9.0,16.5,10,True
+2834,Birlasoft,Data Engineer,2,11.1,5.2,20.1,10,True
+5859,EPAM Systems,Data Engineer,4,17.3,8.8,24.0,10,True
+5390,Xyz Company,Data Engineer,1,12.3,6.0,21.0,10,True
+2744,Colgate Palmolive,Data Engineer,1,10.7,6.0,15.0,10,True
+7828,BCG,Data Engineer,2,17.2,14.5,19.5,10,True
+5835,Apisero,Data Engineer,1,13.5,8.0,18.0,10,True
+5599,Fidelity Investment,Data Engineer,1,13.3,11.0,16.7,10,True
+7336,Oracle,Data Engineer,2,14.6,7.0,25.0,10,True
+2072,Accion Labs,Data Engineer,3,18.1,8.0,30.0,9,True
+5169,Dun & Bradstreet,Data Engineer,3,11.4,8.6,15.4,9,True
+6912,Webhelp,Data Engineer,3,10.7,8.5,14.0,9,True
+5376,Ags Infotech,Data Engineer,2,5.0,4.4,5.5,9,True
+6069,Synechron,Data Engineer,4,17.3,12.5,24.0,9,True
+4641,GEP Worldwide,Data Engineer,2,13.0,10.1,15.0,9,True
+4668,Principal Global Services,Data Engineer,1,10.2,9.5,11.1,9,True
+3137,Algonomy,Data Engineer,1,7.5,5.0,13.6,9,True
+5165,Sigmoid Analytics,Data Engineer,1,15.0,12.8,18.5,9,True
+5935,Vodafone Idea,Data Engineer,1,11.2,2.1,18.0,9,True
+5048,Clairvoyant India,Data Engineer,2,10.5,5.0,17.0,9,True
+7774,Aktrix Technologies,Data Engineer,0,4.1,3.0,5.5,9,True
+6283,ThoughtWorks,Data Engineer,1,15.7,10.0,19.4,9,True
+8752,DUNNHUMBY IT SERVICES INDIA,Data Engineer,1,11.9,9.0,14.9,9,True
+8937,Baker Hughes,Data Engineer,3,14.8,12.0,16.5,9,True
+1144,Denodo Technologies,Data Engineer,0,8.0,6.0,10.5,9,True
+8625,Hashedin By Deloitte,Data Engineer,2,15.0,11.1,19.0,9,True
+5240,Red Hat,Data Engineer,2,12.4,4.5,17.6,8,True
+3833,HDFC Bank,Data Engineer,2,9.0,6.5,12.5,8,True
+4637,Accenture,Senior Data Scientist,3,18.9,10.5,30.5,80,True
+6847,TCS,Senior Data Scientist,4,16.7,8.6,30.0,79,True
+8996,Cognizant,Senior Data Scientist,4,17.9,12.0,25.2,57,True
+5663,Fractal Analytics,Senior Data Scientist,4,25.6,18.0,32.0,47,True
+6528,Ab Inbev,Senior Data Scientist,3,28.0,22.0,35.0,44,True
+1748,Wipro,Senior Data Scientist,4,16.1,8.0,30.0,43,True
+6043,Deloitte,Senior Data Scientist,5,21.2,14.0,35.0,42,True
+6193,Walmart,Senior Data Scientist,5,43.0,30.0,65.0,32,True
+2608,Amazon,Senior Data Scientist,5,41.5,26.0,75.0,30,True
+3673,UnitedHealth,Senior Data Scientist,4,23.0,15.6,30.5,30,True
+4333,Ernst & Young,Senior Data Scientist,4,21.4,15.0,30.0,29,True
+2627,Optum,Senior Data Scientist,5,26.2,18.0,36.0,28,True
+3051,Impact Analytics,Senior Data Scientist,2,13.4,9.0,19.0,28,True
+1513,Incedo,Senior Data Scientist,3,18.9,15.0,25.0,26,True
+5422,IBM,Senior Data Scientist,5,24.4,14.0,36.0,25,True
+2450,Target,Senior Data Scientist,2,23.8,15.5,30.0,25,True
+7062,Infosys,Senior Data Scientist,4,18.1,9.0,30.0,25,True
+5031,TVS Credit Services,Senior Data Scientist,4,14.7,11.5,21.0,24,True
+6880,Ericsson,Senior Data Scientist,7,30.2,14.2,50.6,22,True
+4852,Microsoft Corporation,Senior Data Scientist,4,56.4,30.0,100.0,22,True
+2822,HCL Technologies,Senior Data Scientist,4,19.3,14.4,25.0,22,True
+1796,Capgemini,Senior Data Scientist,4,16.8,11.5,26.0,22,True
+4469,Dunnhumby,Senior Data Scientist,3,15.4,12.0,22.0,21,True
+1406,Birlasoft,Senior Data Scientist,3,14.3,8.0,22.3,20,True
+2826,Tech Mahindra,Senior Data Scientist,4,16.4,7.1,25.0,20,True
+5305,Affine Analytics,Senior Data Scientist,1,9.9,7.6,16.0,20,True
+4608,Wolters Kluwer,Senior Data Scientist,6,23.7,18.0,30.0,19,True
+1636,Harman Connected Services,Senior Data Scientist,4,16.0,11.5,22.0,19,True
+4035,L&T Infotech,Senior Data Scientist,2,20.0,12.3,28.0,19,True
+4536,Reliance jio,Senior Data Scientist,4,30.0,18.5,46.0,18,True
+7545,Sapient Corporation,Senior Data Scientist,2,21.1,14.2,28.5,18,True
+4871,Coforge,Senior Data Scientist,4,15.0,15.0,15.2,18,True
+3769,Lowe's,Senior Data Scientist,4,25.0,16.0,33.0,17,True
+5206,Blue Yonder,Senior Data Scientist,2,31.6,18.0,50.0,17,True
+2399,Bosch Global Software Technologies,Senior Data Scientist,2,24.1,16.1,30.0,16,True
+5977,Nielsen,Senior Data Scientist,2,9.9,7.9,13.7,16,True
+8313,Oracle,Senior Data Scientist,3,25.2,20.0,37.0,16,True
+1048,Happiest Minds Technologies,Senior Data Scientist,5,16.4,9.0,26.0,15,True
+6876,DXC Technology,Senior Data Scientist,7,17.1,11.0,25.0,15,True
+8746,PayPal,Senior Data Scientist,6,40.7,30.0,45.0,15,True
+3412,Citibank,Senior Data Scientist,4,22.8,16.0,30.0,15,True
+3232,Innominds Software,Senior Data Scientist,4,18.6,13.5,27.5,14,True
+7628,Bajaj Finserv,Senior Data Scientist,1,17.6,10.0,27.8,14,True
+6757,Honeywell Technology Solutions,Senior Data Scientist,2,18.4,10.0,35.0,14,True
+8691,eClerx,Senior Data Scientist,2,15.3,11.0,21.6,14,True
+2056,VMware Software,Senior Data Scientist,2,23.1,16.0,36.5,14,True
+3305,PwC,Senior Data Scientist,4,21.2,13.0,30.0,14,True
+3024,EXL Service,Senior Data Scientist,3,19.5,14.5,30.0,13,True
+6387,Mercedes-Benz Research & Development India,Senior Data Scientist,3,18.0,10.0,35.0,13,True
+3184,Mindtree,Senior Data Scientist,5,17.8,9.0,28.1,13,True
+2768,Wells Fargo India,Senior Data Scientist,5,23.1,14.0,30.0,13,True
+8216,Genpact,Senior Data Scientist,4,24.2,10.0,35.0,12,True
+7790,Course5,Senior Data Scientist,3,11.7,9.0,17.0,12,True
+6413,JP Morgan Chase,Senior Data Scientist,5,27.7,14.0,51.0,12,True
+5608,MasterCard,Senior Data Scientist,2,25.5,18.2,36.0,12,True
+3133,GE Healthcare,Senior Data Scientist,3,28.0,24.0,33.0,11,True
+6009,IHS Markit,Senior Data Scientist,5,22.5,16.0,29.0,11,True
+5677,NIIT Technologies,Senior Data Scientist,2,15.3,15.0,16.0,11,True
+8520,Gramener,Senior Data Scientist,2,14.4,10.0,20.8,11,True
+8214,Ford Motor,Senior Data Scientist,4,17.6,16.4,19.5,11,True
+5154,TheMathCompany,Senior Data Scientist,4,14.8,12.0,18.0,11,True
+8311,Legato Health Technologies,Senior Data Scientist,4,21.2,15.6,26.0,11,True
+4278,Dell,Senior Data Scientist,3,23.2,15.0,32.0,11,True
+7282,Great Learning,Senior Data Scientist,3,12.3,11.0,14.0,11,True
+1989,Morningstar,Senior Data Scientist,4,19.7,16.2,24.6,10,True
+8572,Hewlett-Packard Enterprise,Senior Data Scientist,3,20.7,17.0,30.0,10,True
+7915,Tredence,Senior Data Scientist,3,18.4,12.4,26.0,10,True
+1971,UST,Senior Data Scientist,3,12.1,10.3,16.0,10,True
+2856,ValueLabs,Senior Data Scientist,3,21.1,10.3,26.5,10,True
+8839,Novartis Healthcare,Senior Data Scientist,5,30.5,16.0,51.0,10,True
+7769,Vodafone Idea,Senior Data Scientist,4,22.7,13.1,32.7,10,True
+7832,Nagarro,Senior Data Scientist,2,18.0,14.3,25.0,10,True
+8202,HERE Technologies,Senior Data Scientist,6,27.1,22.5,30.0,9,True
+1426,Globant,Senior Data Scientist,2,17.8,13.0,26.0,9,True
+4581,Baker Hughes,Senior Data Scientist,3,27.4,23.0,32.0,9,True
+7782,Tiger Analytics,Senior Data Scientist,5,22.2,18.0,27.5,9,True
+6515,Epsilon,Senior Data Scientist,4,23.2,19.0,26.0,8,True
+7872,AntWorks,Senior Data Scientist,3,20.6,14.0,30.0,8,True
+5128,Altimetrik,Senior Data Scientist,4,18.3,12.0,26.0,8,True
+8414,Info Edge,Senior Data Scientist,1,30.9,21.0,37.0,8,True
+8715,Sigmoid Analytics,Senior Data Scientist,2,22.5,15.0,30.0,8,True
+4765,Eli Lilly and Company,Senior Data Scientist,4,26.8,22.5,32.0,8,True
+1857,Lam Research,Senior Data Scientist,3,16.5,13.9,20.0,8,True
+2400,GE Aviation,Senior Data Scientist,5,22.1,14.5,29.0,8,True
+5007,Iris Software,Senior Data Scientist,6,23.0,17.0,27.0,8,True
+1303,Claim Genius,Senior Data Scientist,3,21.4,18.4,27.0,8,True
+6735,ZS,Senior Data Scientist,1,18.0,14.5,24.0,8,True
+7619,Mphasis,Senior Data Scientist,2,13.3,11.0,15.4,8,True
+8261,NielsenIQ,Senior Data Scientist,3,8.7,8.0,9.4,8,True
+1570,Mu Sigma,Senior Data Scientist,3,14.5,12.3,15.0,7,True
+6276,BNY Mellon,Senior Data Scientist,1,16.9,5.2,25.0,7,True
+3583,Yash Technologies,Senior Data Scientist,5,18.4,12.1,23.5,7,True
+8310,Franklin Templeton Investments,Senior Data Scientist,7,27.3,22.0,32.0,7,True
+5918,Philips,Senior Data Scientist,5,22.6,19.0,25.9,7,True
+8828,DBS Bank,Senior Data Scientist,4,20.6,16.5,25.0,7,True
+5587,International School of Engineering,Senior Data Scientist,9,20.2,15.0,25.0,7,True
+4169,Johnson Controls,Senior Data Scientist,4,25.1,18.5,32.0,7,True
+1175,Bajaj Finance,Senior Data Scientist,1,20.0,16.0,30.0,7,True
+4121,Ganit Business Solutions,Senior Data Scientist,5,18.9,15.5,21.5,7,True
+2917,Xoriant,Senior Data Scientist,6,18.6,15.0,23.5,7,True
+1792,o9 Solutions,Senior Data Scientist,4,21.5,13.5,28.0,7,True
+8525,Verizon,Senior Data Scientist,7,26.7,11.0,37.0,6,True
+7251,Shell,Senior Data Scientist,6,29.8,22.0,35.5,6,True
+7877,Zensar Technologies,Senior Data Scientist,4,18.2,14.0,22.0,6,True
+3689,McKinsey & Company,Senior Data Scientist,6,18.2,1.0,31.0,6,True
+6252,Apexon,Senior Data Scientist,4,10.3,9.0,11.1,6,True
+4268,GE,Senior Data Scientist,4,23.1,16.0,30.0,6,True
+5440,Johnson & Johnson,Senior Data Scientist,5,24.1,17.0,35.0,6,True
+1127,Cerner,Senior Data Scientist,6,28.9,23.7,35.8,6,True
+1233,Algonomy,Senior Data Scientist,2,28.3,23.0,32.0,6,True
+2330,Ecolab Food Safety & Hygiene Solutions,Senior Data Scientist,4,13.9,11.5,18.0,6,True
+6063,L&T Technology Services,Senior Data Scientist,4,15.2,9.0,24.0,6,True
+3956,American Express,Senior Data Scientist,3,23.3,22.0,25.1,6,True
+4716,Yum!,Senior Data Scientist,2,15.3,11.0,17.8,6,True
+8277,Indium Software,Senior Data Scientist,2,14.5,8.8,20.0,6,True
+6415,Cummins,Senior Data Scientist,3,23.2,17.8,29.9,6,True
+5071,Eversana,Senior Data Scientist,4,14.3,12.0,17.8,6,True
+3850,Paytm,Senior Data Scientist,3,31.6,27.0,40.0,6,True
+5470,Citicorp,Senior Data Scientist,6,28.3,21.0,35.0,6,True
+4053,Quantium Analytics,Senior Data Scientist,5,25.0,24.0,27.0,6,True
+1323,MKS Vision,Senior Data Scientist,7,18.1,15.0,22.0,6,True
+7743,Oyo Rooms,Senior Data Scientist,3,31.0,20.0,42.0,5,True
+1930,Yodlee,Senior Data Scientist,2,32.1,27.0,36.0,5,True
+6013,CitiusTech,Senior Data Scientist,7,17.8,15.0,19.5,5,True
+6927,SAP,Senior Data Scientist,7,36.6,17.2,51.0,5,True
+5030,Teleperformance,Senior Data Scientist,3,16.2,10.0,20.0,5,True
+2427,V2 Solutions,Senior Data Scientist,2,8.5,8.5,8.6,5,True
+8211,Dun & Bradstreet,Senior Data Scientist,2,11.9,9.5,13.5,5,True
+7934,Nvidia,Senior Data Scientist,2,21.3,10.0,28.0,5,True
+5531,AlgoAnalytics Financial Consultancy,Senior Data Scientist,3,18.9,16.5,20.7,5,True
+8873,Reliance Industries,Senior Data Scientist,5,10.0,9.0,11.0,5,True
+3536,Scienaptic Systems,Senior Data Scientist,6,19.7,15.0,23.5,5,True
+8710,Freelance Consultants,Senior Data Scientist,7,31.7,18.6,42.0,5,True
+1576,Decision Point,Senior Data Scientist,3,22.4,19.0,25.0,5,True
+7203,IDFC FIRST Bank,Senior Data Scientist,4,20.8,14.0,26.0,5,True
+8637,Thomson Reuters,Senior Data Scientist,4,18.4,10.0,27.5,5,True
+6054,Synechron,Senior Data Scientist,3,12.0,9.5,16.0,5,True
+5117,Akamai Technologies,Senior Data Scientist,4,27.3,22.5,34.0,5,True
+2993,Quest Global,Senior Data Scientist,4,22.8,14.0,41.0,5,True
+7783,GEP Worldwide,Senior Data Scientist,6,24.4,22.0,32.0,5,True
+7361,Hinduja Global Solutions,Senior Data Scientist,3,15.6,4.0,24.7,5,True
+7586,ACL Digital,Senior Data Scientist,3,18.8,10.7,25.0,5,True
+7673,Innova Solutions,Senior Data Scientist,4,39.7,6.0,97.0,5,True
+8988,Automatic Data Processing,Senior Data Scientist,9,34.4,27.0,39.4,5,True
+3559,Brillio,Senior Data Scientist,4,21.2,12.0,34.0,5,True
+8533,Boeing,Senior Data Scientist,8,27.6,25.2,30.0,5,True
+3530,Flipkart,Senior Data Scientist,5,82.0,55.0,100.0,5,True
+7995,ITC Infotech India,Senior Data Scientist,3,14.9,12.0,18.5,5,True
+7241,Decision Minds,Senior Data Scientist,5,19.0,13.0,22.4,5,True
+8716,Neal Analytics,Senior Data Scientist,4,23.6,21.0,29.0,5,True
+1258,HALODOC,Senior Data Scientist,2,27.4,18.0,38.0,5,True
+7097,Samsung Research,Senior Data Scientist,2,31.7,20.5,40.0,5,True
+6705,Neewee Analytics,Senior Data Scientist,3,14.9,12.1,21.5,5,True
+1953,Subex,Senior Data Scientist,4,25.2,11.8,37.0,5,True
+6860,BCG,Senior Data Scientist,3,20.2,19.8,21.5,5,True
+8110,Hitachi Vantara,Senior Data Scientist,7,24.6,18.7,35.0,5,True
+5292,ZF Group,Senior Data Scientist,2,16.8,14.5,20.3,5,True
+1651,DUNNHUMBY IT SERVICES INDIA,Senior Data Scientist,2,12.3,11.0,15.0,5,True
+7071,Decimal Point Analytics,Senior Data Scientist,2,20.2,12.2,24.0,5,True
+5831,Koch Business Solutions,Senior Data Scientist,4,39.6,23.0,51.0,5,True
+8995,Noodle.Ai,Senior Data Scientist,2,21.7,18.0,26.0,5,True
+2410,Publicis,Senior Data Scientist,5,18.0,15.0,28.0,5,True
+3485,Ecolab Digital Center,Senior Data Scientist,4,22.7,19.3,26.1,5,True
+6779,PepsiCo,Senior Data Scientist,8,29.5,19.0,39.5,5,True
+8055,TEKsystems,Senior Data Scientist,3,18.2,9.0,23.0,5,True
+6706,Chubb Group,Senior Data Scientist,4,16.6,13.5,21.0,5,True
+4224,Amnet Digital,Senior Data Scientist,2,11.8,1.0,18.0,5,True
+7913,Blend360,Senior Data Scientist,5,30.4,26.3,35.0,5,True
+2607,Kyndryl,Senior Data Scientist,3,44.4,11.6,93.0,5,True
+6579,HSBC,Senior Data Scientist,0,24.6,22.0,28.0,5,True
+6967,Chegg,Senior Data Scientist,3,32.2,29.9,35.0,5,True
+1872,First Source,Senior Data Scientist,10,29.0,28.0,30.0,4,True
+5957,Caterpillar Inc,Senior Data Scientist,9,22.8,20.3,24.0,4,True
+2963,Pitney Bowes,Senior Data Scientist,3,17.5,14.1,22.0,4,True
+5691,MSCI,Senior Data Scientist,6,38.4,35.4,42.0,4,True
+7698,Accolite Digital,Senior Data Scientist,2,12.8,11.0,14.0,4,True
+1187,Adobe,Senior Data Scientist,8,40.0,30.0,50.0,4,True
+5430,Omega Healthcare,Senior Data Scientist,7,14.1,10.8,15.8,4,True
+4444,Western Union,Senior Data Scientist,4,22.2,20.0,25.0,4,True
+3757,HDFC Bank,Senior Data Scientist,6,25.1,15.2,33.0,4,True
+5615,Tata Motors,Senior Data Scientist,4,11.5,5.8,14.0,4,True
+1099,EdgeVerve Systems,Senior Data Scientist,5,20.4,12.0,27.5,4,True
+3183,Aditya Birla Group,Senior Data Scientist,7,28.0,26.0,30.0,4,True
+1012,Commonwealth Bank of Australia,Senior Data Scientist,4,31.8,27.0,35.0,4,True
+7529,Swiss Re,Senior Data Scientist,5,26.9,11.9,34.5,4,True
+3314,TCS,Senior Business Analyst,3,7.7,3.5,14.0,1100,True
+5537,Accenture,Senior Business Analyst,3,10.3,5.5,15.4,1100,True
+5680,Evalueserve,Senior Business Analyst,2,9.8,7.1,13.8,1000,True
+2340,Cognizant,Senior Business Analyst,2,13.9,9.0,18.7,616,True
+3264,HCL Technologies,Senior Business Analyst,4,11.9,6.4,18.5,384,True
+7302,Tech Mahindra,Senior Business Analyst,4,9.9,5.5,16.5,382,True
+4176,EXL Service,Senior Business Analyst,2,8.8,6.2,12.0,308,True
+8782,Wipro,Senior Business Analyst,4,12.8,6.1,22.0,280,True
+4282,Fidelity National Information Services,Senior Business Analyst,4,15.0,6.5,22.0,267,True
+8284,Cgi Group,Senior Business Analyst,5,10.7,7.2,15.0,225,True
+4066,L&T Infotech,Senior Business Analyst,3,11.7,7.0,17.3,223,True
+5476,HSBC,Senior Business Analyst,6,17.1,9.2,24.0,219,True
+3490,Capgemini,Senior Business Analyst,2,11.6,4.5,20.0,213,True
+6916,Newgen Software Technologies,Senior Business Analyst,3,11.1,9.0,14.4,170,True
+5322,IBM,Senior Business Analyst,3,12.4,5.1,22.0,158,True
+2591,Quantiphi Analytics Solutions,Senior Business Analyst,2,15.0,11.3,19.0,152,True
+4115,Tredence,Senior Business Analyst,2,11.2,9.0,14.0,150,True
+6000,Conduent,Senior Business Analyst,4,8.8,6.0,13.0,146,True
+3354,Temenos,Senior Business Analyst,5,13.2,9.5,17.1,145,True
+6839,Amadeus,Senior Business Analyst,4,14.8,12.0,18.5,128,True
+7669,Infosys,Senior Business Analyst,4,12.9,7.0,21.0,128,True
+8148,American Express,Senior Business Analyst,2,9.2,5.0,18.5,118,True
+2355,Deloitte,Senior Business Analyst,3,11.5,6.8,20.0,118,True
+5271,DXC Technology,Senior Business Analyst,5,12.0,7.0,19.0,117,True
+2420,Ernst & Young,Senior Business Analyst,3,14.1,6.3,22.7,110,True
+1879,Exl India,Senior Business Analyst,1,9.0,6.8,12.0,109,True
+2579,bnp paribas india solutions,Senior Business Analyst,6,14.6,8.6,21.0,94,True
+5015,VMware Software,Senior Business Analyst,6,18.5,11.7,24.8,92,True
+4510,Zensar Technologies,Senior Business Analyst,5,12.1,7.5,19.5,91,True
+1740,Ramco Systems,Senior Business Analyst,3,12.7,8.7,18.0,90,True
+3672,Dell,Senior Business Analyst,2,11.6,8.5,15.5,84,True
+2044,JP Morgan Chase,Senior Business Analyst,4,12.3,5.1,23.0,84,True
+4426,UnitedHealth,Senior Business Analyst,3,12.5,7.0,19.2,83,True
+6237,BNP Paribas,Senior Business Analyst,6,15.8,9.5,24.0,82,True
+8896,NTT DATA,Senior Business Analyst,4,10.9,6.1,19.0,80,True
+5686,Flipkart,Senior Business Analyst,3,20.4,14.0,27.5,79,True
+8628,Oracle,Senior Business Analyst,4,10.2,5.1,22.0,79,True
+8681,Merkle Sokrati,Senior Business Analyst,1,7.0,6.2,8.4,76,True
+7222,Societe Generale,Senior Business Analyst,5,15.2,7.1,22.5,74,True
+3712,NatWest Group,Senior Business Analyst,3,11.1,4.3,23.2,71,True
+5392,Allianz Technology,Senior Business Analyst,5,11.9,8.0,16.0,69,True
+6869,Hexaware Technologies,Senior Business Analyst,4,9.7,4.0,19.0,68,True
+5065,Amazon,Senior Business Analyst,3,20.1,4.5,30.0,67,True
+4438,EPAM Systems,Senior Business Analyst,7,21.9,17.0,25.5,64,True
+7547,Deutsche Bank,Senior Business Analyst,4,7.2,5.0,12.5,64,True
+5261,BNY Mellon,Senior Business Analyst,4,8.7,5.1,15.0,63,True
+7279,Legato Health Technologies,Senior Business Analyst,5,14.6,9.4,20.0,63,True
+8217,Iris Software,Senior Business Analyst,7,20.5,15.5,27.0,63,True
+8704,NetCracker,Senior Business Analyst,10,28.0,21.0,36.0,62,True
+7026,Globant,Senior Business Analyst,5,16.7,12.7,20.8,62,True
+6295,Genpact,Senior Business Analyst,3,8.0,4.1,16.4,62,True
+6209,Broadridge Financial Solutions,Senior Business Analyst,3,10.8,7.2,16.0,62,True
+6702,Credit Suisse,Senior Business Analyst,4,16.3,10.0,23.4,62,True
+1245,Tiger Analytics,Senior Business Analyst,2,13.8,11.5,15.0,61,True
+4222,Novartis Healthcare,Senior Business Analyst,3,13.0,9.5,18.0,58,True
+6565,Standard Chartered Bank,Senior Business Analyst,3,15.0,4.1,30.0,56,True
+5672,Wells Fargo India,Senior Business Analyst,5,15.5,8.5,23.6,55,True
+8626,Shell,Senior Business Analyst,7,25.6,15.5,35.2,53,True
+4665,Synechron,Senior Business Analyst,6,17.6,9.8,25.0,53,True
+5949,GEP Worldwide,Senior Business Analyst,2,10.3,6.8,12.3,52,True
+2936,3i Infotech,Senior Business Analyst,4,10.8,6.9,16.1,51,True
+3550,ValueMomentum,Senior Business Analyst,4,12.0,8.5,18.5,50,True
+1297,Mphasis,Senior Business Analyst,3,12.6,4.2,20.0,50,True
+5028,Capita,Senior Business Analyst,5,12.6,7.0,17.0,49,True
+6966,UST,Senior Business Analyst,5,13.4,9.0,20.0,49,True
+5855,Citicorp,Senior Business Analyst,3,15.7,6.0,25.0,49,True
+8478,Optum,Senior Business Analyst,4,13.3,5.5,19.8,47,True
+2785,Barclays,Senior Business Analyst,3,14.2,7.1,22.7,47,True
+4269,IQVIA,Senior Business Analyst,5,17.7,11.3,26.5,47,True
+1209,Epsilon,Senior Business Analyst,5,14.5,10.0,18.2,46,True
+4031,Etech Global Services,Senior Business Analyst,3,9.2,7.0,12.1,46,True
+2872,Sapiens,Senior Business Analyst,5,18.0,13.8,22.7,44,True
+8625,Concentrix Corporation,Senior Business Analyst,2,3.7,2.7,6.2,43,True
+4805,IBS Software Services,Senior Business Analyst,2,6.2,4.3,8.3,42,True
+5531,Hewlett-Packard Enterprise,Senior Business Analyst,3,7.9,3.6,16.0,42,True
+7625,WNS,Senior Business Analyst,2,6.5,3.0,13.6,42,True
+3384,eClerx,Senior Business Analyst,2,4.2,3.2,6.0,42,True
+3526,Citibank,Senior Business Analyst,3,19.5,8.2,25.5,42,True
+1317,Odessa,Senior Business Analyst,3,16.2,12.3,24.0,41,True
+7098,Fidelity International,Senior Business Analyst,5,15.9,13.5,19.0,40,True
+5556,Ameriprise Financial,Senior Business Analyst,4,9.6,6.2,16.3,40,True
+2399,Tsys Card Tech Services,Senior Business Analyst,6,15.7,12.5,18.9,40,True
+5975,Merilytics,Senior Business Analyst,0,7.8,6.5,9.5,40,True
+7350,Barclays Global Service Centre,Senior Business Analyst,3,12.5,5.0,22.9,40,True
+5270,Unisys,Senior Business Analyst,5,12.7,8.0,17.3,39,True
+2018,Photon Interactive,Senior Business Analyst,4,9.9,6.3,15.0,38,True
+7004,Tata Technologies,Senior Business Analyst,4,8.7,6.2,14.0,37,True
+8937,Virtusa Consulting Services,Senior Business Analyst,5,15.8,11.0,22.5,36,True
+4665,Xceedance,Senior Business Analyst,5,13.4,9.5,18.6,36,True
+8147,Uber,Senior Business Analyst,2,13.4,10.0,19.0,36,True
+6091,CitiusTech,Senior Business Analyst,4,14.4,9.5,18.0,35,True
+2314,MetLife,Senior Business Analyst,0,6.0,4.0,9.3,35,True
+5942,eMids Technologies,Senior Business Analyst,5,15.3,10.0,21.0,35,True
+4161,Standard Chartered Global Business Services,Senior Business Analyst,7,18.4,11.0,29.9,35,True
+3593,D Cube Analytics,Senior Business Analyst,2,11.7,9.2,14.0,35,True
+1187,Novo Nordisk,Senior Business Analyst,6,15.7,10.3,21.0,34,True
+1860,Affine Analytics,Senior Business Analyst,1,10.0,8.0,13.6,34,True
+7981,Altisource,Senior Business Analyst,4,8.5,5.2,15.0,33,True
+4330,Mu Sigma,Senior Business Analyst,1,8.6,6.3,13.0,32,True
+8053,Meesho,Senior Business Analyst,2,19.3,16.0,23.0,32,True
+8227,Gartner,Senior Business Analyst,2,18.7,12.5,24.0,32,True
+4919,LearningMate Solutions,Senior Business Analyst,3,10.5,6.4,14.0,31,True
+8784,R1 RCM,Senior Business Analyst,2,4.3,3.5,5.9,31,True
+1596,Sopra Steria,Senior Business Analyst,3,14.6,10.0,18.5,31,True
+2028,Fiserv,Senior Business Analyst,8,18.0,11.0,29.8,31,True
+1514,Harman Connected Services,Senior Business Analyst,3,12.3,6.6,20.0,31,True
+4027,Principal Global Services,Senior Business Analyst,4,13.3,5.8,17.5,31,True
+6835,Danske IT,Senior Business Analyst,7,18.7,14.3,24.1,31,True
+5675,Amdocs,Senior Business Analyst,6,17.6,11.1,24.9,31,True
+8110,Allscripts,Senior Business Analyst,5,13.9,11.0,17.7,30,True
+7386,Collabera Technologies,Senior Business Analyst,4,11.7,8.0,20.0,30,True
+7112,Swiggy,Senior Business Analyst,2,18.4,13.8,22.0,30,True
+8914,Birlasoft,Senior Business Analyst,3,9.8,6.0,19.0,29,True
+1333,ValueLabs,Senior Business Analyst,6,14.9,10.0,20.0,29,True
+6451,Orange Business Services,Senior Business Analyst,5,12.8,7.0,20.0,28,True
+1417,Maersk,Senior Business Analyst,6,10.9,5.0,23.0,28,True
+7979,Gartner India Research and Advisory Services,Senior Business Analyst,3,20.4,13.8,26.0,28,True
+1282,First Source,Senior Business Analyst,2,5.1,3.4,6.6,27,True
+3226,Barclays Shared Services,Senior Business Analyst,2,7.1,4.0,14.0,27,True
+3033,ICICI Bank,Senior Business Analyst,5,12.3,5.3,21.0,27,True
+4774,CES,Senior Business Analyst,5,7.4,5.2,9.5,27,True
+2098,Mercer,Senior Business Analyst,2,5.5,2.8,17.0,27,True
+8736,NatWest Markets,Senior Business Analyst,5,13.4,5.0,22.0,27,True
+8335,Xoriant,Senior Business Analyst,6,17.5,11.5,21.7,27,True
+5735,PwC,Senior Business Analyst,4,12.6,6.0,22.0,27,True
+6311,Statestreet HCL Services,Senior Business Analyst,1,3.0,2.4,3.6,27,True
+3786,First American Corporation,Senior Business Analyst,5,13.4,5.9,18.5,26,True
+3274,MindGate Solutions,Senior Business Analyst,5,12.5,8.0,18.0,26,True
+2422,Mindtree,Senior Business Analyst,4,16.9,12.0,22.0,25,True
+1590,TEKsystems,Senior Business Analyst,5,15.6,11.7,20.5,25,True
+5347,Decision Point,Senior Business Analyst,1,11.8,10.0,16.0,24,True
+5252,Thomson Reuters,Senior Business Analyst,4,11.7,5.0,19.5,24,True
+2685,Eurofins It Solutions,Senior Business Analyst,7,22.0,16.0,24.8,24,True
+4404,Capco Technologies,Senior Business Analyst,7,18.2,15.0,20.2,24,True
+8792,Hsbc Technology,Senior Business Analyst,6,18.7,13.0,25.0,24,True
+2962,S&P Global,Senior Business Analyst,5,13.7,9.0,20.0,24,True
+5537,General Mills,Senior Business Analyst,4,13.4,11.0,16.0,23,True
+5757,Intellect Design Arena,Senior Business Analyst,6,17.2,11.7,22.5,23,True
+4924,Dell EMC,Senior Business Analyst,3,10.5,8.5,13.0,23,True
+5818,Ebix Software India,Senior Business Analyst,4,9.8,6.5,13.5,23,True
+3649,Northern Trust Operating Services,Senior Business Analyst,3,6.2,4.9,9.5,23,True
+4989,IVY Comptech,Senior Business Analyst,7,20.7,16.2,25.0,23,True
+1799,Atos Syntel,Senior Business Analyst,6,13.8,7.0,22.8,23,True
+6750,Provana,Senior Business Analyst,1,7.9,5.5,11.5,23,True
+5492,Coforge,Senior Business Analyst,6,17.1,11.2,23.0,23,True
+5608,HDFC Bank,Senior Business Analyst,4,13.2,7.1,20.0,22,True
+5791,Commonwealth Bank of Australia,Senior Business Analyst,5,28.3,21.0,38.0,22,True
+5759,Volante Technologies,Senior Business Analyst,9,22.3,15.0,28.0,22,True
+4916,Hinduja Global Solutions,Senior Business Analyst,2,3.3,2.4,4.3,22,True
+2169,Tavant Technologies,Senior Business Analyst,3,10.0,8.0,14.0,22,True
+3261,Jocata Financial Advisory and Technology,Senior Business Analyst,6,14.3,9.0,23.0,22,True
+4122,Persistent Systems,Senior Business Analyst,7,22.5,15.0,30.5,22,True
+4421,Axis Bank,Senior Business Analyst,3,14.4,9.3,22.0,22,True
+2329,Sabre,Senior Business Analyst,6,20.1,13.8,28.0,22,True
+2905,MResult Services,Senior Business Analyst,4,8.2,5.5,12.0,21,True
+3244,Franklin Templeton Investments,Senior Business Analyst,5,12.1,6.8,17.1,21,True
+4133,Allsec Technologies,Senior Business Analyst,3,6.1,5.2,7.5,21,True
+4626,MSC Technology India,Senior Business Analyst,3,6.7,4.9,8.7,21,True
+8416,Sopra Banking Software,Senior Business Analyst,6,16.3,10.2,25.0,21,True
+5397,Colgate Global Business Services,Senior Business Analyst,7,15.2,13.2,17.5,21,True
+3523,Azentio,Senior Business Analyst,3,13.4,9.5,17.0,21,True
+7533,Mastek,Senior Business Analyst,7,13.6,9.7,17.5,20,True
+3325,Springer Nature,Senior Business Analyst,6,17.0,13.0,21.9,20,True
+7848,Honeywell Technology Solutions,Senior Business Analyst,5,15.9,10.0,23.8,20,True
+5543,Thryve Digital,Senior Business Analyst,5,10.0,7.1,14.0,20,True
+6254,UBS,Senior Business Analyst,7,22.9,10.8,33.0,20,True
+1616,Zomato,Senior Business Analyst,2,15.7,10.0,22.0,20,True
+5932,Cybage,Senior Business Analyst,8,18.0,15.5,23.0,20,True
+4379,Larsen & Toubro Limited,Senior Business Analyst,4,11.3,8.5,14.5,20,True
+5971,Royal Bank of Scotland International,Senior Business Analyst,3,5.7,4.1,10.5,19,True
+5097,Indegene,Senior Business Analyst,2,14.0,10.2,21.0,19,True
+5650,Accion Labs,Senior Business Analyst,7,17.5,11.0,25.2,19,True
+2257,Infor Global Solution,Senior Business Analyst,6,16.8,13.5,20.0,19,True
+8565,Cygnet Infotech,Senior Business Analyst,4,8.6,5.5,11.0,19,True
+8572,Oracle Financial Services Software,Senior Business Analyst,6,14.2,8.4,24.1,19,True
+6917,ThoughtWorks,Senior Business Analyst,5,20.2,15.8,25.0,19,True
+1278,Citigroup,Senior Business Analyst,3,15.6,9.2,21.1,19,True
+2849,Unacademy,Senior Business Analyst,0,13.0,4.0,25.0,18,True
+5592,State Street Corporation,Senior Business Analyst,2,10.7,3.5,22.0,18,True
+7436,HCL Infosystems,Senior Business Analyst,3,9.0,3.4,15.0,18,True
+6983,Ocwen Financial Solutions,Senior Business Analyst,4,9.9,5.9,13.3,18,True
+7170,Vedantu,Senior Business Analyst,2,16.9,6.6,21.0,18,True
+5884,Infinite Computer Solutions,Senior Business Analyst,4,9.3,6.0,13.0,17,True
+3977,Clover Infotech,Senior Business Analyst,3,9.1,6.5,12.5,17,True
+1557,BYJU'S,Senior Business Analyst,0,9.4,6.0,17.0,17,True
+7265,Majesco,Senior Business Analyst,5,13.6,9.0,18.0,17,True
+5991,R Systems International,Senior Business Analyst,6,14.8,9.9,20.0,17,True
+8501,Accenture,Senior Data Analyst,3,9.9,6.5,14.6,213,True
+6459,Capgemini,Senior Data Analyst,1,4.7,3.8,7.1,129,True
+3846,TCS,Senior Data Analyst,3,6.0,2.9,11.2,118,True
+1105,Unilog Content Solutions ( P),Senior Data Analyst,3,3.2,2.8,3.8,110,True
+7697,Cognizant,Senior Data Analyst,2,6.2,3.0,15.2,109,True
+4343,eClerx,Senior Data Analyst,1,4.3,3.0,7.2,90,True
+3967,Concentrix Corporation,Senior Data Analyst,2,4.6,3.1,7.5,85,True
+1680,Ernst & Young,Senior Data Analyst,3,9.5,6.0,15.3,71,True
+8717,Flipkart,Senior Data Analyst,3,11.8,6.0,17.6,66,True
+7328,Wipro,Senior Data Analyst,2,7.1,3.0,11.7,54,True
+6097,Tech Mahindra,Senior Data Analyst,2,7.1,4.0,13.0,53,True
+5640,HCL Technologies,Senior Data Analyst,2,6.2,3.0,10.0,53,True
+1220,Ugam Solution,Senior Data Analyst,2,6.5,3.5,10.5,52,True
+6880,Cerner,Senior Data Analyst,2,6.1,3.0,15.4,52,True
+4824,Optum,Senior Data Analyst,5,16.2,11.0,21.5,51,True
+6901,InnovAccer,Senior Data Analyst,2,15.2,9.3,22.0,50,True
+2968,GlobalLogic,Senior Data Analyst,2,3.5,2.5,5.0,46,True
+4671,Infosys,Senior Data Analyst,3,9.9,5.3,15.0,45,True
+5317,Tiger Analytics,Senior Data Analyst,1,11.3,9.0,15.0,45,True
+1637,UnitedHealth,Senior Data Analyst,5,17.2,8.0,26.0,44,True
+2806,IBM,Senior Data Analyst,3,11.1,6.3,19.0,43,True
+4559,Cyient,Senior Data Analyst,4,3.6,2.5,5.3,43,True
+4699,Urjanet Energy Solutions,Senior Data Analyst,2,3.8,3.1,5.0,42,True
+4171,Deloitte,Senior Data Analyst,3,10.2,6.2,14.9,39,True
+5714,Epsilon,Senior Data Analyst,4,17.4,10.0,24.5,38,True
+7137,Morningstar,Senior Data Analyst,2,5.0,3.8,6.3,37,True
+5732,BCG,Senior Data Analyst,5,19.7,16.0,24.0,36,True
+8414,Dell,Senior Data Analyst,3,11.7,9.0,18.0,33,True
+7115,Walmart,Senior Data Analyst,4,29.0,16.5,40.0,32,True
+2005,Course5,Senior Data Analyst,3,7.4,5.1,12.9,29,True
+1024,IHS Markit,Senior Data Analyst,4,11.1,6.1,18.5,28,True
+5862,Bharti Airtel,Senior Data Analyst,3,16.6,5.9,22.0,28,True
+3606,L&T Infotech,Senior Data Analyst,3,12.2,7.3,19.0,28,True
+7888,Wells Fargo India,Senior Data Analyst,3,13.7,7.8,23.0,28,True
+5172,Axa XL,Senior Data Analyst,2,9.9,6.1,15.0,28,True
+1063,Zen3 Info Solutions,Senior Data Analyst,3,4.3,3.4,5.5,27,True
+5443,Honeywell Technology Solutions,Senior Data Analyst,4,14.6,6.0,22.0,26,True
+4401,LiquidHub,Senior Data Analyst,2,3.5,2.5,4.8,25,True
+2190,Proziod Analytics,Senior Data Analyst,3,4.9,3.6,6.3,25,True
+4858,LatentView Analytics,Senior Data Analyst,2,10.8,9.2,12.5,25,True
+6950,The Smart Cube,Senior Data Analyst,1,9.6,7.0,12.0,23,True
+6552,Indium Software,Senior Data Analyst,3,14.4,10.0,20.0,23,True
+3317,Citicorp,Senior Data Analyst,2,16.1,11.5,20.9,23,True
+8970,Harman Connected Services,Senior Data Analyst,4,10.0,6.0,19.0,22,True
+8306,Toluna,Senior Data Analyst,3,7.1,5.4,9.0,22,True
+5415,FE fundinfo,Senior Data Analyst,2,4.8,4.0,5.4,21,True
+3379,McKinsey & Company,Senior Data Analyst,3,20.7,12.9,27.2,20,True
+4641,Amazon,Senior Data Analyst,2,8.6,3.9,25.5,19,True
+1081,Ford Motor,Senior Data Analyst,2,15.0,11.6,18.9,19,True
+2153,Subex,Senior Data Analyst,1,8.0,5.5,11.0,19,True
+3447,Mindtree,Senior Data Analyst,2,8.0,6.0,12.6,19,True
+2787,S&P Global,Senior Data Analyst,3,8.0,5.7,11.0,19,True
+4479,EXL Service,Senior Data Analyst,2,7.6,4.0,12.0,18,True
+4358,DXC Technology,Senior Data Analyst,5,14.0,6.9,20.0,18,True
+8492,R1 RCM,Senior Data Analyst,3,5.4,3.9,6.9,18,True
+4027,KPMG,Senior Data Analyst,1,8.0,4.2,11.8,18,True
+2961,Zensar Technologies,Senior Data Analyst,4,6.3,4.0,10.6,17,True
+6135,Schneider Electric,Senior Data Analyst,2,9.6,6.0,17.0,17,True
+1093,WNS,Senior Data Analyst,2,6.1,4.0,8.0,17,True
+1411,Genpact,Senior Data Analyst,3,6.2,4.3,11.0,17,True
+2218,NTT DATA,Senior Data Analyst,2,7.2,4.0,11.5,17,True
+2895,Ganit Business Solutions,Senior Data Analyst,0,7.4,5.2,10.5,17,True
+6411,HSBC,Senior Data Analyst,2,11.9,7.1,16.0,17,True
+2308,Synchrony,Senior Data Analyst,2,7.5,5.0,12.5,16,True
+1297,Kantar,Senior Data Analyst,2,6.0,4.5,8.4,16,True
+3421,Unire Business Solutions,Senior Data Analyst,0,1.9,1.4,2.5,16,True
+4208,JP Morgan Chase,Senior Data Analyst,3,12.8,7.4,18.0,16,True
+3301,Dynata,Senior Data Analyst,4,8.8,7.5,10.3,16,True
+8877,PwC,Senior Data Analyst,3,11.1,5.8,20.0,16,True
+8777,Indegene,Senior Data Analyst,2,15.6,11.4,20.5,15,True
+3852,Lowe's,Senior Data Analyst,1,17.4,10.4,20.0,15,True
+2247,Ameriprise Financial,Senior Data Analyst,3,14.2,10.0,18.1,15,True
+8570,Barclays,Senior Data Analyst,3,13.8,9.0,19.4,15,True
+2476,Continental Automotive Components,Senior Data Analyst,2,2.9,2.5,3.5,15,True
+7033,Johnson & Johnson,Senior Data Analyst,4,12.0,5.8,20.0,15,True
+4336,JLL,Senior Data Analyst,3,6.3,4.5,13.0,15,True
+3427,Paytm,Senior Data Analyst,3,7.6,5.0,11.0,15,True
+4910,Oracle,Senior Data Analyst,3,7.7,4.2,15.0,15,True
+7892,HERE Technologies,Senior Data Analyst,4,5.1,4.5,6.5,14,True
+6583,CAMP Systems,Senior Data Analyst,4,5.1,3.8,6.2,14,True
+5259,Ericsson,Senior Data Analyst,2,8.9,5.0,13.0,14,True
+5472,Novartis Healthcare,Senior Data Analyst,2,12.8,6.0,19.0,14,True
+2329,E2OPEN,Senior Data Analyst,5,6.1,4.9,8.3,14,True
+8387,Bank of America,Senior Data Analyst,5,19.2,11.7,26.0,14,True
+6131,Nielsen,Senior Data Analyst,2,5.9,3.1,9.5,14,True
+2089,VASTA BIO-INFORMATICS,Senior Data Analyst,1,3.6,3.3,4.3,14,True
+4580,VeeTechnologies,Senior Data Analyst,2,3.0,2.0,4.0,14,True
+7439,Nailbiter Research,Senior Data Analyst,0,4.7,4.2,5.2,14,True
+5055,Hewlett-Packard Enterprise,Senior Data Analyst,3,8.8,5.0,17.7,13,True
+6547,S&P Global Market Intelligence,Senior Data Analyst,5,6.9,4.9,9.5,13,True
+6894,MakeMyTrip,Senior Data Analyst,4,7.5,6.0,9.0,12,True
+2874,Advantmed,Senior Data Analyst,3,7.1,4.0,12.0,12,True
+7732,Sutherland Global Services,Senior Data Analyst,2,6.6,5.0,8.5,12,True
+3909,Citibank,Senior Data Analyst,2,17.4,16.0,19.5,12,True
+8266,Mercer,Senior Data Analyst,1,4.6,3.0,6.5,12,True
+2127,American Express,Senior Data Analyst,2,14.7,6.1,25.0,12,True
+3740,Shadowfax Technologies,Senior Data Analyst,0,7.7,6.3,10.0,11,True
+5129,Resilinc,Senior Data Analyst,4,5.8,5.0,7.0,11,True
+2873,Bluemind Solutions,Senior Data Analyst,4,3.1,2.8,3.5,11,True
+8466,Denave,Senior Data Analyst,2,6.7,3.5,9.8,11,True
+8702,Cross-tab Marketing Services,Senior Data Analyst,0,5.0,3.5,7.0,11,True
+3783,Wissend,Senior Data Analyst,0,1.9,1.4,2.2,11,True
+1165,Infosys BPM,Senior Data Analyst,2,8.9,3.8,17.0,11,True
+5574,Adobe,Senior Data Analyst,5,14.5,9.8,20.0,10,True
+3044,BNY Mellon,Senior Data Analyst,3,10.4,4.9,13.5,10,True
+3959,Shell,Senior Data Analyst,4,12.4,7.9,20.0,10,True
+8834,Target,Senior Data Analyst,2,13.7,9.9,18.0,10,True
+4600,Dell EMC,Senior Data Analyst,3,9.4,8.5,11.1,10,True
+5638,comScore,Senior Data Analyst,5,19.7,13.5,24.0,10,True
+1405,Fedby Information Services,Senior Data Analyst,3,4.6,4.0,5.5,10,True
+3851,Experis IT,Senior Data Analyst,5,8.2,6.6,9.8,10,True
+8688,Phoenix American Sales Focus Solutions India,Senior Data Analyst,3,5.7,5.0,7.0,10,True
+7670,Collabera Technologies,Senior Data Analyst,2,8.7,7.5,10.5,10,True
+4624,SG Analytics,Senior Data Analyst,3,7.0,6.0,8.3,10,True
+4417,Mobikwik,Senior Data Analyst,3,13.9,11.0,17.0,10,True
+4174,Ecolab Digital Center,Senior Data Analyst,6,17.6,11.2,22.3,10,True
+4429,Oyo Rooms,Senior Data Analyst,4,11.4,7.0,16.0,9,True
+5522,Randstad,Senior Data Analyst,3,6.9,2.5,12.0,9,True
+5253,Clarivate Analytics,Senior Data Analyst,1,17.7,10.0,26.5,9,True
+8400,Rapido,Senior Data Analyst,2,14.9,6.5,20.4,9,True
+4517,Standard Chartered Bank,Senior Data Analyst,2,12.7,5.0,30.0,9,True
+2578,Equifax,Senior Data Analyst,3,6.2,3.5,8.5,9,True
+4573,Tesco,Senior Data Analyst,1,10.3,5.8,15.5,9,True
+7253,QL2 Software,Senior Data Analyst,4,3.4,2.7,5.5,9,True
+2554,Vodafone Idea,Senior Data Analyst,3,10.2,5.2,15.8,9,True
+2846,IQVIA,Senior Data Analyst,3,12.4,8.0,15.3,9,True
+5485,InSync Analytics,Senior Data Analyst,4,3.6,3.1,4.0,9,True
+4068,Landis+Gyr,Senior Data Analyst,5,15.0,12.6,17.5,9,True
+2815,DecisionTree Analytics & Services,Senior Data Analyst,3,12.8,9.0,17.0,9,True
+6072,Yodlee,Senior Data Analyst,4,7.4,5.0,9.0,8,True
+7667,Yash Technologies,Senior Data Analyst,7,5.8,4.6,7.5,8,True
+8439,Teleperformance,Senior Data Analyst,2,3.0,2.0,4.4,8,True
+1863,Wunderman,Senior Data Analyst,2,5.7,4.5,7.4,8,True
+5802,Xiaomi,Senior Data Analyst,5,9.5,8.1,10.5,8,True
+7827,Sentieo,Senior Data Analyst,2,5.9,5.0,7.0,8,True
+1596,Fidelity National Information Services,Senior Data Analyst,4,9.7,6.5,14.0,8,True
+4609,Thomson Reuters,Senior Data Analyst,3,10.5,8.0,15.0,8,True
+1159,Maersk,Senior Data Analyst,3,7.1,5.0,9.0,8,True
+1241,Home Credit Finance,Senior Data Analyst,3,7.6,4.8,10.0,8,True
+8814,Standard Chartered Global Business Services,Senior Data Analyst,4,18.5,10.5,27.4,8,True
+6111,Mr Cooper,Senior Data Analyst,2,13.0,11.0,15.0,8,True
+8388,Hudson's bay Company,Senior Data Analyst,3,15.7,13.2,18.9,8,True
+5385,S&P Capital IQ,Senior Data Analyst,3,6.4,5.0,9.2,8,True
+6368,Merkle Sokrati,Senior Data Analyst,1,9.1,7.8,12.3,8,True
+7373,Games24x7,Senior Data Analyst,5,17.9,11.5,23.1,8,True
+4583,Iris Software,Senior Data Analyst,5,14.4,10.0,20.0,8,True
+7974,Axis Bank,Senior Data Analyst,0,7.0,5.0,8.3,8,True
+7078,Mphasis,Senior Data Analyst,4,10.3,9.0,11.5,8,True
+3586,Whitehat jr,Senior Data Analyst,2,12.6,8.0,17.0,8,True
+1069,Blinkit,Senior Data Analyst,1,16.7,13.5,23.0,8,True
+3651,BUDDI.AI,Senior Data Analyst,3,4.2,4.0,5.0,8,True
+5685,Cartesian Consulting,Senior Data Analyst,1,7.5,5.6,11.0,7,True
+5674,Fuel Intelligence,Senior Data Analyst,2,4.5,4.0,5.0,7,True
+8174,General Mills,Senior Data Analyst,4,12.2,9.0,15.5,7,True
+1548,Cisco Systems,Senior Data Analyst,7,15.3,13.2,20.3,7,True
+2289,TIAA Global Business Services,Senior Data Analyst,6,15.5,12.0,21.5,7,True
+6765,Nailbiter,Senior Data Analyst,1,4.9,4.5,5.2,7,True
+3141,Aon,Senior Data Analyst,2,7.0,3.8,12.2,7,True
+5717,Aakash Institute,Senior Data Analyst,1,5.3,3.8,6.5,7,True
+3920,D2L Pharma Research Solutions,Senior Data Analyst,4,4.3,3.4,5.2,7,True
+1699,HARMAN,Senior Data Analyst,5,9.4,6.5,12.2,7,True
+7242,Vaco Binary Semantics,Senior Data Analyst,1,5.0,3.5,6.8,7,True
+1250,B3Intelligence,Senior Data Analyst,3,6.8,4.0,8.5,7,True
+8278,Sapient Corporation,Senior Data Analyst,3,12.1,5.1,20.8,7,True
+3960,Legato Health Technologies,Senior Data Analyst,6,14.3,11.7,21.0,7,True
+3800,Fidelity National Financial,Senior Data Analyst,2,4.9,3.5,6.2,7,True
+4574,Zomato,Senior Data Analyst,0,6.2,5.5,7.3,7,True
+6952,Symphony Retail AI,Senior Data Analyst,3,10.5,10.0,11.0,7,True
+2082,Myntra,Senior Data Analyst,5,11.9,7.5,23.0,7,True
+2160,KPI Partners,Senior Data Analyst,6,13.9,11.0,16.0,7,True
+6774,Reliance Retail,Senior Data Analyst,2,6.0,4.5,6.8,7,True
+8484,Publicis,Senior Data Analyst,3,14.9,7.5,20.0,7,True
+5173,TEKsystems,Senior Data Analyst,4,12.2,10.0,13.5,7,True
+5395,Mobile Premier League,Senior Data Analyst,1,25.2,20.0,28.0,7,True
+4791,Citigroup,Senior Data Analyst,2,17.0,14.0,21.0,7,True
+1331,LearningMate Solutions,Senior Data Analyst,4,9.1,8.0,10.8,6,True
+7095,Encore Capital Group,Senior Data Analyst,3,8.5,7.5,9.1,6,True
+8186,MResult Services,Senior Data Analyst,5,8.4,7.0,9.0,6,True
+7897,XL Catlin,Senior Data Analyst,3,14.9,11.8,17.4,6,True
+8636,Williams Lea Tag,Senior Data Analyst,5,6.6,5.0,9.0,6,True
+3326,Ninjacart,Senior Data Analyst,2,6.7,6.0,9.5,6,True
+6243,Bajaj Finserv,Senior Data Analyst,3,11.4,9.4,15.0,6,True
+7539,Collegedunia,Senior Data Analyst,1,4.3,3.6,5.0,6,True
+8127,Arthur J. Gallagher & Co,Senior Data Analyst,3,5.5,5.0,6.6,6,True
+4568,Athenahealth Technology,Senior Data Analyst,6,6.1,5.6,6.6,6,True
+8924,ADP Solutions,Senior Data Analyst,3,10.0,4.5,17.5,6,True
+2900,UST,Senior Data Analyst,5,10.4,6.0,12.0,6,True
+1261,L&T Infotech,Senior Data Engineer,2,11.0,6.0,17.0,729,True
+6075,Quantiphi Analytics Solutions,Senior Data Engineer,2,15.0,9.5,22.5,137,True
+3355,IBM,Senior Data Engineer,3,16.9,10.0,25.0,112,True
+2019,Maersk,Senior Data Engineer,5,21.1,13.4,31.0,110,True
+5441,Optum,Senior Data Engineer,5,16.5,11.9,21.0,83,True
+7401,Accenture,Senior Data Engineer,3,14.3,9.5,22.9,83,True
+7834,TCS,Senior Data Engineer,5,13.3,7.9,20.9,65,True
+5687,Wells Fargo India,Senior Data Engineer,7,21.9,16.9,31.5,64,True
+3153,Altimetrik,Senior Data Engineer,4,15.2,9.5,21.1,56,True
+3909,Coforge,Senior Data Engineer,4,15.3,12.0,18.6,53,True
+2794,Cognizant,Senior Data Engineer,4,15.1,9.0,23.0,51,True
+5391,Sapient Corporation,Senior Data Engineer,4,19.4,15.0,26.0,51,True
+3669,Fractal Analytics,Senior Data Engineer,4,21.8,16.0,30.0,49,True
+1037,Enquero,Senior Data Engineer,2,15.8,11.5,20.0,46,True
+3471,Walmart,Senior Data Engineer,6,35.7,23.0,49.3,44,True
+5772,Shell,Senior Data Engineer,3,23.3,11.2,36.0,42,True
+4234,UnitedHealth,Senior Data Engineer,5,16.1,12.2,25.0,42,True
+8386,Wipro,Senior Data Engineer,4,13.1,8.0,20.0,40,True
+4606,Larsen & Toubro Limited,Senior Data Engineer,2,10.4,6.5,16.0,40,True
+6867,Mindtree,Senior Data Engineer,2,6.7,5.8,10.0,36,True
+2016,Capgemini,Senior Data Engineer,3,16.4,6.8,23.5,35,True
+1684,Teradata,Senior Data Engineer,5,13.5,10.0,18.6,34,True
+5605,Visa,Senior Data Engineer,3,27.3,20.0,32.6,31,True
+6184,Ernst & Young,Senior Data Engineer,3,18.5,12.0,28.5,30,True
+3549,Concentrix Corporation,Senior Data Engineer,2,5.4,4.2,6.6,28,True
+3017,HCL Technologies,Senior Data Engineer,4,18.0,5.0,30.0,28,True
+2181,Lowe's,Senior Data Engineer,5,18.9,16.0,25.0,26,True
+3474,Indium Software,Senior Data Engineer,3,15.5,9.0,22.0,26,True
+5978,Target,Senior Data Engineer,3,22.1,15.5,30.0,25,True
+8174,Tech Mahindra,Senior Data Engineer,4,14.3,7.3,27.0,23,True
+4095,Deloitte,Senior Data Engineer,4,16.3,10.5,22.0,23,True
+4217,Amazon,Senior Data Engineer,6,32.0,18.0,45.0,19,True
+3206,DXC Technology,Senior Data Engineer,5,14.7,9.6,24.2,19,True
+8759,Tiger Analytics,Senior Data Engineer,5,22.1,15.0,28.0,19,True
+3293,GE Healthcare,Senior Data Engineer,5,17.8,13.0,24.8,18,True
+1825,Morgan Stanley,Senior Data Engineer,6,28.8,20.0,36.5,18,True
+5572,EPAM Systems,Senior Data Engineer,4,23.1,17.0,27.0,18,True
+8874,NIIT Technologies,Senior Data Engineer,2,15.0,14.5,15.5,17,True
+2545,GE,Senior Data Engineer,4,19.3,14.0,25.2,16,True
+8403,JLL,Senior Data Engineer,4,23.5,16.5,33.0,16,True
+3114,Nagarro,Senior Data Engineer,3,24.1,17.0,32.0,16,True
+3013,NIKE,Senior Data Engineer,5,31.0,27.0,35.0,16,True
+6927,Micron Technology,Senior Data Engineer,5,19.8,12.5,29.0,16,True
+4999,Nokia,Senior Data Engineer,5,17.5,13.5,25.0,14,True
+6789,UST,Senior Data Engineer,4,14.5,9.3,21.0,14,True
+3935,Wavicle Data Solutions,Senior Data Engineer,0,11.8,9.0,15.6,14,True
+5076,KPI Partners,Senior Data Engineer,4,17.1,13.5,22.3,14,True
+8837,Happiest Minds Technologies,Senior Data Engineer,5,16.3,9.5,24.5,13,True
+2545,BCG,Senior Data Engineer,4,24.7,20.1,28.0,13,True
+3755,Infosys,Senior Data Engineer,2,8.7,4.5,15.5,13,True
+4023,JP Morgan Chase,Senior Data Engineer,5,22.3,11.9,28.0,13,True
+4444,Philips,Senior Data Engineer,2,17.5,15.0,22.0,12,True
+2606,Innova Solutions,Senior Data Engineer,7,27.1,16.0,40.0,12,True
+8804,Legato Health Technologies,Senior Data Engineer,4,16.9,11.0,22.0,12,True
+5376,DUNNHUMBY IT SERVICES INDIA,Senior Data Engineer,2,13.2,11.0,18.0,12,True
+7827,Ecolab Digital Center,Senior Data Engineer,5,17.1,12.3,19.8,12,True
+5349,Bosch Global Software Technologies,Senior Data Engineer,2,13.8,9.0,22.0,11,True
+7599,Maersk Line,Senior Data Engineer,4,21.5,16.2,29.5,11,True
+6436,Commonwealth Bank of Australia,Senior Data Engineer,7,31.7,20.8,43.1,11,True
+8010,Cisco Systems,Senior Data Engineer,10,25.9,22.0,32.0,11,True
+8941,Tredence,Senior Data Engineer,1,10.7,8.0,15.0,11,True
+6194,Oracle,Senior Data Engineer,5,29.2,15.0,51.0,11,True
+6057,Lenovo,Senior Data Engineer,4,13.5,12.0,17.0,10,True
+5326,Photon Interactive,Senior Data Engineer,4,8.1,6.4,10.0,10,True
+4934,Intersoft Data Labs,Senior Data Engineer,3,29.2,20.0,37.8,10,True
+5877,Lumiq.ai,Senior Data Engineer,3,14.0,10.0,17.5,10,True
+3237,Dell,Senior Data Engineer,2,13.2,9.2,18.0,10,True
+8163,SpringML,Senior Data Engineer,2,11.1,8.5,16.5,10,True
+7150,Verizon,Senior Data Engineer,4,17.6,10.0,30.2,9,True
+4732,Dunnhumby,Senior Data Engineer,2,13.6,10.0,18.0,9,True
+5197,Hewlett-Packard Enterprise,Senior Data Engineer,3,24.9,9.0,35.0,9,True
+8559,Bajaj Finserv,Senior Data Engineer,1,14.4,9.7,19.0,9,True
+6218,Ab Inbev,Senior Data Engineer,8,26.4,20.0,35.0,9,True
+2133,Collabera Technologies,Senior Data Engineer,4,15.1,11.0,25.0,9,True
+3370,GE Aviation,Senior Data Engineer,8,18.7,16.0,24.0,9,True
+4061,News Technology Services,Senior Data Engineer,5,17.4,12.3,21.0,9,True
+4700,ZS,Senior Data Engineer,2,18.6,15.0,23.0,9,True
+3212,NTT DATA,Senior Data Engineer,2,19.9,11.0,28.6,9,True
+8450,Koch Business Solutions,Senior Data Engineer,7,29.5,23.0,37.0,9,True
+6502,PwC,Senior Data Engineer,4,17.0,11.4,24.0,9,True
+2330,McKinsey & Company,Senior Data Engineer,5,26.6,19.0,33.0,8,True
+2302,Indegene,Senior Data Engineer,3,15.7,10.0,18.8,8,True
+3901,Johnson & Johnson,Senior Data Engineer,4,16.4,12.0,21.0,8,True
+1393,Optum Global Solutions,Senior Data Engineer,7,18.5,14.5,23.5,8,True
+5905,DBS Bank,Senior Data Engineer,5,20.4,14.0,30.0,8,True
+3309,Bank of America,Senior Data Engineer,4,16.1,13.5,19.3,8,True
+3917,American Express,Senior Data Engineer,7,28.6,22.0,40.0,8,True
+5663,Nisum Technologies,Senior Data Engineer,3,20.1,18.0,24.0,8,True
+7159,Mphasis,Senior Data Engineer,5,13.8,8.7,20.0,8,True
+5587,Samsung,Senior Data Engineer,4,15.2,10.0,21.0,8,True
+7396,MakeMyTrip,Senior Data Engineer,3,26.4,17.0,37.0,7,True
+7499,Saama Technologies,Senior Data Engineer,4,16.5,13.7,21.2,7,True
+6005,TO THE NEW,Senior Data Engineer,4,18.9,18.0,20.0,7,True
+5448,PayPal,Senior Data Engineer,6,23.7,19.0,28.0,7,True
+8883,Harman Connected Services,Senior Data Engineer,5,19.8,14.0,32.0,7,True
+7936,ITC Infotech India,Senior Data Engineer,4,16.8,10.6,21.5,7,True
+7355,IQVIA,Senior Data Engineer,4,17.3,13.0,21.5,7,True
+3402,Luxoft,Senior Data Engineer,5,19.5,15.0,23.0,7,True
+6249,Paytm,Senior Data Engineer,4,25.9,20.0,33.0,7,True
+8302,Citicorp,Senior Data Engineer,4,23.1,18.8,28.0,7,True
+8836,Axa XL,Senior Data Engineer,4,7.7,7.0,9.2,7,True
+3856,TEKsystems,Senior Data Engineer,5,16.4,10.5,26.0,7,True
+5649,HSBC,Senior Data Engineer,5,16.1,12.0,20.0,7,True
+2135,AstraZeneca,Senior Data Engineer,9,14.0,11.0,19.0,6,True
+2299,BlazeClan Technologies,Senior Data Engineer,4,10.0,7.3,11.7,6,True
+7892,Data Semantics,Senior Data Engineer,7,15.4,11.0,17.4,6,True
+8906,Birlasoft,Senior Data Engineer,4,12.0,8.8,13.5,6,True
+3042,Xpo Logistics,Senior Data Engineer,6,16.3,14.0,18.0,6,True
+7012,Renault Nissan Technology & Business Centre India,Senior Data Engineer,5,8.2,7.7,9.1,6,True
+3802,DataWeave,Senior Data Engineer,3,13.5,11.3,16.0,6,True
+5650,Eli Lilly and Company,Senior Data Engineer,7,25.4,17.4,32.0,6,True
+1056,DataMetica,Senior Data Engineer,4,13.3,7.5,23.0,6,True
+1048,InfoStretch,Senior Data Engineer,4,16.8,10.7,23.0,6,True
+3863,GE Transportation,Senior Data Engineer,8,22.2,21.0,23.0,6,True
+3918,Baker Hughes,Senior Data Engineer,8,21.4,16.0,27.1,6,True
+1765,Intuit,Senior Data Engineer,8,39.0,26.0,47.0,5,True
+2816,Expedia,Senior Data Engineer,6,34.8,30.0,41.3,5,True
+6860,Yash Technologies,Senior Data Engineer,5,14.5,10.0,16.0,5,True
+2110,IHS Markit,Senior Data Engineer,6,24.0,19.0,27.0,5,True
+1264,Swiss Re,Senior Data Engineer,6,20.2,17.0,25.0,5,True
+4668,Dun & Bradstreet,Senior Data Engineer,7,18.0,14.2,23.0,5,True
+1613,Siemens Healthineers,Senior Data Engineer,4,20.0,14.0,24.0,5,True
+1188,Apar Technologies,Senior Data Engineer,8,24.5,21.5,28.0,5,True
+7288,GE Digital,Senior Data Engineer,7,16.9,15.0,19.9,5,True
+2903,Riskonnect,Senior Data Engineer,4,8.5,7.0,9.8,5,True
+3356,T-Systems,Senior Data Engineer,7,21.2,17.5,23.5,5,True
+8414,NCR Corporation,Senior Data Engineer,4,16.0,11.3,22.6,5,True
+3343,BA Continuum,Senior Data Engineer,7,19.6,17.4,21.0,5,True
+2769,Softcrylic Technology Solutions,Senior Data Engineer,4,18.6,10.0,29.5,5,True
+2156,Rakuten,Senior Data Engineer,5,23.2,16.6,30.9,5,True
+1141,Honeywell Technology Solutions,Senior Data Engineer,2,22.5,20.1,24.0,5,True
+5628,GlobalLogic,Senior Data Engineer,3,17.3,10.4,23.1,5,True
+1241,Emirates Airlines,Senior Data Engineer,6,68.3,20.0,94.0,5,True
+2007,ValueLabs,Senior Data Engineer,5,19.5,15.0,21.7,5,True
+7656,GEP Worldwide,Senior Data Engineer,4,15.5,13.5,17.5,5,True
+6282,Ameriprise Financial,Senior Data Engineer,3,11.7,10.0,15.0,5,True
+5450,Gartner India Research and Advisory Services,Senior Data Engineer,3,20.0,16.5,24.5,5,True
+5772,Information Evolution,Senior Data Engineer,3,3.4,2.5,4.3,5,True
+1207,Alliance Data,Senior Data Engineer,4,16.9,14.5,19.0,5,True
+1241,Franklin Templeton International Services,Senior Data Engineer,5,18.7,14.2,23.5,5,True
+7539,Boeing,Senior Data Engineer,7,22.2,14.0,27.0,5,True
+6365,Kloud 9,Senior Data Engineer,7,29.9,24.0,39.0,5,True
+4492,Algonomy,Senior Data Engineer,8,15.2,13.5,16.3,5,True
+3633,Tavant Technologies,Senior Data Engineer,4,13.7,10.5,16.5,5,True
+2090,Cgi Group,Senior Data Engineer,5,12.0,6.5,15.4,5,True
+6487,Societe Generale,Senior Data Engineer,7,21.9,12.5,34.5,5,True
+8400,Mr Cooper,Senior Data Engineer,4,13.8,9.0,17.0,5,True
+6787,ValueMomentum,Senior Data Engineer,4,19.4,12.0,27.0,5,True
+4075,Clairvoyant India,Senior Data Engineer,5,16.1,12.0,20.0,5,True
+3862,Mercedes-Benz Research & Development India,Senior Data Engineer,3,26.2,11.5,60.0,5,True
+8290,Knoema IT Solutions,Senior Data Engineer,4,8.9,5.3,13.0,5,True
+7450,Evalueserve,Senior Data Engineer,4,12.5,10.4,17.4,5,True
+2029,Uber,Senior Data Engineer,7,66.3,34.5,93.0,5,True
+4983,GGK Technologies,Senior Data Engineer,5,11.2,9.0,14.5,5,True
+2232,Anju Software,Senior Data Engineer,4,16.9,6.8,20.0,5,True
+2936,phData,Senior Data Engineer,4,20.0,16.0,25.0,5,True
+3616,ACS Solution,Senior Data Engineer,3,15.2,13.8,16.4,5,True
+6775,MassMutual,Senior Data Engineer,6,19.3,18.3,21.0,5,True
+7634,ConcertAI,Senior Data Engineer,5,28.2,22.0,32.0,5,True
+1776,Onepoint IT Consulting,Senior Data Engineer,4,10.3,9.6,10.8,4,True
+1784,Sapient Global Markets,Senior Data Engineer,5,19.9,15.0,25.0,4,True
+3278,Marlabs,Senior Data Engineer,2,14.2,6.7,20.0,4,True
+4124,Red Hat,Senior Data Engineer,2,18.9,11.8,26.0,4,True
+1076,EXL Service,Senior Data Engineer,3,18.7,13.0,23.6,4,True
+3422,Advance Auto Parts,Senior Data Engineer,7,25.7,24.0,28.9,4,True
+1583,Telstra,Senior Data Engineer,7,27.6,18.0,32.0,4,True
+4777,GE Power,Senior Data Engineer,8,15.4,11.0,22.0,4,True
+5784,Epsilon,Senior Data Engineer,8,23.8,16.5,26.8,4,True
+7490,Cimpress,Senior Data Engineer,4,20.5,15.0,23.0,4,True
+3262,Senvion,Senior Data Engineer,4,12.7,9.0,16.0,4,True
+4343,USEReady,Senior Data Engineer,4,14.3,9.4,18.4,4,True
+4731,Milliman,Senior Data Engineer,5,19.5,14.1,25.0,4,True
+4942,Blackhawk Network,Senior Data Engineer,5,21.8,16.4,25.0,4,True
+8937,Wabtec,Senior Data Engineer,9,20.0,19.0,21.0,4,True
+8506,KrazyBee,Senior Data Engineer,3,10.3,8.5,15.7,4,True
+3916,Roche Diagnostics,Senior Data Engineer,5,33.1,23.5,43.0,4,True
+3081,Fidelity National Information Services,Senior Data Engineer,6,20.1,12.0,23.8,4,True
+6757,XL Health,Senior Data Engineer,4,9.9,8.5,12.0,4,True
+4714,ADP Solutions,Senior Data Engineer,4,14.3,11.6,19.0,4,True
+8979,Hexaware Technologies,Senior Data Engineer,8,18.4,13.0,22.8,4,True
+3261,Citibank,Senior Data Engineer,6,18.2,14.0,20.0,4,True
+2509,Akamai Technologies,Senior Data Engineer,5,24.1,21.8,25.1,4,True
+5427,Quest Global,Senior Data Engineer,8,20.3,17.0,24.0,4,True
+8730,TCS,Machine Learning Engineer,1,5.8,4.0,9.3,193,True
+7970,Quantiphi Analytics Solutions,Machine Learning Engineer,1,11.2,7.4,15.0,174,True
+3670,Accenture,Machine Learning Engineer,2,9.9,5.4,15.2,61,True
+5039,Wipro,Machine Learning Engineer,1,5.9,3.5,13.0,45,True
+4623,Tiger Analytics,Machine Learning Engineer,0,13.6,9.0,22.0,37,True
+6359,Capgemini,Machine Learning Engineer,2,6.3,4.5,12.1,29,True
+3690,Infosys,Machine Learning Engineer,2,6.7,4.3,14.7,28,True
+5388,Cognizant,Machine Learning Engineer,1,8.0,4.0,15.2,28,True
+8641,HCL Technologies,Machine Learning Engineer,0,8.3,4.2,14.0,21,True
+7359,Tech Mahindra,Machine Learning Engineer,1,7.3,3.9,16.2,20,True
+8279,IBM,Machine Learning Engineer,3,9.3,4.5,13.2,18,True
+5845,Deloitte,Machine Learning Engineer,2,13.7,8.3,21.0,14,True
+8614,Amazon,Machine Learning Engineer,1,12.5,4.2,28.5,13,True
+5078,Qualcomm,Machine Learning Engineer,0,19.4,12.0,29.8,12,True
+1639,OptiSol Business Solutions,Machine Learning Engineer,0,5.6,3.5,8.5,11,True
+5795,Mindtree,Machine Learning Engineer,1,5.3,3.5,7.0,10,True
+2328,Virtusa Consulting Services,Machine Learning Engineer,0,5.1,4.0,9.0,9,True
+5245,Ford Motor,Machine Learning Engineer,2,11.8,7.5,16.0,9,True
+4868,Samsung Research,Machine Learning Engineer,1,17.4,11.0,25.0,9,True
+7490,DXC Technology,Machine Learning Engineer,2,7.3,4.0,11.0,8,True
+5325,UST,Machine Learning Engineer,2,6.7,5.0,9.0,8,True
+6058,Reliance jio,Machine Learning Engineer,2,9.2,5.5,15.0,8,True
+6517,Straive,Machine Learning Engineer,3,9.3,4.5,13.5,8,True
+2325,e-Zest,Machine Learning Engineer,0,4.5,2.1,7.0,7,True
+6763,Trantor,Machine Learning Engineer,1,9.4,7.0,16.5,7,True
+5830,JP Morgan Chase,Machine Learning Engineer,3,16.9,13.0,22.0,7,True
+8422,Freelancer.com,Machine Learning Engineer,0,5.1,2.0,8.4,7,True
+5862,Jio Platforms,Machine Learning Engineer,0,10.9,6.7,16.8,7,True
+3105,Monsoon CreditTech,Machine Learning Engineer,0,9.6,7.0,12.0,6,True
+3086,L&T Technology Services,Machine Learning Engineer,1,5.3,4.4,7.0,6,True
+3394,Sysark,Machine Learning Engineer,1,3.7,3.1,4.5,6,True
+7499,Lucida Technologies,Machine Learning Engineer,1,3.6,3.3,4.3,6,True
+7243,Ignitarium Technology Solutions,Machine Learning Engineer,0,5.8,5.0,7.0,6,True
+2489,Oracle,Machine Learning Engineer,1,20.7,20.0,22.0,6,True
+6012,Samsung,Machine Learning Engineer,0,16.8,14.0,21.5,6,True
+8657,Sri Ayyan Kendra Vidyalaya International School,Machine Learning Engineer,1,6.1,2.3,10.0,5,True
+6584,Reflections Info Systems,Machine Learning Engineer,1,3.6,3.0,4.5,5,True
+6406,Qualitas Technologies,Machine Learning Engineer,1,4.7,2.8,7.0,5,True
+3804,Allstate,Machine Learning Engineer,5,12.1,11.2,13.0,5,True
+1576,Barclays,Machine Learning Engineer,3,19.4,9.0,29.1,5,True
+2744,Ericsson,Machine Learning Engineer,2,11.9,6.2,18.5,5,True
+5013,Confidential,Machine Learning Engineer,1,7.4,5.9,9.0,5,True
+3456,Taglr Technologies,Machine Learning Engineer,0,6.3,4.5,10.0,5,True
+6525,Takvaviya Analytics,Machine Learning Engineer,1,4.8,4.2,5.3,5,True
+1304,AAIC Technologies,Machine Learning Engineer,0,9.1,6.0,14.8,5,True
+2171,CIMCON Software,Machine Learning Engineer,2,6.6,3.0,10.0,5,True
+6484,Siemens,Machine Learning Engineer,3,11.7,6.0,16.0,5,True
+1122,Fractal Analytics,Machine Learning Engineer,4,19.4,15.0,25.0,5,True
+6142,Metagogy Learning Systems,Machine Learning Engineer,0,3.7,3.0,4.2,5,True
+1869,EEGRAB,Machine Learning Engineer,1,5.1,3.5,7.2,5,True
+7698,Digitalmain,Machine Learning Engineer,1,4.4,3.0,5.8,5,True
+5256,Danaher,Machine Learning Engineer,6,24.8,24.0,26.0,5,True
+1064,Phenom,Machine Learning Engineer,1,12.6,9.0,16.0,5,True
+4348,Orange Business Services,Machine Learning Engineer,5,16.1,15.0,18.0,4,True
+5584,Calsoft,Machine Learning Engineer,1,10.9,6.0,25.0,4,True
+1151,Hewlett-Packard Enterprise,Machine Learning Engineer,2,23.3,7.0,40.0,4,True
+5171,Datamatics Global Services,Machine Learning Engineer,1,5.1,3.1,8.0,4,True
+4016,Techolution,Machine Learning Engineer,4,10.0,7.0,14.0,4,True
+8875,Intel,Machine Learning Engineer,1,14.4,10.5,16.1,4,True
+6274,Accenture,Data Architect,8,24.6,15.8,33.0,55,True
+6618,TCS,Data Architect,8,19.9,13.0,30.0,49,True
+2337,Fiserv,Data Architect,3,11.2,8.4,18.4,47,True
+2022,IBM,Data Architect,10,19.6,13.5,29.0,44,True
+4135,Cognizant,Data Architect,10,19.6,15.0,25.5,42,True
+3034,Wipro,Data Architect,8,20.2,13.0,27.5,29,True
+6142,Globant,Data Architect,4,21.2,15.5,32.0,21,True
+1839,Capgemini,Data Architect,10,22.6,16.0,32.0,19,True
+3084,Tech Mahindra,Data Architect,13,17.3,11.2,25.0,12,True
+8450,HCL Technologies,Data Architect,13,23.1,16.6,31.0,10,True
+8451,UST,Data Architect,9,26.8,16.0,45.0,9,True
+1314,Adobe,Data Architect,9,32.6,30.0,37.0,8,True
+2672,Cgi Group,Data Architect,8,23.9,17.0,30.6,8,True
+7853,Infosys,Data Architect,13,19.8,11.9,32.0,8,True
+1848,JP Morgan Chase,Data Architect,8,35.1,27.0,45.0,8,True
+8820,Genpact,Data Architect,7,26.1,15.0,37.0,7,True
+8211,Ernst & Young,Data Architect,8,23.5,20.0,27.7,6,True
+3608,Deloitte,Data Architect,11,27.6,21.2,32.3,6,True
+2239,PepsiCo,Data Architect,10,33.6,26.1,49.0,6,True
+3202,Anthology,Data Architect,11,25.5,25.0,26.3,6,True
+1941,DXC Technology,Data Architect,14,19.8,15.5,24.0,5,True
+4478,Atos,Data Architect,12,22.8,17.2,35.7,5,True
+8902,ValueLabs,Data Architect,9,22.5,21.0,26.7,5,True
+4813,Barclays,Data Architect,15,30.4,30.0,30.7,5,True
+2588,Ericsson,Data Architect,8,17.5,12.8,26.5,5,True
+7967,Vodafone Idea,Data Architect,10,25.8,21.3,30.0,5,True
+6303,IQVIA,Data Architect,8,28.6,25.0,34.0,5,True
+3861,Amdocs,Data Architect,5,12.5,9.9,16.1,5,True
+7616,Mindtree,Data Architect,10,20.5,17.5,23.0,5,True
+7678,Mphasis,Data Architect,13,20.9,14.0,32.0,5,True
+1377,PwC,Data Architect,8,21.6,13.0,32.0,5,True
+5109,Happiest Minds Technologies,Data Architect,12,27.6,26.5,29.0,4,True
+5994,Shell,Data Architect,14,35.7,33.6,38.0,4,True
+6714,Fidelity International,Data Architect,8,50.6,23.4,93.0,4,True
+2842,Maveric Systems,Data Architect,9,19.0,19.0,19.0,4,True
+5485,Webhelp,Data Architect,5,12.0,7.5,18.0,4,True
+3847,Bajaj Finserv,Data Architect,6,33.1,19.0,42.5,4,True
+1379,GlobalLogic,Data Architect,10,25.5,22.7,28.5,4,True
+1999,L&T Infotech,Data Architect,11,24.8,20.5,33.5,4,True
+7143,Ab Inbev,Data Architect,14,29.8,26.1,31.0,4,True
+1125,Automatic Data Processing,Data Architect,7,36.5,14.0,102.0,4,True
+5862,Brillio,Data Architect,14,28.3,25.0,38.0,4,True
+3083,Whishworks It Consulting,Data Architect,13,29.8,20.0,37.0,4,True
+1459,ITC Infotech India,Data Architect,12,29.0,19.8,40.0,4,True
+8528,IVY Comptech,Data Architect,12,21.8,17.0,29.0,4,True
+3456,Collabera Technologies,Data Architect,8,17.0,12.0,23.1,4,True
+7737,Coforge,Data Architect,7,27.1,18.5,39.0,4,True
+5920,Hitachi,Data Architect,21,40.0,25.0,50.0,3,True
+8388,GE Power,Data Architect,7,16.7,14.9,19.0,3,True
+1385,T-Systems,Data Architect,16,33.3,33.0,34.0,3,True

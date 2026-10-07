@@ -1,0 +1,6 @@
+personality_trait,rf_feature_importance,lr_coefficient,correlation_with_success
+conscientiousness,0.37,0.247,0.68
+openness_to_experience,0.319,0.267,0.671
+agreeableness,0.15,0.079,0.293
+extraversion,0.138,0.112,0.494
+neuroticism,0.023,0.121,-0.006

@@ -1,0 +1,6 @@
+skill,rf_feature_importance,lr_coefficient,lr_odds_ratio,correlation_with_hike
+dashboard_and_storytelling_skills,0.354,1.186,3.274,0.554
+maths-stats_skills,0.248,1.451,4.269,0.524
+ai_and_ml_skills,0.171,1.042,2.836,0.405
+coding_skills,0.148,0.59,1.803,0.444
+big_data_skills,0.079,0.753,2.124,0.112

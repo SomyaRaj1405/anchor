@@ -26,6 +26,7 @@ from fastapi.responses import JSONResponse
 from starlette.exceptions import HTTPException as StarletteHTTPException
 
 from app.schemas import (
+    ErrorBody,
     ErrorCode,
     ErrorDetail,
     ErrorResponse,
@@ -72,11 +73,11 @@ async def validation_exception_handler(request: Request, exc: RequestValidationE
     return JSONResponse(
         status_code=status.HTTP_422_UNPROCESSABLE_ENTITY,
         content=ErrorResponse(
-            error={
-                "code": ErrorCode.VALIDATION_ERROR,
-                "message": "Invalid request",
-                "details": details,
-            }
+            error=ErrorBody(
+                code=ErrorCode.VALIDATION_ERROR,
+                message="Invalid request",
+                details=details,
+            )
         ).model_dump(),
     )
 
@@ -87,11 +88,11 @@ async def http_exception_handler(request: Request, exc: StarletteHTTPException):
     return JSONResponse(
         status_code=exc.status_code,
         content=ErrorResponse(
-            error={
-                "code": code,
-                "message": str(exc.detail),
-                "details": [],
-            }
+            error=ErrorBody(
+                code=code,
+                message=str(exc.detail),
+                details=[],
+            )
         ).model_dump(),
     )
 
@@ -101,11 +102,11 @@ async def unhandled_exception_handler(request: Request, exc: Exception):
     return JSONResponse(
         status_code=status.HTTP_500_INTERNAL_SERVER_ERROR,
         content=ErrorResponse(
-            error={
-                "code": ErrorCode.INTERNAL_ERROR,
-                "message": "Internal server error",
-                "details": [],
-            }
+            error=ErrorBody(
+                code=ErrorCode.INTERNAL_ERROR,
+                message="Internal server error",
+                details=[],
+            )
         ).model_dump(),
     )
 
